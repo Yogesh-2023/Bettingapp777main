@@ -1,0 +1,921 @@
+{
+  "@@locale": "te",
+  "chooseLanguage": "భాషను ఎంచుకోండి",
+  "skip": "దాటవేయి",
+  "continueButton": "కొనసాగించు",
+  "english": "English",
+  "hindi": "हिंदी",
+  "bengali": "Bengali",
+  "marathi": "Marathi",
+  "telugu": "Telugu",
+  "tamil": "Tamil",
+  "welcomeTo": "స్వాగతం",
+  "indiasBestSattaMatka": "భారతదేశంలోని ఉత్తమ సట్టా మట్కా అప్లికేషన్\nమీకు స్వాగతం !!!",
+  "phoneNumber": "ఫోన్ నంబర్",
+  "enterPhoneNumber": "ఫోన్ నంబర్ నమోదు చేయండి",
+  "next": "తరువాత",
+  "trustedBy1LakhUsers": "1 లక్ష మంది వినియోగదారులచే నమ్మకమైనది",
+  "mobileNumberRequired": "మొబైల్ నంబర్ అవసరం",
+  "enterValid10DigitMobile": "చెల్లుబాటు అయ్యే 10 అంకెల మొబైల్ నంబర్ నమోదు చేయండి",
+  "serverError": "సర్వర్ లోపం: {statusCode}",
+  "requestTimedOut": "అభ్యర్థన సమయం ముగిసింది. ఇంటర్నెట్ తనిఖీ చేయండి.",
+  "somethingWentWrong": "ఏదో తప్పు జరిగింది.",
+  "home": "హోమ్",
+  "myBids": "నా బిడ్డింగ్",
+  "mpin": "ఎమ్-పిన్",
+  "passbook": "పాస్‌బుక్",
+  "funds": "ఫండ్‌లు",
+  "videos": "వీడియోలు",
+  "gameRates": "గేమ్ రేట్లు",
+  "charts": "చార్ట్‌లు",
+  "settings": "సెట్టింగ్‌లు",
+  "shareApplication": "అప్లికేషన్ షేర్ చేయండి",
+  "logout": "లాగ్అవుట్",
+  "kingStarline": "కింగ్ స్టార్‌లైన్",
+  "kingJackpot": "కింగ్ జాక్‌పాట్",
+  "playGame": "గేమ్ ఆడండి",
+  "openBid": "తెరిచిన బిడ్",
+  "bettingIsRunning": "బెట్టింగ్ నడుస్తోంది",
+  "closeBid": "మూసిన బిడ్",
+  "marketClosed": "మార్కెట్ మూసివేయబడింది",
+  "openBids": "తెరిచిన బిడ్‌లు:",
+  "closeBids": "మూసిన బిడ్‌లు:",
+  "errorLoadingData": "డేటా లోడ్ చేయడంలో లోపం.",
+  "noGameDataAvailable": "గేమ్ డేటా అందుబాటులో లేదు.",
+  "notificationSettings": "నోటిఫికేషన్ సెట్టింగ్‌లు",
+  "mainNotification": "ప్రధాన నోటిఫికేషన్",
+  "gameNotification": "గేమ్ నోటిఫికేషన్",
+  "kingStarlineNotification": "కింగ్ స్టార్‌లైన్ నోటిఫికేషన్",
+  "kingJackpotNotification": "కింగ్ జాక్‌పాట్ నోటిఫికేషన్",
+  "languageSettings": "భాషా సెట్టింగ్‌లు",
+  "ok": "సరే",
+  "closedForToday": "ఈ రోజు మూసివేయబడింది",
+  "bidTime": "బిడ్ సమయం :",
+  "bidResultTime": "బిడ్ ఫలితం సమయం :",
+  "paymentSuccess": "చెల్లింపు విజయం",
+  "done": "పూర్తయింది",
+  "accountRecovery": "ఖాతా పునరుద్ధరణ",
+  "accountRecoveryMessage": "కొత్త MPIN సెట్ చేయడం ద్వారా మీ ఇప్పటికే ఉన్న ఖాతాను పునరుద్ధరించండి\n\nమీరు కొనసాగించాలనుకుంటున్నారా?",
+  "recover": "పునరుద్ధరించు",
+  "walletFundHistoryNotAvailable": "వాలెట్ ఫండ్ హిస్టరీ అందుబాటులో లేదు",
+  "termsAndConditions": "నిబంధనలు మరియు షరతులు",
+  "minimumWithdrawAmount": "కనీస విత్‌డ్రా మొత్తం 1000 ₹",
+  "maximumWithdrawAmount": "మరియు గరిష్ఠ విత్‌డ్రా మొత్తం 500000",
+  "above5LakhManualRequest": "5 లక్షలకు పైగా మీరు మాన్యువల్‌గా మాకు అభ్యర్థించాలి.",
+  "withdrawRequestTiming": "విత్‌డ్రా అభ్యర్థన సమయం ఉదయం 09:00 నుండి రాత్రి 10:00 వరకు",
+  "processTime": "ప్రాసెస్ సమయం కనీసం 1 గంట గరిష్ఠంగా 72 గంటలు.",
+  "withdrawAvailableAllDays": "విత్‌డ్రా వారంలోని అన్ని 7 రోజులలో అందుబాటులో ఉంది.",
+  "accept": "అంగీకరించు",
+  "addFund": "ఫండ్ జోడించు",
+  "addMoney": "డబ్బు జోడించు",
+  "availableBalance": "అందుబాటులో ఉన్న బ్యాలెన్స్",
+  "enterAmount": "మొత్తం నమోదు చేయండి",
+  "addPointUpi": "పాయింట్ జోడించు - UPI",
+  "addPointQrPaytmGateway": "పాయింట్ జోడించు - QR - PAYTM - GATEWAY",
+  "howToAddPoint": "పాయింట్ ఎలా జోడించాలి",
+  "pleaseContactSupportToKnowHowToAddPoint": "పాయింట్ ఎలా జోడించాలో తెలుసుకోవడానికి దయచేసి సపోర్ట్‌ని సంప్రదించండి.",
+  "selectUpiApp": "UPI అప్‌ని ఎంచుకోండి",
+  "upiApp": "UPI అప్",
+  "addFunds": "ఫండ్‌లను జోడించు",
+  "upiPayeeDetailsNotConfigured": "UPI పొందేవారి వివరాలు కాన్ఫిగర్ చేయబడలేదు.",
+  "invalidUpiIdFormat": "చెల్లని UPI ID ఫార్మాట్",
+  "pleaseEnterValidAmountMin": "దయచేసి చెల్లుబాటు అయ్యే మొత్తాన్ని నమోదు చేయండి (కనీసం ₹{amount}).",
+  "noUpiAppsFound": "UPI అప్‌లు కనుగొనబడలేదు. కొనసాగడానికి దయచేసి UPI అప్‌ని ఇన్‌స్టాల్ చేయండి.",
+  "paymentFailedOrCancelled": "చెల్లింపు విఫలమైంది లేదా రద్దు చేయబడింది.",
+  "errorOccurredDuringUpiPayment": "UPI చెల్లింపు సమయంలో లోపం సంభవించింది: {error}",
+  "rangeErrorOccurredDuringUpiPayment": "UPI చెల్లింపు సమయంలో RangeError సంభవించింది. దయచేసి మళ్లీ ప్రయత్నించండి.",
+  "failedToLaunchUpiApp": "ఊహించని లోపం కారణంగా UPI అప్‌ని ప్రారంభించడంలో విఫలమైంది.",
+  "invalidServerResponse": "చెల్లని సర్వర్ ప్రతిస్పందన (paymentHash/timestamp లేదు).",
+  "depositSuccessfulAndUpdated": "డిపాజిట్ విజయవంతమైంది మరియు నవీకరించబడింది",
+  "failedToAddDepositFund": "డిపాజిట్ ఫండ్ జోడించడంలో విఫలమైంది",
+  "failedToCreateFundRequest": "ఫండ్ అభ్యర్థన సృష్టించడంలో విఫలమైంది (HTTP {code})",
+  "failedToCompletePaymentProcess": "చెల్లింపు ప్రక్రియ పూర్తి చేయడంలో విఫలమైంది: {error}",
+  "pleaseEnterValidAmount": "దయచేసి చెల్లుబాటు అయ్యే మొత్తాన్ని నమోదు చేయండి.",
+  "pleaseEnterAmountGreaterThanOrEqual": "దయచేసి ₹{amount} కంటే ఎక్కువ లేదా సమానమైన మొత్తాన్ని నమోదు చేయండి.",
+  "invalidMobileNumberFound": "చెల్లని మొబైల్ నంబర్ కనుగొనబడింది.",
+  "paymentLinkNotFoundInResponse": "ప్రతిస్పందనలో చెల్లింపు లింక్ కనుగొనబడలేదు.",
+  "failedToCreateTransactionLink": "లావాదేవీ లింక్ సృష్టించడంలో విఫలమైంది.",
+  "error": "లోపం: {error}",
+  "bankDetails": "బ్యాంక్ వివరాలు",
+  "accountHolderName": "ఖాతా హోల్డర్ పేరు",
+  "accountNumber": "ఖాతా నంబర్",
+  "enterAccountNumber": "ఖాతా నంబర్ నమోదు చేయండి",
+  "ifscCode": "IFSC కోడ్",
+  "bankName": "బ్యాంక్ పేరు",
+  "enterBankName": "బ్యాంక్ పేరు నమోదు చేయండి",
+  "branchName": "శాఖ పేరు",
+  "enterBranchName": "శాఖ పేరు నమోదు చేయండి",
+  "addBank": "బ్యాంక్ జోడించు",
+  "fundDepositHistory": "ఫండ్ డిపాజిట్ హిస్టరీ",
+  "narration": "వివరణ",
+  "withdrawFunds": "విత్‌డ్రా ఫండ్‌లు",
+  "depositHistory": "డిపాజిట్ హిస్టరీ",
+  "withdrawHistory": "విత్‌డ్రా హిస్టరీ",
+  "fundWithdrawHistory": "ఫండ్ విత్‌డ్రా హిస్టరీ",
+  "withdrawMode": "విత్‌డ్రా మోడ్",
+  "upiId": "UPI ID",
+  "acHolder": "ఖాతా హోల్డర్",
+  "acNo": "ఖాతా నం.",
+  "manualApproveByAdmin": "అడ్మిన్ ద్వారా మాన్యువల్ ఆమోదం",
+  "enterGooglePayUpiId": "Google Pay UPI ID నమోదు చేయండి",
+  "enterPhonepeUpiId": "PhonePe UPI ID నమోదు చేయండి",
+  "enterPaytmNumber": "Paytm నంబర్ నమోదు చేయండి",
+  "enterUpiIdNumber": "UPI ID/నంబర్ నమోదు చేయండి",
+  "pleaseLoginAgainToContinue": "దయచేసి కొనసాగించడానికి మళ్లీ లాగిన్ చేయండి.",
+  "minimumWithdrawalAmountIs": "కనీస విత్‌డ్రా మొత్తం ₹{amount}.",
+  "pleaseEnterGooglePayUpiId": "దయచేసి Google Pay UPI ID నమోదు చేయండి.",
+  "pleaseEnterPhonepeUpiId": "దయచేసి PhonePe UPI ID నమోదు చేయండి.",
+  "pleaseEnterPaytmNumber": "దయచేసి Paytm నంబర్ నమోదు చేయండి.",
+  "pleaseFillAllBankDetails": "దయచేసి అన్ని బ్యాంక్ వివరాలను నింపండి.",
+  "pleaseSelectWithdrawalMethod": "దయచేసి విత్‌డ్రా పద్ధతిని ఎంచుకోండి.",
+  "withdrawalRequestSubmittedSuccessfully": "విత్‌డ్రా అభ్యర్థన విజయవంతంగా సమర్పించబడింది!",
+  "withdrawalRequestFailed": "విత్‌డ్రా అభ్యర్థన విఫలమైంది.",
+  "anErrorOccurred": "లోపం సంభవించింది: {error}",
+  "jackpotDashboard": "జాక్‌పాట్ డాష్‌బోర్డ్",
+  "history": "చరిత్ర",
+  "notifications": "నోటిఫికేషన్‌లు",
+  "jodi": "జోడీ",
+  "closed": "మూసివేయబడింది",
+  "running": "నడుస్తోంది",
+  "noJackpotBidTypesAvailable": "జాక్‌పాట్ బిడ్ రకాలు అందుబాటులో లేవు లేదా లోడ్ చేయడంలో విఫలమైంది.",
+  "theMarketFor": "కోసం మార్కెట్",
+  "isCurrentlyClosed": "ప్రస్తుతం మూసివేయబడింది.",
+  "authenticationErrorPleaseLoginAgain": "ప్రామాణీకరణ లోపం: దయచేసి మళ్లీ లాగిన్ చేయండి.",
+  "failedToLoadJackpotBidTypes": "జాక్‌పాట్ బిడ్ రకాలను లోడ్ చేయడంలో విఫలమైంది:",
+  "noScreenConfiguredForGameType": "గేమ్ రకానికి స్క్రీన్ కాన్ఫిగర్ చేయబడలేదు:",
+  "networkErrorPleaseTryAgainLater": "నెట్‌వర్క్ లోపం. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.",
+  "failedToLoadGames": "గేమ్‌లను లోడ్ చేయడంలో విఫలమైంది",
+  "createAccount": "ఖాతా సృష్టించండి",
+  "enterYourDetails": "మీ వివరాలను నమోదు చేయండి",
+  "enterUsername": "వినియోగదారు పేరు నమోదు చేయండి",
+  "enterPassword": "పాస్‌వర్డ్ నమోదు చేయండి",
+  "confirmPassword": "పాస్‌వర్డ్ నిర్ధారించండి",
+  "pleaseEnterUsername": "దయచేసి వినియోగదారు పేరు నమోదు చేయండి",
+  "pleaseEnterPassword": "దయచేసి పాస్‌వర్డ్ నమోదు చేయండి",
+  "passwordMustBeAtLeast6Characters": "పాస్‌వర్డ్ కనీసం 6 అక్షరాలుగా ఉండాలి",
+  "passwordsDoNotMatch": "పాస్‌వర్డ్‌లు సరిపోలలేదు",
+  "verifyMobileNumber": "మొబైల్ నంబర్\nధృవీకరించండి",
+  "enterPasswordLabel": "పాస్‌వర్డ్ నమోదు చేయండి",
+  "toCompleteRegistrationFor": "నమోదును పూర్తి చేయడానికి\n",
+  "enterYourAccountPassword": "మీ ఖాతా పాస్‌వర్డ్ నమోదు చేయండి.",
+  "enterYourPassword": "మీ పాస్‌వర్డ్ నమోదు చేయండి",
+  "verify": "ధృవీకరించండి",
+  "missingDataRestartRegistration": "డేటా లేదు. నమోదును మళ్లీ ప్రారంభించండి.",
+  "errorVerifyingPassword": "పాస్‌వర్డ్ ధృవీకరించడంలో లోపం",
+  "registrationFailed": "నమోదు విఫలమైంది",
+  "noNotificationsFound": "అధిసూచనలు కనుగొనబడలేదు.",
+  "pleaseEnterAnAmountFirst": "దయచేసి మొదట మొత్తాన్ని నమోదు చేయండి.",
+  "pointsMustBeBetween10And1000": "పాయింట్‌లు 10 మరియు 1000 మధ్య ఉండాలి.",
+  "bidForDigitUpdated": "అంకె {digit} ({type}) కోసం బిడ్ {points} పాయింట్‌లకు నవీకరించబడింది.",
+  "@bidForDigitUpdated": {
+    "description": "Bid updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidForDigit": "అంకెకు బిడ్ జోడించబడింది: {digit}, మొత్తం: {amount}",
+  "@addedBidForDigit": {
+    "description": "Added bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsPlacedYetClickNumber": "ఇంకా బిడ్‌లు ఉంచబడలేదు. బిడ్ జోడించడానికి సంఖ్యపై క్లిక్ చేయండి!",
+  "bidsSubmittedSuccessfully": "బిడ్‌లు విజయవంతంగా సమర్పించబడ్డాయి!",
+  "removedBidForDigit": "అంకెకు బిడ్ తీసివేయబడింది: {digit}, మొత్తం: {amount}.",
+  "@removedBidForDigit": {
+    "description": "Removed bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameTypeColon": "గేమ్ రకాన్ని ఎంచుకోండి:",
+  "enterPointsColon": "పాయింట్‌లు నమోదు చేయండి:",
+  "loginWithMpin": "MPINతో లాగిన్ చేయండి",
+  "mpinHint": "MPIN",
+  "login": "లాగిన్",
+  "forgotMpin": "MPIN మర్చిపోయారా?",
+  "biometricAuthenticationNotAvailable": "బయోమెట్రిక్ ప్రామాణీకరణ అందుబాటులో లేదు లేదా మద్దతు లేదు",
+  "scanYourFingerprintToVerify": "ధృవీకరించడానికి మీ వేలిముద్రను స్కాన్ చేయండి",
+  "biometricAuthenticationFailed": "బయోమెట్రిక్ ప్రామాణీకరణ విఫలమైంది",
+  "biometricError": "బయోమెట్రిక్ లోపం: {error}",
+  "@biometricError": {
+    "description": "Biometric error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterYourMpin": "దయచేసి మీ MPIN నమోదు చేయండి",
+  "registrationIdNotFoundPleaseReregister": "నమోదు ID కనుగొనబడలేదు. దయచేసి మళ్లీ నమోదు చేయండి.",
+  "accessTokenNotFoundPleaseRelogin": "ఆక్సెస్ టోకెన్ కనుగొనబడలేదు. దయచేసి మళ్లీ లాగిన్ చేయండి.",
+  "loginSuccessful": "లాగిన్ విజయవంతమైంది!",
+  "failedToVerifyMpinPleaseTryAgainLater": "MPIN ధృవీకరించడంలో విఫలమైంది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.",
+  "errorOccurredDuringMpinVerification": "MPIN ధృవీకరణ సమయంలో లోపం సంభవించింది: {error}",
+  "@errorOccurredDuringMpinVerification": {
+    "description": "MPIN verification error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "invalidMpin": "చెల్లని MPIN",
+  "pleaseEnterCorrectMpin": "దయచేసి సరైన MPIN నమోదు చేయండి",
+  "setYourPin": "మీ PIN సెట్ చేయండి",
+  "enterNewMpin": "కొత్త mPin నమోదు చేయండి",
+  "enter4DigitMpin": "4 అంకెల mPin నమోదు చేయండి",
+  "setPin": "PIN సెట్ చేయండి",
+  "pleaseEnterValid4DigitPin": "దయచేసి చెల్లుబాటు అయ్యే 4 అంకెల PIN నమోదు చేయండి",
+  "somethingWentWrongWithError": "ఏదో తప్పు జరిగింది: {error}",
+  "@somethingWentWrongWithError": {
+    "description": "Something went wrong error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "changeNewMpin": "కొత్త MPIN మార్చండి",
+  "enter4DigitPin": "4 అంకెల PIN నమోదు చేయండి",
+  "errorWithPlaceholder": "లోపం: {error}",
+  "@errorWithPlaceholder": {
+    "description": "Error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "couldNotLaunchUrl": "URL ప్రారంభించలేకపోయింది: {url}",
+  "@couldNotLaunchUrl": {
+    "description": "Could not launch URL error message",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "single": "సింగిల్",
+  "singlePanna": "సింగిల్ పన్నా",
+  "doublePanna": "డబుల్ పన్నా",
+  "triplePanna": "ట్రిపుల్ పన్నా",
+  "gameWinRatioForAllBids": "అన్ని బిడ్‌లకు గేమ్ విజయ నిష్పత్తి",
+  "starlineWinRatioForAllBids": "అన్ని బిడ్‌లకు స్టార్‌లైన్ విజయ నిష్పత్తి",
+  "jackpotWinRatio": "జాక్‌పాట్ విజయ నిష్పత్తి",
+  "rateFormat": "{label}: 10 క {value}",
+  "@rateFormat": {
+    "description": "Game rate format string",
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToLoadGameRates": "గేమ్ రేట్‌లను లోడ్ చేయడంలో విఫలమైంది: {statusCode}",
+  "@failedToLoadGameRates": {
+    "description": "Failed to load game rates error message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "youCanWithdrawBetween": "మీరు {startTime} మరియు {endTime} మధ్య ఉపసంహరణ చేయవచ్చు.",
+  "@youCanWithdrawBetween": {
+    "description": "Withdrawal time window message",
+    "placeholders": {
+      "startTime": {
+        "type": "String"
+      },
+      "endTime": {
+        "type": "String"
+      }
+    }
+  },
+  "enterJodi": "జోడీ నమోదు చేయండి:",
+  "@enterJodi": {
+    "description": "Enter jodi label"
+  },
+  "enterJodiHint": "జోడీ నమోదు చేయండి",
+  "@enterJodiHint": {
+    "description": "Enter jodi hint"
+  },
+  "bidForJodiAddedSuccessfully": "Jodi {jodi} కోసం బిడ్ విజయవంతంగా జోడించబడింది!",
+  "@bidForJodiAddedSuccessfully": {
+    "description": "Bid for Jodi added successfully message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "bidFailed": "బిడ్ విఫలమైంది.",
+  "submitBid": "బిడ్ సమర్పించండి",
+  "totalBidsWithCount": "మొత్తం బిడ్‌లు:\n{count}",
+  "@totalBidsWithCount": {
+    "description": "Total bids label with count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "jodi": "Jodi",
+  "singleDigit": "Single Digit",
+  "singlePana": "Single Pana",
+  "doublePana": "Double Pana",
+  "triplePana": "Triple Pana",
+  "choiceSpDpTp": "Choice SP DP TP",
+  "spMotor": "SP Motor",
+  "dpMotor": "DP Motor",
+  "tpMotor": "TP Motor",
+  "fullSangam": "Full Sangam",
+  "halfSangam": "Half Sangam",
+  "singleDigitsBulk": "Single Digits Bulk",
+  "jodiBulk": "Jodi Bulk",
+  "singlePanaBulk": "Single Pana Bulk",
+  "doublePanaBulk": "Double Pana Bulk",
+  "addBid": "బిడ్ జోడించండి",
+  "pleaseWaitBidSubmissionInProgress": "దయచేసి వేచి ఉండండి, బిడ్ సమర్పణ పురోగతిలో ఉంది.",
+  "@pleaseWaitBidSubmissionInProgress": {
+    "description": "Please wait bid submission in progress message"
+  },
+  "jodiDigitMustBeExactly2Numbers": "జోడీ అంకె ఖచ్చితంగా 2 సంఖ్యలు ఉండాలి (00-99).",
+  "@jodiDigitMustBeExactly2Numbers": {
+    "description": "Jodi digit must be exactly 2 numbers message"
+  },
+  "jodiMustBeNumberBetween00And99": "జోడీ 00 మరియు 99 మధ్య సంఖ్య ఉండాలి.",
+  "@jodiMustBeNumberBetween00And99": {
+    "description": "Jodi must be number between 00 and 99 message"
+  },
+  "pleaseEnterValidPoints": "దయచేసి చెల్లుబాటు అయ్యే పాయింట్లను నమోదు చేయండి.",
+  "@pleaseEnterValidPoints": {
+    "description": "Please enter valid points message"
+  },
+  "pointsMustBeBetween10And10000": "పాయింట్లు 10 మరియు 10000 మధ్య ఉండాలి.",
+  "@pointsMustBeBetween10And10000": {
+    "description": "Points must be between 10 and 10000 message"
+  },
+  "insufficientWalletBalanceForThisBid": "ఈ బిడ్ కోసం తగినంత వాలెట్ బ్యాలెన్స్ లేదు.",
+  "@insufficientWalletBalanceForThisBid": {
+    "description": "Insufficient wallet balance for this bid message"
+  },
+  "jodiWithPointsAdded": "జోడీ {digit} {points} పాయింట్లతో జోడించబడింది.",
+  "@jodiWithPointsAdded": {
+    "description": "Jodi with points added message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "jodiPointsUpdatedTo": "జోడీ {digit} పాయింట్లు {points}కి నవీకరించబడ్డాయి.",
+  "@jodiPointsUpdatedTo": {
+    "description": "Jodi points updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "cannotRemoveBidWhileSubmissionInProgress": "సమర్పణ పురోగతిలో ఉన్నప్పుడు బిడ్ తీసివేయలేరు.",
+  "@cannotRemoveBidWhileSubmissionInProgress": {
+    "description": "Cannot remove bid while submission in progress message"
+  },
+  "jodiRemoved": "జోడీ {digit} తీసివేయబడింది.",
+  "@jodiRemoved": {
+    "description": "Jodi removed message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "submittingYourBids": "మీ బిడ్లను సమర్పిస్తున్నాము...",
+  "@submittingYourBids": {
+    "description": "Submitting your bids message"
+  },
+  "bidFailedPleaseTryAgain": "బిడ్ విఫలమైంది. దయచేసి మళ్లీ ప్రయత్నించండి.",
+  "@bidFailedPleaseTryAgain": {
+    "description": "Bid failed please try again message"
+  },
+  "networkErrorOrUnexpectedIssue": "నెట్‌వర్క్ లోపం లేదా అనుకోని సమస్య: {error}",
+  "@networkErrorOrUnexpectedIssue": {
+    "description": "Network error or unexpected issue message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "enterPoints": "పాయింట్లు నమోదు చేయండి:",
+  "@enterPoints": {
+    "description": "Enter points label"
+  },
+  "enterAmount": "మొత్తం నమోదు చేయండి",
+  "@enterAmount": {
+    "description": "Enter amount hint"
+  },
+  "enterJodiDigit": "జోడీ అంకె నమోదు చేయండి:",
+  "@enterJodiDigit": {
+    "description": "Enter jodi digit label"
+  },
+  "bidDigits": "బిడ్ అంకెలు",
+  "@bidDigits": {
+    "description": "Bid digits hint"
+  },
+  "digit": "అంకె",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "amount": "మొత్తం",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "gameType": "గేమ్ రకం",
+  "@gameType": {
+    "description": "Game type label"
+  },
+  "points": "పాయింట్లు",
+  "@points": {
+    "description": "Points label"
+  },
+  "enterOpenPanna": "తెరిచిన పన్నా నమోదు చేయండి :",
+  "@enterOpenPanna": {
+    "description": "Enter open panna label"
+  },
+  "enterClosePanna": "మూసిన పన్నా నమోదు చేయండి :",
+  "@enterClosePanna": {
+    "description": "Enter close panna label"
+  },
+  "pannaDigit": "పన్నా - అంకె",
+  "@pannaDigit": {
+    "description": "Panna Digit label"
+  },
+  "noBidsPlaced": "బిడ్స్ ఉంచబడలేదు",
+  "@noBidsPlaced": {
+    "description": "No bids placed message"
+  },
+  "enterOpenDigit": "తెరిచిన అంకె నమోదు చేయండి :",
+  "@enterOpenDigit": {
+    "description": "Enter open digit label"
+  },
+  "ank": "అంకె",
+  "@ank": {
+    "description": "Ank label"
+  },
+  "pana": "పన్నా",
+  "@pana": {
+    "description": "Pana label"
+  },
+  "pannaAnk": "పన్నా - అంకె",
+  "@pannaAnk": {
+    "description": "Panna Ank label"
+  },
+  "noBidsAddedYet": "ఇంకా బిడ్స్ జోడించబడలేదు",
+  "@noBidsAddedYet": {
+    "description": "No bids added yet message"
+  },
+  "half": "సగం",
+  "@half": {
+    "description": "Half bracket type label"
+  },
+  "full": "పూర్తి",
+  "@full": {
+    "description": "Full bracket type label"
+  },
+  "leftDigit": "ఎడమ అంకె",
+  "@leftDigit": {
+    "description": "Left digit label"
+  },
+  "rightDigit": "కుడి అంకె",
+  "@rightDigit": {
+    "description": "Right digit label"
+  },
+  "digits": "అంకెలు",
+  "@digits": {
+    "description": "Digits label"
+  },
+  "enterTwoDigits": "రెండు అంకెలు నమోదు చేయండి:",
+  "@enterTwoDigits": {
+    "description": "Enter two digits label"
+  },
+  "totalColon": "మొత్తం:",
+  "@totalColon": {
+    "description": "Total label with colon"
+  },
+  "enterNumber": "సంఖ్య నమోదు చేయండి:",
+  "@enterNumber": {
+    "description": "Enter number label"
+  },
+  "enterNumberHint": "సంఖ్య నమోదు చేయండి",
+  "@enterNumberHint": {
+    "description": "Enter number hint"
+  },
+  "enterLeftDigit": "ఎడమ అంకె నమోదు చేయండి",
+  "@enterLeftDigit": {
+    "description": "Enter left digit label"
+  },
+  "enterMiddleDigit": "మధ్య అంకె నమోదు చేయండి",
+  "@enterMiddleDigit": {
+    "description": "Enter middle digit label"
+  },
+  "enterRightDigit": "కుడి అంకె నమోదు చేయండి",
+  "@enterRightDigit": {
+    "description": "Enter right digit label"
+  },
+  "enterSingleDigit": "ఒక అంకె నమోదు చేయండి:",
+  "@enterSingleDigit": {
+    "description": "Enter single digit label"
+  },
+  "enterSingleDigitHint": "ఒక అంకె నమోదు చేయండి",
+  "@enterSingleDigitHint": {
+    "description": "Enter single digit hint"
+  },
+  "enterPanaNumberColon": "పన్నా సంఖ్య నమోదు చేయండి:",
+  "@enterPanaNumberColon": {
+    "description": "Enter pana number label"
+  },
+  "enterPanaExampleHint": "ఉదా., 123, 445",
+  "@enterPanaExampleHint": {
+    "description": "Hint text for pana input field"
+  },
+  "easyMode": "సులభ మోడ్",
+  "@easyMode": {
+    "description": "Easy mode label"
+  },
+  "specialMode": "ప్రత్యేక మోడ్",
+  "@specialMode": {
+    "description": "Special mode label"
+  },
+  "enterSinglePanna": "సింగిల్ పన్నా నమోదు చేయండి:",
+  "@enterSinglePanna": {
+    "description": "Enter single panna label"
+  },
+  "bidPanna": "బిడ్ పన్నా",
+  "@bidPanna": {
+    "description": "Bid panna hint"
+  },
+  "totalPointsColon": "మొత్తం పాయింట్లు:",
+  "@totalPointsColon": {
+    "description": "Total points label with colon"
+  },
+  "biddingIsClosedForThisSlot": "ఈ స్లాట్ కోసం బిడ్డింగ్ మూసివేయబడింది.",
+  "@biddingIsClosedForThisSlot": {
+    "description": "Bidding closed message"
+  },
+  "pleaseFillAllFields": "దయచేసి అన్ని ఫీల్డ్‌లను పూరించండి.",
+  "@pleaseFillAllFields": {
+    "description": "Fill all fields validation"
+  },
+  "pleaseEnterValidSinglePanna": "దయచేసి చెల్లుబాటు అయ్యే సింగిల్ పన్నా సంఖ్యను నమోదు చేయండి.",
+  "@pleaseEnterValidSinglePanna": {
+    "description": "Valid single panna validation"
+  },
+  "updatedAmountForPanna": "పన్నా కోసం నవీకరించబడిన మొత్తం:",
+  "@updatedAmountForPanna": {
+    "description": "Updated amount message"
+  },
+  "addedBidPanna": "బిడ్ జోడించబడింది: పన్నా",
+  "@addedBidPanna": {
+    "description": "Added bid message"
+  },
+  "pleaseAddAtLeastOneBidToConfirm": "దయచేసి నిర్ధారించడానికి కనీసం ఒక బిడ్ జోడించండి.",
+  "@pleaseAddAtLeastOneBidToConfirm": {
+    "description": "Add at least one bid message"
+  },
+  "insufficientWalletBalanceForAllBids": "అన్ని బిడ్‌లకు సరిపడని వాలెట్ బ్యాలెన్స్.",
+  "@insufficientWalletBalanceForAllBids": {
+    "description": "Insufficient balance for all bids"
+  },
+  "noValidBidsForSelectedGameType": "ఎంచుకున్న గేమ్ రకానికి చెల్లుబాటు అయ్యే బిడ్‌లు లేవు.",
+  "@noValidBidsForSelectedGameType": {
+    "description": "No valid bids message"
+  },
+  "and": "మరియు",
+  "@and": {
+    "description": "And conjunction"
+  },
+  "enter3DigitNumber": "3-అంకెల సంఖ్యను నమోదు చేయండి",
+  "@enter3DigitNumber": {
+    "description": "Enter 3 digit number label"
+  },
+  "enter3DigitNumberColon": "3-అంకెల సంఖ్యను నమోదు చేయండి:",
+  "@enter3DigitNumberColon": {
+    "description": "Enter 3 digit number label with colon"
+  },
+  "enter3DigitTriplePanna": "3-అంకెల ట్రిపుల్ పన్నా నమోదు చేయండి",
+  "@enter3DigitTriplePanna": {
+    "description": "Enter 3 digit triple panna hint"
+  },
+  "pointsLabel": "పాయింట్లు",
+  "@pointsLabel": {
+    "description": "Points label"
+  },
+  "removeThisBidTypeSet": "ఈ {bidType} సెట్‌ను తీసివేయండి",
+  "@removeThisBidTypeSet": {
+    "description": "Remove bid type set tooltip",
+    "placeholders": {
+      "bidType": {
+        "type": "String"
+      }
+    }
+  },
+  "submit": "సమర్పించండి",
+  "@submit": {
+    "description": "Submit button"
+  },
+  "quit": "నిష్క్రమించండి",
+  "@quit": {
+    "description": "Quit dialog title"
+  },
+  "areYouSureYouWantToQuitTheApp": "మీరు నిజంగా అప్లికేషన్‌ను నిష్క్రమించాలనుకుంటున్నారా?",
+  "@areYouSureYouWantToQuitTheApp": {
+    "description": "Quit confirmation message"
+  },
+  "yes": "అవును",
+  "@yes": {
+    "description": "Yes button text"
+  },
+  "no": "కాదు",
+  "@no": {
+    "description": "No button text"
+  },
+  "halfSangamA": "హాఫ్ సంగమ్ A",
+  "@halfSangamA": {
+    "description": "Half Sangam A label"
+  },
+  "halfSangamB": "హాఫ్ సంగమ్ B",
+  "@halfSangamB": {
+    "description": "Half Sangam B label"
+  },
+  "sangam": "సంగమ్",
+  "@sangam": {
+    "description": "Sangam label"
+  },
+  "updatedPointsFor": "{sangam} కోసం పాయింట్లను నవీకరించబడింది.",
+  "@updatedPointsFor": {
+    "description": "Updated points message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidWithPoints": "బిడ్ జోడించబడింది: {sangam} {points} పాయింట్లతో.",
+  "@addedBidWithPoints": {
+    "description": "Added bid message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "bidRemovedFromList": "జాబితా నుండి {sangam} కోసం బిడ్ తీసివేయబడింది.",
+  "@bidRemovedFromList": {
+    "description": "Bid removed message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "removedSangam": "{sangam} తీసివేయబడింది.",
+  "@removedSangam": {
+    "description": "Removed sangam message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "addingThisWillExceedWalletBalance": "దీన్ని జోడిస్తే మొత్తం వాలెట్ మించిపోతుంది.",
+  "@addingThisWillExceedWalletBalance": {
+    "description": "Adding will exceed wallet balance message"
+  },
+  "updatedAnkPanna": "నవీకరించబడింది: {ank}-{panna}.",
+  "@updatedAnkPanna": {
+    "description": "Updated ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "addedAnkPannaWithPoints": "జోడించబడింది: {ank}-{panna} — {pts} పాయింట్లు.",
+  "@addedAnkPannaWithPoints": {
+    "description": "Added ank panna with points message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      },
+      "pts": {
+        "type": "String"
+      }
+    }
+  },
+  "removedAnkPanna": "తీసివేయబడింది: {ank}-{panna}.",
+  "@removedAnkPanna": {
+    "description": "Removed ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "openDigitEkHiHonaChahiye": "తెరిచిన అంకె ఒకటే ఉండాలి (0-9).",
+  "@openDigitEkHiHonaChahiye": {
+    "description": "Open digit validation in Hindi"
+  },
+  "openDigit0Se9KeBeechDo": "తెరిచిన అంకె 0 నుండి 9 మధ్య ఇవ్వండి.",
+  "@openDigit0Se9KeBeechDo": {
+    "description": "Open digit range validation in Hindi"
+  },
+  "valid3DigitPannaDo": "చెల్లుబాటు అయ్యే 3-అంకెల పన్నా ఇవ్వండి (ఉదా. 123).",
+  "@valid3DigitPannaDo": {
+    "description": "Panna validation in Hindi"
+  },
+  "pointsMinSe1000KeBeechDo": "పాయింట్లు {min} నుండి 1000 మధ్య ఇవ్వండి.",
+  "@pointsMinSe1000KeBeechDo": {
+    "description": "Points validation in Hindi",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "pleaseEnterValid3DigitOpenPanna": "దయచేసి చెల్లుబాటు అయ్యే 3-అంకెల తెరిచిన పన్నా నమోదు చేయండి.",
+  "@pleaseEnterValid3DigitOpenPanna": {
+    "description": "Please enter valid 3-digit open panna"
+  },
+  "pleaseEnterValid3DigitClosePanna": "దయచేసి చెల్లుబాటు అయ్యే 3-అంకెల మూసిన పన్నా నమోదు చేయండి.",
+  "@pleaseEnterValid3DigitClosePanna": {
+    "description": "Please enter valid 3-digit close panna"
+  },
+  "screenNotMounted": "స్క్రీన్ మౌంట్ చేయబడలేదు.",
+  "@screenNotMounted": {
+    "description": "Screen not mounted error"
+  },
+  "authIssuePleaseLoginAgain": "ప్రామాణీకరణ సమస్య — దయచేసి మళ్లీ లాగిన్ చేయండి.",
+  "@authIssuePleaseLoginAgain": {
+    "description": "Auth issue please login again message"
+  },
+  "noValidBidsToSubmit": "సమర్పించడానికి చెల్లుబాటు అయ్యే బిడ్‌లు లేవు.",
+  "@noValidBidsToSubmit": {
+    "description": "No valid bids message"
+  },
+  "pleaseAddAtLeastOneBidFirst": "దయచేసి ముందుగా కనీసం ఒక బిడ్ జోడించండి.",
+  "@pleaseAddAtLeastOneBidFirst": {
+    "description": "Please add at least one bid first message"
+  },
+  "walletBalanceLow": "వాలెట్ బ్యాలెన్స్ తక్కువ.",
+  "@walletBalanceLow": {
+    "description": "Wallet balance low message"
+  },
+  "enterOpenDigit": "తెరిచిన అంకె నమోదు చేయండి:",
+  "@enterOpenDigit": {
+    "description": "Enter open digit label"
+  },
+  "enterOpenPanna": "తెరిచిన పన్నా నమోదు చేయండి:",
+  "@enterOpenPanna": {
+    "description": "Enter open panna label"
+  },
+  "enterClosePanna": "మూసిన పన్నా నమోదు చేయండి:",
+  "@enterClosePanna": {
+    "description": "Enter close panna label"
+  },
+  "pannaDigit": "పన్నా - అంకె",
+  "@pannaDigit": {
+    "description": "Panna Digit label"
+  },
+  "pannaAnk": "పన్నా - అంకె",
+  "@pannaAnk": {
+    "description": "Panna Ank label"
+  },
+  "noBidsPlaced": "బిడ్‌లు ఉంచబడలేదు",
+  "@noBidsPlaced": {
+    "description": "No bids placed message"
+  },
+  "noBidsAddedYet": "ఇంకా ఏ బిడ్‌లు జోడించబడలేదు",
+  "@noBidsAddedYet": {
+    "description": "No bids added yet message"
+  },
+  "noBidsAdded": "బిడ్‌లు జోడించబడలేదు",
+  "@noBidsAdded": {
+    "description": "No bids added message"
+  },
+  "noEntriesFound": "ప్రవేశాలు కనుగొనబడలేదు.",
+  "@noEntriesFound": {
+    "description": "No entries message"
+  },
+  "date": "తేదీ",
+  "@date": {
+    "description": "Date label"
+  },
+  "time": "సమయం",
+  "@time": {
+    "description": "Time label"
+  },
+  "description": "వివరణ",
+  "@description": {
+    "description": "Description label"
+  },
+  "previousAmount": "మునుపటి మొత్తం",
+  "@previousAmount": {
+    "description": "Previous amount full label"
+  },
+  "prevAmt": "మునుప. మొత్తం",
+  "@prevAmt": {
+    "description": "Previous amount label"
+  },
+  "transactionAmount": "లావాదేవీ మొత్తం",
+  "@transactionAmount": {
+    "description": "Transaction amount full label"
+  },
+  "txnAmt": "లావా. మొత్తం",
+  "@txnAmt": {
+    "description": "Transaction amount label"
+  },
+  "currentAmount": "ప్రస్తుత మొత్తం",
+  "@currentAmount": {
+    "description": "Current amount full label"
+  },
+  "curAmt": "ప్రస్తుత మొత్తం",
+  "@curAmt": {
+    "description": "Current amount label"
+  },
+  "prev": "మునుపటి",
+  "@prev": {
+    "description": "Previous button text (short)"
+  },
+  "nextPage": "తరువాత",
+  "@nextPage": {
+    "description": "Next page button"
+  },
+  "enterYourMobileNumber": "మీ మొబైల్ నంబర్ నమోదు చేయండి",
+  "@enterYourMobileNumber": {
+    "description": "Enter your mobile number title"
+  },
+  "registerAndLogin": "నమోదు చేయండి మరియు లాగిన్ చేయండి",
+  "@registerAndLogin": {
+    "description": "Register and login button text"
+  },
+  "username": "వినియోగదారు పేరు",
+  "@username": {
+    "description": "Username label/hint"
+  },
+  "password": "పాస్‌వర్డ్",
+  "@password": {
+    "description": "Password label/hint"
+  },
+  "enterValidMobileNumber": "చెల్లుబాటు అయ్యే మొబైల్ నంబర్ నమోదు చేయండి",
+  "@enterValidMobileNumber": {
+    "description": "Enter valid mobile number validation message"
+  },
+  "createNewAccount": "కొత్త ఖాతా సృష్టించండి",
+  "@createNewAccount": {
+    "description": "Create new account title"
+  }
+}
+

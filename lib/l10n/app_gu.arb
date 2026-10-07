@@ -1,0 +1,1321 @@
+{
+  "@@locale": "gu",
+  "chooseLanguage": "ભાષા પસંદ કરો",
+  "skip": "છોડો",
+  "continueButton": "ચાલુ રાખો",
+  "english": "English",
+  "hindi": "हिंदी",
+  "bengali": "Bengali",
+  "marathi": "Marathi",
+  "telugu": "Telugu",
+  "tamil": "Tamil",
+  "welcomeTo": "સ્વાગત છે",
+  "indiasBestSattaMatka": "ભારતની શ્રેષ્ઠ સટ્ટા મટ્કા એપ્લિકેશન\nતમારું સ્વાગત છે !!!",
+  "phoneNumber": "ફોન નંબર",
+  "enterPhoneNumber": "ફોન નંબર દાખલ કરો",
+  "next": "આગળ",
+  "trustedBy1LakhUsers": "1 લાખ વપરાશકર્તાઓ દ્વારા વિશ્વસનીય",
+  "mobileNumberRequired": "મોબાઇલ નંબર જરૂરી છે",
+  "enterValid10DigitMobile": "માન્ય 10 અંકનો મોબાઇલ નંબર દાખલ કરો",
+  "serverError": "સર્વર ભૂલ: {statusCode}",
+  "requestTimedOut": "વિનંતી સમય સમાપ્ત થઈ. ઇન્ટરનેટ તપાસો.",
+  "somethingWentWrong": "કંઈક ખોટું થયું.",
+  "home": "હોમ",
+  "myBids": "મારી બિડ્સ",
+  "mpin": "એમ-પિન",
+  "passbook": "પાસબુક",
+  "funds": "ફંડ",
+  "videos": "વિડિયો",
+  "gameRates": "ગેમ રેટ્સ",
+  "charts": "ચાર્ટ",
+  "settings": "સેટિંગ્સ",
+  "shareApplication": "એપ્લિકેશન શેર કરો",
+  "logout": "લૉગઆઉટ",
+  "kingStarline": "કિંગ સ્ટારલાઇન",
+  "kingJackpot": "કિંગ જેકપોટ",
+  "historyPage": "ઇતિહાસ પેજ",
+  "@historyPage": {
+    "description": "History page title"
+  },
+  "youCanViewYourMarketBidHistory": "તમે તમારો માર્કેટ બિડ ઇતિહાસ જોઈ શકો છો",
+  "@youCanViewYourMarketBidHistory": {
+    "description": "Market bid history description"
+  },
+  "youCanViewYourStarlineBidHistory": "તમે તમારો સ્ટારલાઇન બિડ ઇતિહાસ જોઈ શકો છો",
+  "@youCanViewYourStarlineBidHistory": {
+    "description": "Starline bid history description"
+  },
+  "youCanViewYourJackpotBidHistory": "તમે તમારો જેકપોટ બિડ ઇતિહાસ જોઈ શકો છો",
+  "@youCanViewYourJackpotBidHistory": {
+    "description": "Jackpot bid history description"
+  },
+  "playGame": "ગેમ ખેલો",
+  "openBid": "ખુલ્લી બિડ",
+  "bettingIsRunning": "બેટિંગ ચાલી રહી છે",
+  "closeBid": "બંધ બિડ",
+  "marketClosed": "માર્કેટ બંધ",
+  "openBids": "ખુલ્લી બિડ્સ:",
+  "closeBids": "બંધ બિડ્સ:",
+  "errorLoadingData": "ડેટા લોડ કરવામાં ભૂલ.",
+  "noGameDataAvailable": "ગેમ ડેટા ઉપલબ્ધ નથી.",
+  "notificationSettings": "સૂચના સેટિંગ્સ",
+  "mainNotification": "મુખ્ય સૂચના",
+  "gameNotification": "ગેમ સૂચના",
+  "kingStarlineNotification": "કિંગ સ્ટારલાઇન સૂચના",
+  "kingJackpotNotification": "કિંગ જેકપોટ સૂચના",
+  "languageSettings": "ભાષા સેટિંગ્સ",
+  "ok": "ઠીક છે",
+  "closedForToday": "આજે માટે બંધ",
+  "bidTime": "બિડ સમય :",
+  "bidResultTime": "બિડ પરિણામ સમય :",
+  "openBidLastTime": "ખુલ્લી બિડ છેલ્લો સમય",
+  "@openBidLastTime": {
+    "description": "Open bid last time label"
+  },
+  "openResultTime": "ખુલ્લો પરિણામ સમય",
+  "@openResultTime": {
+    "description": "Open result time label"
+  },
+  "closeBidLastTime": "બંધ બિડ છેલ્લો સમય",
+  "@closeBidLastTime": {
+    "description": "Close bid last time label"
+  },
+  "closeResultTime": "બંધ પરિણામ સમય",
+  "@closeResultTime": {
+    "description": "Close result time label"
+  },
+  "paymentSuccess": "ચુકવણી સફળ",
+  "done": "પૂર્ણ",
+  "accountRecovery": "એકાઉન્ટ પુનઃપ્રાપ્તિ",
+  "accountRecoveryMessage": "નવું MPIN સેટ કરીને તમારા અસ્તિત્વમાંના એકાઉન્ટને પુનઃપ્રાપ્ત કરો\n\nશું તમે ચાલુ રાખવા માંગો છો?",
+  "recover": "પુનઃપ્રાપ્ત કરો",
+  "walletFundHistoryNotAvailable": "વૉલેટ ફંડ ઇતિહાસ ઉપલબ્ધ નથી",
+  "termsAndConditions": "નિયમો અને શરતો",
+  "minimumWithdrawAmount": "ન્યૂનતમ નિકાસી રકમ 1000 ₹ છે",
+  "maximumWithdrawAmount": "અને મહત્તમ નિકાસી રકમ 500000 છે",
+  "above5LakhManualRequest": "5 લાખથી વધુ પર તમારે અમને મેન્યુઅલી વિનંતી કરવી જોઈએ.",
+  "withdrawRequestTiming": "નિકાસી વિનંતી સમય સવારે 09:00 થી રાત્રે 10:00 સુધી",
+  "processTime": "પ્રક્રિયા સમય ન્યૂનતમ 1 કલાક મહત્તમ 72 કલાક.",
+  "withdrawAvailableAllDays": "નિકાસી અઠવાડિયાના બધા 7 દિવસોમાં ઉપલબ્ધ છે.",
+  "accept": "સ્વીકારો",
+  "addFund": "ફંડ ઉમેરો",
+  "addMoney": "પૈસા ઉમેરો",
+  "availableBalance": "ઉપલબ્ધ બેલેન્સ",
+  "enterAmount": "રકમ દાખલ કરો",
+  "addPointUpi": "પોઇન્ટ ઉમેરો - UPI",
+  "addPointQrPaytmGateway": "પોઇન્ટ ઉમેરો - QR - PAYTM - GATEWAY",
+  "howToAddPoint": "પોઇન્ટ કેવી રીતે ઉમેરવું",
+  "pleaseContactSupportToKnowHowToAddPoint": "પોઇન્ટ કેવી રીતે ઉમેરવું તે જાણવા માટે કૃપા કરીને સપોર્ટનો સંપર્ક કરો.",
+  "selectUpiApp": "UPI એપ પસંદ કરો",
+  "upiApp": "UPI એપ",
+  "addFunds": "ફંડ ઉમેરો",
+  "upiPayeeDetailsNotConfigured": "UPI પ્રાપ્તકર્તા વિગતો કોન્ફિગર કરવામાં આવી નથી.",
+  "invalidUpiIdFormat": "અમાન્ય UPI ID ફોર્મેટ",
+  "pleaseEnterValidAmountMin": "કૃપા કરીને માન્ય રકમ દાખલ કરો (ન્યૂનતમ ₹{amount}).",
+  "noUpiAppsFound": "કોઈ UPI એપ મળી નથી. કૃપા કરીને આગળ વધવા માટે UPI એપ ઇન્સ્ટોલ કરો.",
+  "paymentFailedOrCancelled": "ચુકવણી નિષ્ફળ અથવા રદ કરી દેવામાં આવી.",
+  "errorOccurredDuringUpiPayment": "UPI ચુકવણી દરમિયાન ભૂલ આવી: {error}",
+  "rangeErrorOccurredDuringUpiPayment": "UPI ચુકવણી દરમિયાન RangeError આવ્યો. કૃપા કરીને ફરી પ્રયાસ કરો.",
+  "failedToLaunchUpiApp": "અનપેક્ષિત ભૂલને કારણે UPI એપ લોન્ચ કરવામાં નિષ્ફળ.",
+  "invalidServerResponse": "અમાન્ય સર્વર પ્રતિભાવ (paymentHash/timestamp ગુમ છે).",
+  "depositSuccessfulAndUpdated": "જમા સફળ અને અપડેટ કર્યું",
+  "failedToAddDepositFund": "જમા ફંડ ઉમેરવામાં નિષ્ફળ",
+  "failedToCreateFundRequest": "ફંડ વિનંતી બનાવવામાં નિષ્ફળ (HTTP {code})",
+  "failedToCompletePaymentProcess": "ચુકવણી પ્રક્રિયા પૂર્ણ કરવામાં નિષ્ફળ: {error}",
+  "pleaseEnterValidAmount": "કૃપા કરીને માન્ય રકમ દાખલ કરો.",
+  "pleaseEnterAmountGreaterThanOrEqual": "કૃપા કરીને ₹{amount} કરતાં વધુ અથવા તેની બરાબર રકમ દાખલ કરો.",
+  "invalidMobileNumberFound": "અમાન્ય મોબાઇલ નંબર મળ્યો.",
+  "paymentLinkNotFoundInResponse": "પ્રતિભાવમાં ચુકવણી લિંક મળી નથી.",
+  "failedToCreateTransactionLink": "લેનદેન લિંક બનાવવામાં નિષ્ફળ.",
+  "error": "ભૂલ: {error}",
+  "bankDetails": "બેંક વિગતો",
+  "accountHolderName": "એકાઉન્ટ ધારકનું નામ",
+  "accountNumber": "એકાઉન્ટ નંબર",
+  "enterAccountNumber": "એકાઉન્ટ નંબર દાખલ કરો",
+  "ifscCode": "IFSC કોડ",
+  "bankName": "બેંકનું નામ",
+  "enterBankName": "બેંકનું નામ દાખલ કરો",
+  "branchName": "શાખાનું નામ",
+  "enterBranchName": "શાખાનું નામ દાખલ કરો",
+  "addBank": "બેંક ઉમેરો",
+  "fundDepositHistory": "ફંડ જમા ઇતિહાસ",
+  "narration": "વર્ણન",
+  "withdrawFunds": "નિકાસી ફંડ",
+  "depositHistory": "જમા ઇતિહાસ",
+  "withdrawHistory": "નિકાસી ઇતિહાસ",
+  "noWithdrawHistoryFound": "નિકાસી ઇતિહાસ મળ્યો નથી.",
+  "@noWithdrawHistoryFound": {
+    "description": "No withdraw history message"
+  },
+  "fundWithdrawHistory": "ફંડ નિકાસી ઇતિહાસ",
+  "withdrawMode": "નિકાસી મોડ",
+  "upiId": "UPI ID",
+  "acHolder": "એકાઉન્ટ ધારક",
+  "acNo": "એકાઉન્ટ નં.",
+  "manualApproveByAdmin": "એડમિન દ્વારા મેન્યુઅલ મંજૂરી",
+  "enterGooglePayUpiId": "Google Pay UPI ID દાખલ કરો",
+  "enterPhonepeUpiId": "PhonePe UPI ID દાખલ કરો",
+  "enterPaytmNumber": "Paytm નંબર દાખલ કરો",
+  "enterUpiIdNumber": "UPI ID/નંબર દાખલ કરો",
+  "pleaseLoginAgainToContinue": "કૃપા કરીને ચાલુ રાખવા માટે ફરીથી લૉગિન કરો.",
+  "minimumWithdrawalAmountIs": "ન્યૂનતમ નિકાસી રકમ ₹{amount} છે.",
+  "pleaseEnterGooglePayUpiId": "કૃપા કરીને Google Pay UPI ID દાખલ કરો.",
+  "pleaseEnterPhonepeUpiId": "કૃપા કરીને PhonePe UPI ID દાખલ કરો.",
+  "pleaseEnterPaytmNumber": "કૃપા કરીને Paytm નંબર દાખલ કરો.",
+  "pleaseFillAllBankDetails": "કૃપા કરીને બધી બેંક વિગતો ભરો.",
+  "pleaseSelectWithdrawalMethod": "કૃપા કરીને નિકાસી પદ્ધતિ પસંદ કરો.",
+  "withdrawalRequestSubmittedSuccessfully": "નિકાસી વિનંતી સફળતાપૂર્વક સબમિટ કરવામાં આવી!",
+  "withdrawalRequestFailed": "નિકાસી વિનંતી નિષ્ફળ.",
+  "anErrorOccurred": "ભૂલ આવી: {error}",
+  "jackpotDashboard": "જેકપોટ ડેશબોર્ડ",
+  "history": "ઇતિહાસ",
+  "pleaseEnterAllThreeDigits": "કૃપા કરીને ત્રણેય અંક દાખલ કરો.",
+  "@pleaseEnterAllThreeDigits": {
+    "description": "Validation message for all three digits"
+  },
+  "eachDigitMustBeSingleNumber": "દરેક અંક એક એકલ નંબર (0-9) હોવો જોઈએ.",
+  "@eachDigitMustBeSingleNumber": {
+    "description": "Validation message for single digit"
+  },
+  "pleaseSelectSPDPTP": "કૃપા કરીને SP, DP અથવા TP પસંદ કરો.",
+  "@pleaseSelectSPDPTP": {
+    "description": "Please select category message"
+  },
+  "pleaseSelectOpenClose": "કૃપા કરીને OPEN/CLOSE પસંદ કરો.",
+  "@pleaseSelectOpenClose": {
+    "description": "Please select session message"
+  },
+  "spMustHave3UniqueDigits": "SP માં 3 અનન્ય અંક હોવા જોઈએ.",
+  "@spMustHave3UniqueDigits": {
+    "description": "SP validation message"
+  },
+  "dpMustHaveExactlyTwoSameDigits": "DP માં બરાબર બે સમાન અંક હોવા જોઈએ.",
+  "@dpMustHaveExactlyTwoSameDigits": {
+    "description": "DP validation message"
+  },
+  "tpMustHaveAll3DigitsSame": "TP માં બધા 3 અંક સમાન હોવા જોઈએ.",
+  "@tpMustHaveAll3DigitsSame": {
+    "description": "TP validation message"
+  },
+  "updatedPannaCategorySession": "અપડેટ કર્યું: {panna} ({category} {session})",
+  "@updatedPannaCategorySession": {
+    "description": "Updated panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "addedPannaCategorySession": "ઉમેર્યું: {panna} ({category} {session})",
+  "@addedPannaCategorySession": {
+    "description": "Added panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "removedPannaCategorySession": "દૂર કર્યું: {panna} ({category} {session})",
+  "@removedPannaCategorySession": {
+    "description": "Removed panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "enterLeftDigit": "ડાબો અંક દાખલ કરો",
+  "@enterLeftDigit": {
+    "description": "Enter left digit label"
+  },
+  "enterMiddleDigit": "મધ્ય અંક દાખલ કરો",
+  "@enterMiddleDigit": {
+    "description": "Enter middle digit label"
+  },
+  "enterRightDigit": "જમણો અંક દાખલ કરો",
+  "@enterRightDigit": {
+    "description": "Enter right digit label"
+  },
+  "pointsMustBeBetween10And10000": "પોઇન્ટ્સ 10 અને 10000 વચ્ચે હોવા જોઈએ.",
+  "@pointsMustBeBetween10And10000": {
+    "description": "Points must be between 10 and 10000 message"
+  },
+  "pleaseAddBidsBeforeSubmitting": "સબમિટ કરતા પહેલા કૃપા કરીને બિડ્સ ઉમેરો.",
+  "@pleaseAddBidsBeforeSubmitting": {
+    "description": "Please add bids before submitting message"
+  },
+  "insufficientWalletBalance": "અપૂરતું વૉલેટ બેલેન્સ.",
+  "@insufficientWalletBalance": {
+    "description": "Insufficient wallet balance message"
+  },
+  "placeBidFailed": "બિડ મૂકવામાં નિષ્ફળ",
+  "@placeBidFailed": {
+    "description": "Place bid failed message"
+  },
+  "networkErrorCheckInternet": "નેટવર્ક ભૂલ. કૃપા કરીને તમારું ઇન્ટરનેટ કનેક્શન તપાસો.",
+  "@networkErrorCheckInternet": {
+    "description": "Network error check internet message"
+  },
+  "noValidBidsToSubmit": "સબમિટ કરવા માટે કોઈ માન્ય બિડ્સ નથી.",
+  "@noValidBidsToSubmit": {
+    "description": "No valid bids message"
+  },
+  "pleaseSelectSPDPOrTP": "કૃપા કરીને SP, DP, અથવા TP પસંદ કરો.",
+  "@pleaseSelectSPDPOrTP": {
+    "description": "Please select SP DP or TP message"
+  },
+  "pleaseEnterValidSingleDigit": "કૃપા કરીને માન્ય એકલ અંક (0-9) દાખલ કરો.",
+  "@pleaseEnterValidSingleDigit": {
+    "description": "Please enter valid single digit message"
+  },
+  "digitMustBeNumber0To9": "અંક 0 થી 9 નો નંબર હોવો જોઈએ.",
+  "@digitMustBeNumber0To9": {
+    "description": "Digit must be number 0 to 9 message"
+  },
+  "amountMustBeBetween": "રકમ {min} અને {max} વચ્ચે હોવી જોઈએ.",
+  "@amountMustBeBetween": {
+    "description": "Amount must be between message",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "addedBidsForCategory": "{count} બિડ્સ {category} માટે ઉમેરાયા.",
+  "@addedBidsForCategory": {
+    "description": "Added bids for category message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "allBidsAlreadyExist": "બધા બિડ્સ પહેલેથી અસ્તિત્વમાં છે.",
+  "@allBidsAlreadyExist": {
+    "description": "All bids already exist message"
+  },
+  "errorColon": "ભૂલ:",
+  "@errorColon": {
+    "description": "Error label with colon"
+  },
+  "removedDigit": "દૂર કર્યું: {digit}",
+  "@removedDigit": {
+    "description": "Removed digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "bidsLabel": "બિડ્સ",
+  "@bidsLabel": {
+    "description": "Bids label"
+  },
+  "noBidsPlaced": "કોઈ બિડ્સ મૂકવામાં આવ્યા નથી",
+  "@noBidsPlaced": {
+    "description": "No bids placed message"
+  },
+  "noBidsAdded": "કોઈ બિડ્સ ઉમેરવામાં આવ્યા નથી",
+  "@noBidsAdded": {
+    "description": "No bids added message"
+  },
+  "halfSangamA": "હાફ સંગમ એ",
+  "@halfSangamA": {
+    "description": "Half Sangam A label"
+  },
+  "halfSangamB": "હાફ સંગમ બી",
+  "@halfSangamB": {
+    "description": "Half Sangam B label"
+  },
+  "sangam": "સંગમ",
+  "@sangam": {
+    "description": "Sangam label"
+  },
+  "updatedPointsFor": "{sangam} માટે પોઇન્ટ્સ અપડેટ કર્યા.",
+  "@updatedPointsFor": {
+    "description": "Updated points message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidWithPoints": "બિડ ઉમેર્યું: {sangam} {points} પોઇન્ટ્સ સાથે.",
+  "@addedBidWithPoints": {
+    "description": "Added bid message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "bidRemovedFromList": "સૂચિમાંથી {sangam} માટે બિડ દૂર કર્યું.",
+  "@bidRemovedFromList": {
+    "description": "Bid removed message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "removedSangam": "{sangam} દૂર કર્યું.",
+  "@removedSangam": {
+    "description": "Removed sangam message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "addingThisWillExceedWalletBalance": "આ ઉમેરવાથી કુલ વૉલેટ કરતાં વધુ થશે.",
+  "@addingThisWillExceedWalletBalance": {
+    "description": "Adding will exceed wallet balance message"
+  },
+  "updatedAnkPanna": "અપડેટ કર્યું: {ank}-{panna}.",
+  "@updatedAnkPanna": {
+    "description": "Updated ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "addedAnkPannaWithPoints": "ઉમેર્યું: {ank}-{panna} — {pts} પોઇન્ટ્સ.",
+  "@addedAnkPannaWithPoints": {
+    "description": "Added ank panna with points message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      },
+      "pts": {
+        "type": "String"
+      }
+    }
+  },
+  "removedAnkPanna": "દૂર કર્યું: {ank}-{panna}.",
+  "@removedAnkPanna": {
+    "description": "Removed ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "openDigitEkHiHonaChahiye": "ખુલ્લો અંક એક જ હોવો જોઈએ (0-9).",
+  "@openDigitEkHiHonaChahiye": {
+    "description": "Open digit validation in Hindi"
+  },
+  "openDigit0Se9KeBeechDo": "ખુલ્લો અંક 0 થી 9 વચ્ચે આપો.",
+  "@openDigit0Se9KeBeechDo": {
+    "description": "Open digit range validation in Hindi"
+  },
+  "valid3DigitPannaDo": "વૈધ 3 અંકનો પન્ના આપો (ઉદા. 123).",
+  "@valid3DigitPannaDo": {
+    "description": "Panna validation in Hindi"
+  },
+  "pointsMinSe1000KeBeechDo": "પોઇન્ટ્સ {min} થી 1000 વચ્ચે આપો.",
+  "@pointsMinSe1000KeBeechDo": {
+    "description": "Points validation in Hindi",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "pleaseEnterValid3DigitOpenPanna": "કૃપા કરીને વૈધ 3 અંકનો ખુલ્લો પન્ના દાખલ કરો.",
+  "@pleaseEnterValid3DigitOpenPanna": {
+    "description": "Please enter valid 3-digit open panna"
+  },
+  "pleaseEnterValid3DigitClosePanna": "કૃપા કરીને વૈધ 3 અંકનો બંધ પન્ના દાખલ કરો.",
+  "@pleaseEnterValid3DigitClosePanna": {
+    "description": "Please enter valid 3-digit close panna"
+  },
+  "screenNotMounted": "સ્ક્રીન માઉન્ટ થયેલી નથી.",
+  "@screenNotMounted": {
+    "description": "Screen not mounted error"
+  },
+  "authIssuePleaseLoginAgain": "પ્રમાણીકરણ સમસ્યા — કૃપા કરીને ફરીથી લૉગિન કરો.",
+  "@authIssuePleaseLoginAgain": {
+    "description": "Auth issue please login again message"
+  },
+  "noValidBidsToSubmit": "સબમિટ કરવા માટે કોઈ માન્ય બિડ્સ નથી.",
+  "@noValidBidsToSubmit": {
+    "description": "No valid bids message"
+  },
+  "pleaseAddAtLeastOneBidFirst": "કૃપા કરીને પહેલા ઓછામાં ઓછી એક બિડ ઉમેરો.",
+  "@pleaseAddAtLeastOneBidFirst": {
+    "description": "Please add at least one bid first message"
+  },
+  "walletBalanceLow": "વૉલેટ બેલેન્સ ઓછું છે.",
+  "@walletBalanceLow": {
+    "description": "Wallet balance low message"
+  },
+  "enterJodiDigit": "જોડી અંક દાખલ કરો:",
+  "@enterJodiDigit": {
+    "description": "Enter jodi digit label"
+  },
+  "bidDigits": "બિડ અંક",
+  "@bidDigits": {
+    "description": "Bid digits label"
+  },
+  "insufficientWalletBalanceToPlaceBid": "આ બિડ મૂકવા માટે અપૂરતું વૉલેટ બેલેન્સ.",
+  "@insufficientWalletBalanceToPlaceBid": {
+    "description": "Insufficient wallet balance to place bid message"
+  },
+  "insufficientWalletBalanceToPlaceBids": "આ બિડ્સ મૂકવા માટે અપૂરતું વૉલેટ બેલેન્સ.",
+  "@insufficientWalletBalanceToPlaceBids": {
+    "description": "Insufficient wallet balance to place bids message"
+  },
+  "pleaseAddAtLeastOneBidBeforeSubmitting": "સબમિટ કરતા પહેલા કૃપા કરીને ઓછામાં ઓછું એક બિડ ઉમેરો.",
+  "@pleaseAddAtLeastOneBidBeforeSubmitting": {
+    "description": "Please add at least one bid before submitting message"
+  },
+  "pleaseWaitBidSubmissionInProgress": "કૃપા કરીને રાહ જુઓ, બિડ સબમિશન પ્રગતિમાં છે.",
+  "@pleaseWaitBidSubmissionInProgress": {
+    "description": "Please wait bid submission in progress message"
+  },
+  "jodiDigitMustBeExactly2Numbers": "જોડી અંક બરાબર 2 નંબરો હોવા જોઈએ (00-99).",
+  "@jodiDigitMustBeExactly2Numbers": {
+    "description": "Jodi digit must be exactly 2 numbers message"
+  },
+  "jodiMustBeNumberBetween00And99": "જોડી 00 અને 99 વચ્ચેનો નંબર હોવો જોઈએ.",
+  "@jodiMustBeNumberBetween00And99": {
+    "description": "Jodi must be number between 00 and 99 message"
+  },
+  "pleaseEnterValidPoints": "કૃપા કરીને માન્ય પોઇન્ટ્સ દાખલ કરો.",
+  "@pleaseEnterValidPoints": {
+    "description": "Please enter valid points message"
+  },
+  "insufficientWalletBalanceForThisBid": "આ બિડ માટે અપૂરતું વૉલેટ બેલેન્સ.",
+  "@insufficientWalletBalanceForThisBid": {
+    "description": "Insufficient wallet balance for this bid message"
+  },
+  "jodiWithPointsAdded": "જોડી {digit} {points} પોઇન્ટ્સ સાથે ઉમેરાયું.",
+  "@jodiWithPointsAdded": {
+    "description": "Jodi with points added message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "jodiPointsUpdatedTo": "જોડી {digit} પોઇન્ટ્સ {points} પર અપડેટ કર્યા.",
+  "@jodiPointsUpdatedTo": {
+    "description": "Jodi points updated to message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "cannotRemoveBidWhileSubmissionInProgress": "સબમિશન પ્રગતિમાં હોવા દરમિયાન બિડ દૂર કરી શકાતું નથી.",
+  "@cannotRemoveBidWhileSubmissionInProgress": {
+    "description": "Cannot remove bid while submission in progress message"
+  },
+  "jodiRemoved": "જોડી {digit} દૂર કર્યું.",
+  "@jodiRemoved": {
+    "description": "Jodi removed message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "submittingYourBids": "તમારા બિડ્સ સબમિટ કરી રહ્યા છીએ...",
+  "@submittingYourBids": {
+    "description": "Submitting your bids message"
+  },
+  "unknownErrorOccurred": "અજ્ઞાત ભૂલ આવી.",
+  "@unknownErrorOccurred": {
+    "description": "Unknown error occurred message"
+  },
+  "bidFailedPleaseTryAgain": "બિડ નિષ્ફળ. કૃપા કરીને ફરી પ્રયાસ કરો.",
+  "@bidFailedPleaseTryAgain": {
+    "description": "Bid failed please try again message"
+  },
+  "bidsSubmittedSuccessfully": "બિડ્સ સફળતાપૂર્વક સબમિટ કર્યા!",
+  "@bidsSubmittedSuccessfully": {
+    "description": "Bids submitted successfully message"
+  },
+  "unexpectedErrorOccurred": "અનપેક્ષિત ભૂલ આવી: {error}",
+  "@unexpectedErrorOccurred": {
+    "description": "Unexpected error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "networkErrorOrUnexpectedIssue": "નેટવર્ક ભૂલ અથવા અનપેક્ષિત સમસ્યા: {error}",
+  "@networkErrorOrUnexpectedIssue": {
+    "description": "Network error or unexpected issue message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "unexpectedErrorDuringBidSubmission": "બિડ સબમિશન દરમિયાન અનપેક્ષિત ભૂલ આવી.",
+  "@unexpectedErrorDuringBidSubmission": {
+    "description": "Unexpected error during bid submission message"
+  },
+  "goodLuck": "શુભેચ્છા",
+  "@goodLuck": {
+    "description": "Good luck message"
+  },
+  "bidsPlacedSuccessfully": "બિડ્સ સફળતાપૂર્વક મૂકવામાં આવ્યા",
+  "@bidsPlacedSuccessfully": {
+    "description": "Bids placed successfully message"
+  },
+  "totalAmount": "કુલ રકમ",
+  "@totalAmount": {
+    "description": "Total amount label"
+  },
+  "walletBalanceBeforeDeduction": "કપાત પહેલાં વૉલેટ બેલેન્સ",
+  "@walletBalanceBeforeDeduction": {
+    "description": "Wallet balance before deduction label"
+  },
+  "walletBalanceAfterDeduction": "કપાત પછી વૉલેટ બેલેન્સ",
+  "@walletBalanceAfterDeduction": {
+    "description": "Wallet balance after deduction label"
+  },
+  "noteBidOncePlayedWillNotBeCancelled": "*નોંધ: એકવાર ખેલાયેલી બિડ રદ્દ કરવામાં આવશે નહીં",
+  "@noteBidOncePlayedWillNotBeCancelled": {
+    "description": "Note about bid cancellation"
+  },
+  "confirmBid": "બિડ પુષ્ટિ કરો",
+  "@confirmBid": {
+    "description": "Confirm bid button"
+  },
+  "notifications": "સૂચનાઓ",
+  "jodi": "જોડી",
+  "closed": "બંધ",
+  "running": "ચાલી રહ્યું છે",
+  "noJackpotBidTypesAvailable": "કોઈ જેકપોટ બિડ પ્રકાર ઉપલબ્ધ નથી અથવા લોડ કરવામાં નિષ્ફળ.",
+  "theMarketFor": "માટે બજાર",
+  "isCurrentlyClosed": "હાલમાં બંધ છે.",
+  "authenticationErrorPleaseLoginAgain": "પ્રમાણીકરણ ભૂલ: કૃપા કરીને ફરીથી લૉગિન કરો.",
+  "failedToLoadJackpotBidTypes": "જેકપોટ બિડ પ્રકાર લોડ કરવામાં નિષ્ફળ:",
+  "noScreenConfiguredForGameType": "ગેમ પ્રકાર માટે કોઈ સ્ક્રીન કોન્ફિગર કરવામાં આવી નથી:",
+  "networkErrorPleaseTryAgainLater": "નેટવર્ક ભૂલ. કૃપા કરીને પછી પ્રયાસ કરો.",
+  "failedToLoadGames": "ગેમ્સ લોડ કરવામાં નિષ્ફળ",
+  "createAccount": "એકાઉન્ટ બનાવો",
+  "enterYourDetails": "તમારી વિગતો દાખલ કરો",
+  "enterUsername": "વપરાશકર્તા નામ દાખલ કરો",
+  "enterPassword": "પાસવર્ડ દાખલ કરો",
+  "confirmPassword": "પાસવર્ડ પુષ્ટિ કરો",
+  "pleaseEnterUsername": "કૃપા કરીને વપરાશકર્તા નામ દાખલ કરો",
+  "pleaseEnterPassword": "કૃપા કરીને પાસવર્ડ દાખલ કરો",
+  "passwordMustBeAtLeast6Characters": "પાસવર્ડ ઓછામાં ઓછા 6 અક્ષરોનો હોવો જોઈએ",
+  "passwordsDoNotMatch": "પાસવર્ડ મેળ ખાતા નથી",
+  "verifyMobileNumber": "મોબાઇલ નંબર\nચકાસો",
+  "enterPasswordLabel": "પાસવર્ડ દાખલ કરો",
+  "toCompleteRegistrationFor": "નોંધણી પૂર્ણ કરવા માટે\n",
+  "enterYourAccountPassword": "તમારું ખાતા પાસવર્ડ દાખલ કરો.",
+  "enterYourPassword": "તમારો પાસવર્ડ દાખલ કરો",
+  "verify": "ચકાસો",
+  "missingDataRestartRegistration": "ડેટા ખૂટે છે. નોંધણી ફરીથી શરૂ કરો.",
+  "errorVerifyingPassword": "પાસવર્ડ ચકાસવામાં ભૂલ",
+  "registrationFailed": "નોંધણી નિષ્ફળ",
+  "noNotificationsFound": "કોઈ સૂચના મળી નથી.",
+  "pleaseEnterAnAmountFirst": "કૃપા કરીને પહેલા રકમ દાખલ કરો.",
+  "pointsMustBeBetween10And1000": "પોઇન્ટ્સ 10 અને 1000 વચ્ચે હોવા જોઈએ.",
+  "bidForDigitUpdated": "ડિજિટ {digit} ({type}) માટે બિડ {points} પોઇન્ટ્સમાં અપડેટ કરવામાં આવી.",
+  "@bidForDigitUpdated": {
+    "description": "Bid updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidForDigit": "ડિજિટ માટે બિડ ઉમેરી: {digit}, રકમ: {amount}",
+  "@addedBidForDigit": {
+    "description": "Added bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsPlacedYetClickNumber": "હજુ સુધી કોઈ બિડ મૂકવામાં આવી નથી. બિડ ઉમેરવા માટે નંબર પર ક્લિક કરો!",
+  "bidsSubmittedSuccessfully": "બિડ્સ સફળતાપૂર્વક સબમિટ કરવામાં આવી!",
+  "removedBidForDigit": "ડિજિટ માટે બિડ દૂર કરી: {digit}, રકમ: {amount}.",
+  "@removedBidForDigit": {
+    "description": "Removed bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameTypeColon": "ગેમ પ્રકાર પસંદ કરો:",
+  "enterPointsColon": "પોઇન્ટ્સ દાખલ કરો:",
+  "loginWithMpin": "MPIN સાથે લૉગિન કરો",
+  "mpinHint": "MPIN",
+  "login": "લૉગિન",
+  "forgotMpin": "MPIN ભૂલી ગયા?",
+  "biometricAuthenticationNotAvailable": "બાયોમેટ્રિક પ્રમાણીકરણ ઉપલબ્ધ નથી અથવા સપોર્ટેડ નથી",
+  "scanYourFingerprintToVerify": "ચકાસવા માટે તમારી આંગળી સ્કેન કરો",
+  "biometricAuthenticationFailed": "બાયોમેટ્રિક પ્રમાણીકરણ નિષ્ફળ",
+  "biometricError": "બાયોમેટ્રિક ભૂલ: {error}",
+  "@biometricError": {
+    "description": "Biometric error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterYourMpin": "કૃપા કરીને તમારો MPIN દાખલ કરો",
+  "registrationIdNotFoundPleaseReregister": "નોંધણી ID મળ્યું નથી. કૃપા કરીને ફરીથી નોંધણી કરો.",
+  "accessTokenNotFoundPleaseRelogin": "ઍક્સેસ ટોકન મળ્યું નથી. કૃપા કરીને ફરીથી લૉગિન કરો.",
+  "loginSuccessful": "લૉગિન સફળ!",
+  "failedToVerifyMpinPleaseTryAgainLater": "MPIN ચકાસવામાં નિષ્ફળ. કૃપા કરીને પછી પ્રયાસ કરો.",
+  "errorOccurredDuringMpinVerification": "MPIN ચકાસણી દરમિયાન ભૂલ આવી: {error}",
+  "@errorOccurredDuringMpinVerification": {
+    "description": "MPIN verification error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "invalidMpin": "અમાન્ય MPIN",
+  "pleaseEnterCorrectMpin": "કૃપા કરીને સાચો MPIN દાખલ કરો",
+  "setYourPin": "તમારો PIN સેટ કરો",
+  "submit": "સબમિટ કરો",
+  "@submit": {
+    "description": "Submit button"
+  },
+  "enterNewMpin": "નવો mPin દાખલ કરો",
+  "enter4DigitMpin": "4 અંકોનો mPin દાખલ કરો",
+  "setPin": "PIN સેટ કરો",
+  "pleaseEnterValid4DigitPin": "કૃપા કરીને માન્ય 4 અંકોનો PIN દાખલ કરો",
+  "somethingWentWrongWithError": "કંઈક ખોટું થયું: {error}",
+  "@somethingWentWrongWithError": {
+    "description": "Something went wrong error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "changeNewMpin": "નવો MPIN બદલો",
+  "enter4DigitPin": "4 અંકોનો PIN દાખલ કરો",
+  "errorWithPlaceholder": "ભૂલ: {error}",
+  "@errorWithPlaceholder": {
+    "description": "Error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "couldNotLaunchUrl": "URL લોન્ચ કરી શકાયું નહીં: {url}",
+  "@couldNotLaunchUrl": {
+    "description": "Could not launch URL error message",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "single": "સિંગલ",
+  "singlePanna": "સિંગલ પન્ના",
+  "doublePanna": "ડબલ પન્ના",
+  "triplePanna": "ટ્રિપલ પન્ના",
+  "gameWinRatioForAllBids": "બધી બિડ્સ માટે ગેમ જીતનો ગુણોત્તર",
+  "starlineWinRatioForAllBids": "બધી બિડ્સ માટે સ્ટારલાઇન જીતનો ગુણોત્તર",
+  "jackpotWinRatio": "જેકપોટ જીતનો ગુણોત્તર",
+  "rateFormat": "{label}: 10 નો {value}",
+  "@rateFormat": {
+    "description": "Game rate format string",
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToLoadGameRates": "ગેમ રેટ્સ લોડ કરવામાં નિષ્ફળ: {statusCode}",
+  "@failedToLoadGameRates": {
+    "description": "Failed to load game rates error message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "youCanWithdrawBetween": "તમે {startTime} અને {endTime} વચ્ચે નિકાસી કરી શકો છો.",
+  "@youCanWithdrawBetween": {
+    "description": "Withdrawal time window message",
+    "placeholders": {
+      "startTime": {
+        "type": "String"
+      },
+      "endTime": {
+        "type": "String"
+      }
+    }
+  },
+  "enterJodi": "જોડી દાખલ કરો:",
+  "@enterJodi": {
+    "description": "Enter jodi label"
+  },
+  "enterJodiHint": "જોડી દાખલ કરો",
+  "@enterJodiHint": {
+    "description": "Enter jodi hint"
+  },
+  "bidForJodiAddedSuccessfully": "Jodi {jodi} માટે બિડ સફળતાપૂર્વક ઉમેરવામાં આવી!",
+  "@bidForJodiAddedSuccessfully": {
+    "description": "Bid for Jodi added successfully message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "bidFailed": "બિડ નિષ્ફળ.",
+  "submitBid": "બિડ સબમિટ કરો",
+  "totalBidsWithCount": "કુલ બિડ્સ:\n{count}",
+  "@totalBidsWithCount": {
+    "description": "Total bids label with count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "jodi": "Jodi",
+  "singleDigit": "Single Digit",
+  "singlePana": "Single Pana",
+  "doublePana": "Double Pana",
+  "triplePana": "Triple Pana",
+  "choiceSpDpTp": "Choice SP DP TP",
+  "spMotor": "SP Motor",
+  "dpMotor": "DP Motor",
+  "tpMotor": "TP Motor",
+  "fullSangam": "Full Sangam",
+  "halfSangam": "Half Sangam",
+  "singleDigitsBulk": "Single Digits Bulk",
+  "jodiBulk": "Jodi Bulk",
+  "singlePanaBulk": "Single Pana Bulk",
+  "doublePanaBulk": "Double Pana Bulk",
+  "addBid": "બિડ ઉમેરો",
+  "pleaseWaitBidSubmissionInProgress": "કૃપા કરીને પ્રતીક્ષા કરો, બિડ સબમિશન પ્રગતિમાં છે.",
+  "@pleaseWaitBidSubmissionInProgress": {
+    "description": "Please wait bid submission in progress message"
+  },
+  "jodiDigitMustBeExactly2Numbers": "જોડી અંક બિલકુલ 2 નંબરો હોવા જોઈએ (00-99).",
+  "@jodiDigitMustBeExactly2Numbers": {
+    "description": "Jodi digit must be exactly 2 numbers message"
+  },
+  "jodiMustBeNumberBetween00And99": "જોડી 00 અને 99 વચ્ચેની સંખ્યા હોવી જોઈએ.",
+  "@jodiMustBeNumberBetween00And99": {
+    "description": "Jodi must be number between 00 and 99 message"
+  },
+  "pleaseEnterValidPoints": "કૃપા કરીને માન્ય પોઈન્ટ્સ દાખલ કરો.",
+  "@pleaseEnterValidPoints": {
+    "description": "Please enter valid points message"
+  },
+  "pointsMustBeBetween10And10000": "પોઈન્ટ્સ 10 અને 10000 વચ્ચે હોવા જોઈએ.",
+  "@pointsMustBeBetween10And10000": {
+    "description": "Points must be between 10 and 10000 message"
+  },
+  "insufficientWalletBalanceForThisBid": "આ બિડ માટે અપૂરતું વૉલેટ બેલેન્સ.",
+  "@insufficientWalletBalanceForThisBid": {
+    "description": "Insufficient wallet balance for this bid message"
+  },
+  "jodiWithPointsAdded": "જોડી {digit} {points} પોઈન્ટ્સ સાથે ઉમેરાયું.",
+  "@jodiWithPointsAdded": {
+    "description": "Jodi with points added message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "jodiPointsUpdatedTo": "જોડી {digit} પોઈન્ટ્સ {points} માં અપડેટ કર્યા.",
+  "@jodiPointsUpdatedTo": {
+    "description": "Jodi points updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "cannotRemoveBidWhileSubmissionInProgress": "સબમિશન પ્રગતિમાં હોવા દરમિયાન બિડ દૂર કરી શકાતું નથી.",
+  "@cannotRemoveBidWhileSubmissionInProgress": {
+    "description": "Cannot remove bid while submission in progress message"
+  },
+  "jodiRemoved": "જોડી {digit} દૂર કર્યું.",
+  "@jodiRemoved": {
+    "description": "Jodi removed message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "submittingYourBids": "તમારી બિડ્સ સબમિટ કરી રહ્યા છીએ...",
+  "@submittingYourBids": {
+    "description": "Submitting your bids message"
+  },
+  "bidFailedPleaseTryAgain": "બિડ નિષ્ફળ. કૃપા કરીને ફરી પ્રયાસ કરો.",
+  "@bidFailedPleaseTryAgain": {
+    "description": "Bid failed please try again message"
+  },
+  "networkErrorOrUnexpectedIssue": "નેટવર્ક ભૂલ અથવા અનપેક્ષિત સમસ્યા: {error}",
+  "@networkErrorOrUnexpectedIssue": {
+    "description": "Network error or unexpected issue message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "enterPoints": "પોઈન્ટ્સ દાખલ કરો:",
+  "@enterPoints": {
+    "description": "Enter points label"
+  },
+  "enterAmount": "રકમ દાખલ કરો",
+  "@enterAmount": {
+    "description": "Enter amount hint"
+  },
+  "enterJodiDigit": "જોડી અંક દાખલ કરો:",
+  "@enterJodiDigit": {
+    "description": "Enter jodi digit label"
+  },
+  "bidDigits": "બિડ અંકો",
+  "@bidDigits": {
+    "description": "Bid digits hint"
+  },
+  "digit": "અંક",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "amount": "રકમ",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "gameType": "ગેમ પ્રકાર",
+  "@gameType": {
+    "description": "Game type label"
+  },
+  "points": "પોઈન્ટ્સ",
+  "@points": {
+    "description": "Points label"
+  },
+  "enterOpenPanna": "ખુલ્લી પન્ના દાખલ કરો :",
+  "@enterOpenPanna": {
+    "description": "Enter open panna label"
+  },
+  "enterClosePanna": "બંધ પન્ના દાખલ કરો :",
+  "@enterClosePanna": {
+    "description": "Enter close panna label"
+  },
+  "pannaDigit": "પન્ના - અંક",
+  "@pannaDigit": {
+    "description": "Panna Digit label"
+  },
+  "noBidsPlaced": "કોઈ બિડ્સ મૂકવામાં આવી નથી",
+  "@noBidsPlaced": {
+    "description": "No bids placed message"
+  },
+  "enterOpenDigit": "ખુલ્લો અંક દાખલ કરો :",
+  "@enterOpenDigit": {
+    "description": "Enter open digit label"
+  },
+  "ank": "અંક",
+  "@ank": {
+    "description": "Ank label"
+  },
+  "pana": "પન્ના",
+  "@pana": {
+    "description": "Pana label"
+  },
+  "pannaAnk": "પન્ના - અંક",
+  "@pannaAnk": {
+    "description": "Panna Ank label"
+  },
+  "noBidsAddedYet": "હજુ સુધી કોઈ બિડ્સ ઉમેરવામાં આવી નથી",
+  "@noBidsAddedYet": {
+    "description": "No bids added yet message"
+  },
+  "half": "અડધું",
+  "@half": {
+    "description": "Half bracket type label"
+  },
+  "full": "પૂર્ણ",
+  "@full": {
+    "description": "Full bracket type label"
+  },
+  "leftDigit": "ડાબી અંક",
+  "@leftDigit": {
+    "description": "Left digit label"
+  },
+  "rightDigit": "જમણી અંક",
+  "@rightDigit": {
+    "description": "Right digit label"
+  },
+  "digits": "અંકો",
+  "@digits": {
+    "description": "Digits label"
+  },
+  "enterTwoDigits": "બે અંક દાખલ કરો:",
+  "@enterTwoDigits": {
+    "description": "Enter two digits label"
+  },
+  "totalColon": "કુલ:",
+  "@totalColon": {
+    "description": "Total label with colon"
+  },
+  "enterNumber": "નંબર દાખલ કરો:",
+  "@enterNumber": {
+    "description": "Enter number label"
+  },
+  "enterNumberHint": "નંબર દાખલ કરો",
+  "@enterNumberHint": {
+    "description": "Enter number hint"
+  },
+  "enterLeftDigit": "ડાબી અંક દાખલ કરો",
+  "@enterLeftDigit": {
+    "description": "Enter left digit label"
+  },
+  "enterMiddleDigit": "મધ્ય અંક દાખલ કરો",
+  "@enterMiddleDigit": {
+    "description": "Enter middle digit label"
+  },
+  "enterRightDigit": "જમણી અંક દાખલ કરો",
+  "@enterRightDigit": {
+    "description": "Enter right digit label"
+  },
+  "enterSingleDigit": "એક અંક દાખલ કરો:",
+  "@enterSingleDigit": {
+    "description": "Enter single digit label"
+  },
+  "enterSingleDigitHint": "એક અંક દાખલ કરો",
+  "@enterSingleDigitHint": {
+    "description": "Enter single digit hint"
+  },
+  "enterPanaNumberColon": "પન્ના નંબર દાખલ કરો:",
+  "@enterPanaNumberColon": {
+    "description": "Enter pana number label"
+  },
+  "enterPanaExampleHint": "ઉદાહરણ: 123, 445",
+  "@enterPanaExampleHint": {
+    "description": "Hint text for pana input field"
+  },
+  "pleaseEnterNumber": "કૃપા કરીને નંબર દાખલ કરો.",
+  "@pleaseEnterNumber": {
+    "description": "Please enter number message"
+  },
+  "pleaseEnterValidNumber": "કૃપા કરીને વૈધ નંબર (3-7 અંકો) દાખલ કરો.",
+  "@pleaseEnterValidNumber": {
+    "description": "Please enter valid number message"
+  },
+  "numberMustContainTwoUniqueDigits": "નંબરમાં ઓછામાં ઓછા બે અનન્ય અંકો હોવા જોઈએ.",
+  "@numberMustContainTwoUniqueDigits": {
+    "description": "Number must contain two unique digits message"
+  },
+  "noValidBidsFound": "આ નંબર માટે કોઈ વૈધ બિડ્સ મળ્યા નથી.",
+  "@noValidBidsFound": {
+    "description": "No valid bids found message"
+  },
+  "bidsAddedFromApi": "API પરથી બિડ્સ ઉમેરાયા.",
+  "@bidsAddedFromApi": {
+    "description": "Bids added from API success message"
+  },
+  "removedDigitSession": "દૂર કર્યું: {digit} ({session})",
+  "@removedDigitSession": {
+    "description": "Removed digit session message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "requestFailed": "વિનંતી નિષ્ફળ.",
+  "@requestFailed": {
+    "description": "Request failed error message"
+  },
+  "pleaseEnterAtLeastOneThreeDigitPanaNumber": "કૃપા કરીને ઓછામાં ઓછું એક 3-અંકનો પન્ના નંબર દાખલ કરો.",
+  "@pleaseEnterAtLeastOneThreeDigitPanaNumber": {
+    "description": "Validation message for empty pana input"
+  },
+  "invalidPanaWithDigit": "અવૈધ પન્ના: {digit}",
+  "@invalidPanaWithDigit": {
+    "description": "Invalid pana error message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "noValidPanasReturnedFromServer": "સર્વર પરથી કોઈ વૈધ પન્ના પરત આવ્યા નથી.",
+  "@noValidPanasReturnedFromServer": {
+    "description": "No valid panas returned error"
+  },
+  "addedBidsCount": "{count} બિડ(ઓ) ઉમેર્યા.",
+  "@addedBidsCount": {
+    "description": "Added bids success message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "removedPanaDigit": "દૂર કર્યું: {digit}",
+  "@removedPanaDigit": {
+    "description": "Removed pana digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "noDataAddedYet": "હજુ સુધી કોઈ ડેટા ઉમેર્યો નથી",
+  "@noDataAddedYet": {
+    "description": "No data added yet message"
+  },
+  "easyMode": "સરળ મોડ",
+  "@easyMode": {
+    "description": "Easy mode label"
+  },
+  "specialMode": "વિશેષ મોડ",
+  "@specialMode": {
+    "description": "Special mode label"
+  },
+  "enterSinglePanna": "સિંગલ પન્ના દાખલ કરો:",
+  "@enterSinglePanna": {
+    "description": "Enter single panna label"
+  },
+  "bidPanna": "બિડ પન્ના",
+  "@bidPanna": {
+    "description": "Bid panna hint"
+  },
+  "totalPointsColon": "કુલ પોઇન્ટ્સ:",
+  "@totalPointsColon": {
+    "description": "Total points label with colon"
+  },
+  "biddingIsClosedForThisSlot": "આ સ્લોટ માટે બિડિંગ બંધ છે.",
+  "@biddingIsClosedForThisSlot": {
+    "description": "Bidding closed message"
+  },
+  "pleaseFillAllFields": "કૃપા કરીને બધા ફીલ્ડ ભરો.",
+  "@pleaseFillAllFields": {
+    "description": "Fill all fields validation"
+  },
+  "pleaseEnterValidSinglePanna": "કૃપા કરીને માન્ય સિંગલ પન્ના નંબર દાખલ કરો.",
+  "@pleaseEnterValidSinglePanna": {
+    "description": "Valid single panna validation"
+  },
+  "updatedAmountForPanna": "પન્ના માટે અપડેટ કરેલી રકમ:",
+  "@updatedAmountForPanna": {
+    "description": "Updated amount message"
+  },
+  "addedBidPanna": "બિડ ઉમેર્યું: પન્ના",
+  "@addedBidPanna": {
+    "description": "Added bid message"
+  },
+  "pleaseAddAtLeastOneBidToConfirm": "કૃપા કરીને પુષ્ટિ કરવા માટે ઓછામાં ઓછું એક બિડ ઉમેરો.",
+  "@pleaseAddAtLeastOneBidToConfirm": {
+    "description": "Add at least one bid message"
+  },
+  "insufficientWalletBalanceForAllBids": "બધા બિડ્સ માટે અપૂરતું વૉલેટ બેલેન્સ.",
+  "@insufficientWalletBalanceForAllBids": {
+    "description": "Insufficient balance for all bids"
+  },
+  "noValidBidsForSelectedGameType": "પસંદ કરેલા ગેમ પ્રકાર માટે કોઈ માન્ય બિડ્સ નથી.",
+  "@noValidBidsForSelectedGameType": {
+    "description": "No valid bids message"
+  },
+  "and": "અને",
+  "@and": {
+    "description": "And conjunction"
+  },
+  "enter3DigitNumber": "3-અંકની સંખ્યા દાખલ કરો",
+  "@enter3DigitNumber": {
+    "description": "Enter 3 digit number label"
+  },
+  "enter3DigitNumberColon": "3-અંકની સંખ્યા દાખલ કરો:",
+  "@enter3DigitNumberColon": {
+    "description": "Enter 3 digit number label with colon"
+  },
+  "enter3DigitTriplePanna": "3-અંકની ટ્રિપલ પન્ના દાખલ કરો",
+  "@enter3DigitTriplePanna": {
+    "description": "Enter 3 digit triple panna hint"
+  },
+  "bidsLabel": "બિડ્સ",
+  "@bidsLabel": {
+    "description": "Bids label (simple text)"
+  },
+  "pointsLabel": "પોઇન્ટ્સ",
+  "@pointsLabel": {
+    "description": "Points label"
+  },
+  "noEntriesFound": "કોઈ પ્રવેશ મળ્યો નથી.",
+  "@noEntriesFound": {
+    "description": "No entries message"
+  },
+  "nextPage": "આગળ",
+  "@nextPage": {
+    "description": "Next page button"
+  },
+  "prev": "પહેલાં",
+  "@prev": {
+    "description": "Previous button text (short)"
+  },
+  "description": "વર્ણન",
+  "@description": {
+    "description": "Description label"
+  },
+  "prevAmt": "પહેલાની રકમ",
+  "@prevAmt": {
+    "description": "Previous amount label"
+  },
+  "txnAmt": "વ્યવહાર રકમ",
+  "@txnAmt": {
+    "description": "Transaction amount label"
+  },
+  "curAmt": "વર્તમાન રકમ",
+  "@curAmt": {
+    "description": "Current amount label"
+  },
+  "previousAmount": "પહેલાની રકમ",
+  "@previousAmount": {
+    "description": "Previous amount full label"
+  },
+  "transactionAmount": "વ્યવહાર રકમ",
+  "@transactionAmount": {
+    "description": "Transaction amount full label"
+  },
+  "currentAmount": "વર્તમાન રકમ",
+  "@currentAmount": {
+    "description": "Current amount full label"
+  },
+  "date": "તારીખ",
+  "@date": {
+    "description": "Date label"
+  },
+  "time": "સમય",
+  "@time": {
+    "description": "Time label"
+  },
+  "removeThisBidTypeSet": "આ {bidType} સેટ દૂર કરો",
+  "@removeThisBidTypeSet": {
+    "description": "Remove bid type set tooltip",
+    "placeholders": {
+      "bidType": {
+        "type": "String"
+      }
+    }
+  },
+  "quit": "બહાર નીકળો",
+  "@quit": {
+    "description": "Quit dialog title"
+  },
+  "areYouSureYouWantToQuitTheApp": "શું તમે ખરેખર એપ્લિકેશનમાંથી બહાર નીકળવા માંગો છો?",
+  "@areYouSureYouWantToQuitTheApp": {
+    "description": "Quit confirmation message"
+  },
+  "yes": "હા",
+  "@yes": {
+    "description": "Yes button text"
+  },
+  "no": "ના",
+  "@no": {
+    "description": "No button text"
+  },
+  "enterYourMobileNumber": "તમારો મોબાઇલ નંબર દાખલ કરો",
+  "@enterYourMobileNumber": {
+    "description": "Enter your mobile number title"
+  },
+  "registerAndLogin": "નોંધણી કરો અને લૉગિન કરો",
+  "@registerAndLogin": {
+    "description": "Register and login button text"
+  },
+  "username": "વપરાશકર્તા નામ",
+  "@username": {
+    "description": "Username label/hint"
+  },
+  "password": "પાસવર્ડ",
+  "@password": {
+    "description": "Password label/hint"
+  },
+  "enterValidMobileNumber": "માન્ય મોબાઇલ નંબર દાખલ કરો",
+  "@enterValidMobileNumber": {
+    "description": "Enter valid mobile number validation message"
+  },
+  "createNewAccount": "નવું ખાતું બનાવો",
+  "@createNewAccount": {
+    "description": "Create new account title"
+  }
+}
+

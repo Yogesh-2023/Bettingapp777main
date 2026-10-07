@@ -1,0 +1,2779 @@
+{
+  "@@locale": "ml",
+  "chooseLanguage": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+  "@chooseLanguage": {
+    "description": "Title for language selection screen"
+  },
+  "skip": "ഒഴിവാക്കുക",
+  "@skip": {
+    "description": "Skip button text"
+  },
+  "continueButton": "തുടരുക",
+  "@continueButton": {
+    "description": "Continue button text"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+  "hindi": "हिंदी",
+  "@hindi": {
+    "description": "Hindi language name"
+  },
+  "bengali": "Bengali",
+  "@bengali": {
+    "description": "Bengali language name"
+  },
+  "marathi": "Marathi",
+  "@marathi": {
+    "description": "Marathi language name"
+  },
+  "telugu": "Telugu",
+  "@telugu": {
+    "description": "Telugu language name"
+  },
+  "tamil": "Tamil",
+  "@tamil": {
+    "description": "Tamil language name"
+  },
+  "welcomeTo": "സ്വാഗതം",
+  "@welcomeTo": {
+    "description": "Welcome text on login screen"
+  },
+  "indiasBestSattaMatka": "ഇന്ത്യയിലെ മികച്ച സത്താ മട്ടക അപ്ലിക്കേഷൻ\nനിങ്ങളെ സ്വാഗതം ചെയ്യുന്നു !!!",
+  "@indiasBestSattaMatka": {
+    "description": "Welcome message"
+  },
+  "phoneNumber": "ഫോൺ നമ്പർ",
+  "@phoneNumber": {
+    "description": "Phone number label"
+  },
+  "enterPhoneNumber": "ഫോൺ നമ്പർ നൽകുക",
+  "@enterPhoneNumber": {
+    "description": "Phone number hint"
+  },
+  "next": "അടുത്തത്",
+  "@next": {
+    "description": "Next button text"
+  },
+  "trustedBy1LakhUsers": "1 ലക്ഷം ഉപയോക്താക്കൾ വിശ്വസിക്കുന്നു",
+  "@trustedBy1LakhUsers": {
+    "description": "Trust badge text"
+  },
+  "mobileNumberRequired": "മൊബൈൽ നമ്പർ ആവശ്യമാണ്",
+  "@mobileNumberRequired": {
+    "description": "Validation error for empty mobile"
+  },
+  "enterValid10DigitMobile": "സാധുവായ 10 അക്കം മൊബൈൽ നമ്പർ നൽകുക",
+  "@enterValid10DigitMobile": {
+    "description": "Validation error for invalid mobile"
+  },
+  "serverError": "സെർവർ പിശക്: {statusCode}",
+  "@serverError": {
+    "description": "Server error message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "requestTimedOut": "അഭ്യർത്ഥന സമയം കഴിഞ്ഞു. ഇന്റർനെറ്റ് പരിശോധിക്കുക.",
+  "@requestTimedOut": {
+    "description": "Timeout error message"
+  },
+  "somethingWentWrong": "എന്തോ തെറ്റായി.",
+  "@somethingWentWrong": {
+    "description": "Generic error message"
+  },
+  "home": "ഹോം",
+  "@home": {
+    "description": "Home menu item"
+  },
+  "myBids": "എന്റെ ബിഡുകൾ",
+  "@myBids": {
+    "description": "My Bids menu item"
+  },
+  "mpin": "M-PIN",
+  "@mpin": {
+    "description": "MPIN menu item"
+  },
+  "passbook": "പാസ്ബുക്ക്",
+  "@passbook": {
+    "description": "Passbook menu item"
+  },
+  "funds": "ഫണ്ട്",
+  "@funds": {
+    "description": "Funds menu item"
+  },
+  "videos": "വീഡിയോകൾ",
+  "@videos": {
+    "description": "Videos menu item"
+  },
+  "gameRates": "ഗെയിം നിരക്കുകൾ",
+  "@gameRates": {
+    "description": "Game Rates menu item"
+  },
+  "charts": "ചാർട്ടുകൾ",
+  "@charts": {
+    "description": "Charts menu item"
+  },
+  "settings": "ക്രമീകരണങ്ങൾ",
+  "@settings": {
+    "description": "Settings menu item"
+  },
+  "shareApplication": "ആപ്പ് പങ്കിടുക",
+  "@shareApplication": {
+    "description": "Share app menu item"
+  },
+  "logout": "ലോഗൗട്ട്",
+  "@logout": {
+    "description": "Logout menu item"
+  },
+  "kingStarline": "കിംഗ് സ്റ്റാർലൈൻ",
+  "@kingStarline": {
+    "description": "King Starline button"
+  },
+  "kingJackpot": "കിംഗ് ജാക്ക്പോട്ട്",
+  "@kingJackpot": {
+    "description": "King Jackpot button"
+  },
+  "historyPage": "ചരിത്ര പേജ്",
+  "@historyPage": {
+    "description": "History page title"
+  },
+  "youCanViewYourMarketBidHistory": "നിങ്ങൾക്ക് നിങ്ങളുടെ മാർക്കറ്റ് ബിഡ് ചരിത്രം കാണാം",
+  "@youCanViewYourMarketBidHistory": {
+    "description": "Market bid history description"
+  },
+  "youCanViewYourStarlineBidHistory": "നിങ്ങൾക്ക് നിങ്ങളുടെ സ്റ്റാർലൈൻ ബിഡ് ചരിത്രം കാണാം",
+  "@youCanViewYourStarlineBidHistory": {
+    "description": "Starline bid history description"
+  },
+  "youCanViewYourJackpotBidHistory": "നിങ്ങൾക്ക് നിങ്ങളുടെ ജാക്ക്പോട്ട് ബിഡ് ചരിത്രം കാണാം",
+  "@youCanViewYourJackpotBidHistory": {
+    "description": "Jackpot bid history description"
+  },
+  "playGame": "ഗെയിം കളിക്കുക",
+  "@playGame": {
+    "description": "Play game button"
+  },
+  "openBid": "തുറന്ന ബിഡ്",
+  "@openBid": {
+    "description": "Open bid label"
+  },
+  "bettingIsRunning": "ബെറ്റിംഗ് പ്രവർത്തിക്കുന്നു",
+  "@bettingIsRunning": {
+    "description": "Betting is running status"
+  },
+  "closeBid": "അടച്ച ബിഡ്",
+  "@closeBid": {
+    "description": "Close bid label"
+  },
+  "marketClosed": "മാർക്കറ്റ് അടച്ചു",
+  "@marketClosed": {
+    "description": "Market closed status"
+  },
+  "openBids": "തുറന്ന ബിഡുകൾ:",
+  "@openBids": {
+    "description": "Open bids time label"
+  },
+  "closeBids": "അടച്ച ബിഡുകൾ:",
+  "@closeBids": {
+    "description": "Close bids time label"
+  },
+  "errorLoadingData": "ഡാറ്റ ലോഡ് ചെയ്യുന്നതിൽ പിശക്.",
+  "@errorLoadingData": {
+    "description": "Error message when data fails to load"
+  },
+  "noGameDataAvailable": "ഗെയിം ഡാറ്റ ലഭ്യമല്ല.",
+  "@noGameDataAvailable": {
+    "description": "Message when no games are available"
+  },
+  "notificationSettings": "അറിയിപ്പ് ക്രമീകരണങ്ങൾ",
+  "@notificationSettings": {
+    "description": "Notification settings section title"
+  },
+  "mainNotification": "പ്രധാന അറിയിപ്പ്",
+  "@mainNotification": {
+    "description": "Main notification toggle"
+  },
+  "gameNotification": "ഗെയിം അറിയിപ്പ്",
+  "@gameNotification": {
+    "description": "Game notification toggle"
+  },
+  "kingStarlineNotification": "കിംഗ് സ്റ്റാർലൈൻ അറിയിപ്പ്",
+  "@kingStarlineNotification": {
+    "description": "King Starline notification toggle"
+  },
+  "kingJackpotNotification": "കിംഗ് ജാക്ക്പോട്ട് അറിയിപ്പ്",
+  "@kingJackpotNotification": {
+    "description": "King Jackpot notification toggle"
+  },
+  "languageSettings": "ഭാഷാ ക്രമീകരണങ്ങൾ",
+  "@languageSettings": {
+    "description": "Language settings section title"
+  },
+  "ok": "ശരി",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "closedForToday": "ഇന്ന് അടച്ചു",
+  "@closedForToday": {
+    "description": "Market closed message"
+  },
+  "openBidLastTime": "തുറന്ന ബിഡ് അവസാന സമയം",
+  "@openBidLastTime": {
+    "description": "Open bid last time label"
+  },
+  "openResultTime": "തുറന്ന ഫലം സമയം",
+  "@openResultTime": {
+    "description": "Open result time label"
+  },
+  "closeBidLastTime": "അടച്ച ബിഡ് അവസാന സമയം",
+  "@closeBidLastTime": {
+    "description": "Close bid last time label"
+  },
+  "closeResultTime": "അടച്ച ഫലം സമയം",
+  "@closeResultTime": {
+    "description": "Close result time label"
+  },
+  "goodLuck": "ആശംസകൾ",
+  "@goodLuck": {
+    "description": "Good luck message"
+  },
+  "bidsPlacedSuccessfully": "ബിഡുകൾ വിജയകരമായി സ്ഥാപിച്ചു",
+  "@bidsPlacedSuccessfully": {
+    "description": "Bid success message"
+  },
+  "bidPlacementFailed": "ബിഡ് സ്ഥാപനം പരാജയപ്പെട്ടു!",
+  "@bidPlacementFailed": {
+    "description": "Bid failure title"
+  },
+  "pleaseTryAgain": "ദയവായി വീണ്ടും ശ്രമിക്കുക.",
+  "@pleaseTryAgain": {
+    "description": "Generic retry message"
+  },
+  "dismiss": "ഒഴിവാക്കുക",
+  "@dismiss": {
+    "description": "Dismiss button"
+  },
+  "marketClosedMessage": "{gameName} മാർക്കറ്റ് അടച്ചിരിക്കുന്നു.",
+  "@marketClosedMessage": {
+    "description": "Market closed message with game name",
+    "placeholders": {
+      "gameName": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsAdded": "ബിഡുകൾ ചേർത്തിട്ടില്ല",
+  "@noBidsAdded": {
+    "description": "No bids message"
+  },
+  "noDataAddedYet": "ഇതുവരെ ഡാറ്റ ചേർത്തിട്ടില്ല",
+  "@noDataAddedYet": {
+    "description": "No data message"
+  },
+  "submit": "സമർപ്പിക്കുക",
+  "@submit": {
+    "description": "Submit button"
+  },
+  "odd": "ഒറ്റ",
+  "@odd": {
+    "description": "Odd option"
+  },
+  "even": "ഇരട്ട",
+  "@even": {
+    "description": "Even option"
+  },
+  "gameType": "ഗെയിം തരം",
+  "@gameType": {
+    "description": "Game type label"
+  },
+  "digit": "അക്കം",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "points": "പോയിന്റുകൾ",
+  "@points": {
+    "description": "Points label"
+  },
+  "bidId": "ബിഡ് ID",
+  "@bidId": {
+    "description": "Bid ID label"
+  },
+  "bidDate": "ബിഡ് തീയതി",
+  "@bidDate": {
+    "description": "Bid date label"
+  },
+  "noEntriesFound": "എൻട്രികൾ കണ്ടെത്തിയില്ല.",
+  "@noEntriesFound": {
+    "description": "No entries message"
+  },
+  "noChartDataFound": "ചാർട്ട് ഡാറ്റ കണ്ടെത്തിയില്ല.",
+  "@noChartDataFound": {
+    "description": "No chart data message"
+  },
+  "error": "Error: {error}",
+  "@error": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noResultsForThisDate": "ഈ തീയതിയിൽ ഫലങ്ങൾ ഇല്ല.",
+  "@noResultsForThisDate": {
+    "description": "No results message"
+  },
+  "bids": "ബിഡുകൾ: {count}",
+  "@bids": {
+    "description": "Bids count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "total": "ആകെ: ₹{amount}",
+  "@total": {
+    "description": "Total amount",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "profilePage": "പ്രൊഫൈൽ പേജ്",
+  "@profilePage": {
+    "description": "Profile page title"
+  },
+  "historyPage": "ചരിത്ര പേജ്",
+  "@historyPage": {
+    "description": "History page title"
+  },
+  "bidHistory": "ബിഡ് ചരിത്രം",
+  "@bidHistory": {
+    "description": "Bid history page title"
+  },
+  "noBidEntriesFound": "ബിഡ് എൻട്രികൾ കണ്ടെത്തിയില്ല.",
+  "@noBidEntriesFound": {
+    "description": "No bid entries found message"
+  },
+  "transactionTime": "ട്രാൻസാക്ഷൻ സമയം:",
+  "@transactionTime": {
+    "description": "Transaction time label"
+  },
+  "betterLuckNextTime": "അടുത്ത തവണ അനുഗ്രഹമുണ്ടാകട്ടെ",
+  "@betterLuckNextTime": {
+    "description": "Better luck next time message"
+  },
+  "permissionGranted": "{permission} അനുമതി നൽകി!",
+  "@permissionGranted": {
+    "description": "Permission granted message",
+    "placeholders": {
+      "permission": {
+        "type": "String"
+      }
+    }
+  },
+  "whatsappNumberNotFound": "WhatsApp നമ്പർ കണ്ടെത്തിയില്ല.",
+  "@whatsappNumberNotFound": {
+    "description": "WhatsApp error message"
+  },
+  "couldNotOpenWhatsapp": "WhatsApp തുറക്കാൻ കഴിഞ്ഞില്ല. ദയവായി ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക.",
+  "@couldNotOpenWhatsapp": {
+    "description": "WhatsApp not installed message"
+  },
+  "noVideosAvailable": "ഈ ഭാഷയ്ക്ക് വീഡിയോകൾ ലഭ്യമല്ല",
+  "@noVideosAvailable": {
+    "description": "No videos message"
+  },
+  "noAppFoundToOpenLink": "ഈ ലിങ്ക് തുറക്കാൻ ആപ്പ് കണ്ടെത്തിയില്ല",
+  "@noAppFoundToOpenLink": {
+    "description": "No app found message"
+  },
+  "cannotHandleLink": "ഈ ലിങ്ക് കൈകാര്യം ചെയ്യാൻ കഴിയില്ല",
+  "@cannotHandleLink": {
+    "description": "Cannot handle link message"
+  },
+  "screenshotSavedToGallery": "സ്ക്രീൻഷോട്ട് ഗാലറിയിൽ സേവ് ചെയ്തു",
+  "@screenshotSavedToGallery": {
+    "description": "Screenshot saved message"
+  },
+  "failedToSaveScreenshot": "സ്ക്രീൻഷോട്ട് സേവ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+  "@failedToSaveScreenshot": {
+    "description": "Screenshot failed message"
+  },
+  "qrPayment": "QR പേയ്മെന്റ്",
+  "@qrPayment": {
+    "description": "QR payment title"
+  },
+  "saveQrToGallery": "QR ഗാലറിയിൽ സേവ് ചെയ്യുക",
+  "@saveQrToGallery": {
+    "description": "Save QR button"
+  },
+  "noDepositHistoryFound": "ഡെപോസിറ്റ് ചരിത്രം കണ്ടെത്തിയില്ല",
+  "@noDepositHistoryFound": {
+    "description": "No deposit history message"
+  },
+  "noWithdrawHistoryFound": "എടുത്ത ചരിത്രം കണ്ടെത്തിയില്ല.",
+  "@noWithdrawHistoryFound": {
+    "description": "No withdraw history message"
+  },
+  "registerIdMissing": "രജിസ്റ്റർ ID കാണാം. ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക.",
+  "@registerIdMissing": {
+    "description": "Register ID missing message"
+  },
+  "noBidsYet": "ഇതുവരെ ബിഡുകൾ ഇല്ല",
+  "@noBidsYet": {
+    "description": "No bids yet message"
+  },
+  "halfSangamB": "ഹാഫ് സംഗം B",
+  "@halfSangamB": {
+    "description": "Half Sangam B label"
+  },
+  "halfSangamA": "ഹാഫ് സംഗം A",
+  "@halfSangamA": {
+    "description": "Half Sangam A label"
+  },
+  "openDigitEkHiHonaChahiye": "തുറന്ന അക്കം ഒന്ന് മാത്രമായിരിക്കണം (0-9).",
+  "@openDigitEkHiHonaChahiye": {
+    "description": "Open digit validation in Hindi"
+  },
+  "openDigit0Se9KeBeechDo": "തുറന്ന അക്കം 0 മുതൽ 9 വരെ നൽകുക.",
+  "@openDigit0Se9KeBeechDo": {
+    "description": "Open digit range validation in Hindi"
+  },
+  "valid3DigitPannaDo": "സാധുവായ 3-അക്ക പന്ന നൽകുക (ഉദാ. 123).",
+  "@valid3DigitPannaDo": {
+    "description": "Panna validation in Hindi"
+  },
+  "pointsMinSe1000KeBeechDo": "പോയിന്റുകൾ {min} മുതൽ 1000 വരെ നൽകുക.",
+  "@pointsMinSe1000KeBeechDo": {
+    "description": "Points validation in Hindi",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "addingThisWillExceedWalletBalance": "ഇത് ചേർത്താൽ മൊത്തം വാലറ്റ് കവിയും.",
+  "@addingThisWillExceedWalletBalance": {
+    "description": "Adding will exceed wallet balance message"
+  },
+  "updatedAnkPanna": "അപ്‌ഡേറ്റ് ചെയ്തു: {ank}-{panna}.",
+  "@updatedAnkPanna": {
+    "description": "Updated ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "addedAnkPannaWithPoints": "ചേർത്തു: {ank}-{panna} — {pts} പോയിന്റുകൾ.",
+  "@addedAnkPannaWithPoints": {
+    "description": "Added ank panna with points message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      },
+      "pts": {
+        "type": "String"
+      }
+    }
+  },
+  "removedAnkPanna": "നീക്കംചെയ്തു: {ank}-{panna}.",
+  "@removedAnkPanna": {
+    "description": "Removed ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddAtLeastOneBidFirst": "ദയവായി ആദ്യം കുറഞ്ഞത് ഒരു ബിഡ് ചേർക്കുക.",
+  "@pleaseAddAtLeastOneBidFirst": {
+    "description": "Please add at least one bid first message"
+  },
+  "walletBalanceLow": "വാലറ്റ് ബാലൻസ് കുറവാണ്.",
+  "@walletBalanceLow": {
+    "description": "Wallet balance low message"
+  },
+  "authIssuePleaseLoginAgain": "പ്രാമാണീകരണ പ്രശ്നം — ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക.",
+  "@authIssuePleaseLoginAgain": {
+    "description": "Auth issue please login again message"
+  },
+  "screenNotMounted": "സ്ക്രീൻ മ mount ചെയ്തിട്ടില്ല.",
+  "@screenNotMounted": {
+    "description": "Screen not mounted error"
+  },
+  "noValidBidsToSubmit": "സമർപ്പിക്കാൻ സാധുവായ ബിഡുകൾ ഇല്ല.",
+  "@noValidBidsToSubmit": {
+    "description": "No valid bids message"
+  },
+  "screenNotFound": "പിശക്: സ്ക്രീൻ കണ്ടെത്തിയില്ല",
+  "@screenNotFound": {
+    "description": "Screen not found error"
+  },
+  "wallet": "വാലറ്റ്",
+  "@wallet": {
+    "description": "Wallet label"
+  },
+  "chat": "ചാറ്റ്",
+  "@chat": {
+    "description": "Chat menu item"
+  },
+  "enterValid3To7DigitNumber": "സാധുവായ 3-7 അക്ക നമ്പർ നൽകുക",
+  "@enterValid3To7DigitNumber": {
+    "description": "Validation error for digit number"
+  },
+  "numberMustHaveAtLeast2UniqueDigits": "നമ്പറിൽ കുറഞ്ഞത് 2 അദ്വിതീയ അക്കങ്ങൾ ഉണ്ടായിരിക്കണം",
+  "@numberMustHaveAtLeast2UniqueDigits": {
+    "description": "Validation error for unique digits"
+  },
+  "enterValid3DigitNumber": "സാധുവായ 3-അക്ക നമ്പർ നൽകുക.",
+  "@enterValid3DigitNumber": {
+    "description": "Validation error for 3 digit number"
+  },
+  "invalidTriplePannaNumber": "Invalid Triple Panna number.",
+  "@invalidTriplePannaNumber": {
+    "description": "Invalid triple panna error"
+  },
+  "pleaseEnterValid3DigitOpenPanna": "ദയവായി സാധുവായ 3-അക്ക തുറന്ന പന്ന നൽകുക.",
+  "@pleaseEnterValid3DigitOpenPanna": {
+    "description": "Validation error for open panna"
+  },
+  "pleaseEnterValid3DigitClosePanna": "ദയവായി സാധുവായ 3-അക്ക അടച്ച പന്ന നൽകുക.",
+  "@pleaseEnterValid3DigitClosePanna": {
+    "description": "Validation error for close panna"
+  },
+  "pointsMustBeBetween": "പോയിന്റുകൾ {min} നും 1000 നും ഇടയിൽ ആയിരിക്കണം.",
+  "@pointsMustBeBetween": {
+    "description": "Points validation error",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "openDigitEkHiHonaChahiye": "Open Digit ek hi hona chahiye (0-9).",
+  "@openDigitEkHiHonaChahiye": {
+    "description": "Open digit validation in Hindi"
+  },
+  "openDigit0Se9KeBeechDo": "Open Digit 0 se 9 ke beech do.",
+  "@openDigit0Se9KeBeechDo": {
+    "description": "Open digit range validation in Hindi"
+  },
+  "valid3DigitPannaDo": "Valid 3-digit Panna do (e.g. 123).",
+  "@valid3DigitPannaDo": {
+    "description": "Panna validation in Hindi"
+  },
+  "pointsMinSe1000KeBeechDo": "Points {min} se 1000 ke beech do.",
+  "@pointsMinSe1000KeBeechDo": {
+    "description": "Points validation in Hindi",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "paymentFailed": "പേയ്മെന്റ് പരാജയപ്പെട്ടു",
+  "@paymentFailed": {
+    "description": "Payment failure title"
+  },
+  "whatsappNumberNotAvailable": "WhatsApp നമ്പർ ലഭ്യമല്ല",
+  "@whatsappNumberNotAvailable": {
+    "description": "WhatsApp number unavailable message"
+  },
+  "errorLaunchingWhatsapp": "WhatsApp ലോഞ്ച് ചെയ്യുന്നതിൽ പിശക്",
+  "@errorLaunchingWhatsapp": {
+    "description": "WhatsApp launch error"
+  },
+  "mobileNumberNotAvailable": "മൊബൈൽ നമ്പർ ലഭ്യമല്ല",
+  "@mobileNumberNotAvailable": {
+    "description": "Mobile number unavailable"
+  },
+  "checkOutSara777App": "Sara 777 ആപ്പ് പരിശോധിക്കുക!",
+  "@checkOutSara777App": {
+    "description": "Share app subject"
+  },
+  "imLovingSara777App": "ഞാൻ Sara 777 ആപ്പ് ഇഷ്ടപ്പെടുന്നു\n\nഇപ്പോൾ ആപ്പ് ഡൗൺലോഡ് ചെയ്യുക\n\nഇവിടെ നിന്ന്:-\nhttps://admin.sara777.app",
+  "@imLovingSara777App": {
+    "description": "Share app message"
+  },
+  "open": "തുറക്കുക",
+  "@open": {
+    "description": "Open session"
+  },
+  "close": "അടയ്ക്കുക",
+  "@close": {
+    "description": "Close session"
+  },
+  "session": "സെഷൻ",
+  "@session": {
+    "description": "Session label"
+  },
+  "remove": "നീക്കംചെയ്യുക",
+  "@remove": {
+    "description": "Remove button"
+  },
+  "add": "ചേർക്കുക",
+  "@add": {
+    "description": "Add button"
+  },
+  "clear": "മായ്ക്കുക",
+  "@clear": {
+    "description": "Clear button"
+  },
+  "confirm": "സ്ഥിരീകരിക്കുക",
+  "@confirm": {
+    "description": "Confirm button"
+  },
+  "cancel": "റദ്ദാക്കുക",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  "loading": "ലോഡ് ചെയ്യുന്നു...",
+  "@loading": {
+    "description": "Loading message"
+  },
+  "pleaseWait": "ദയവായി കാത്തിരിക്കുക...",
+  "@pleaseWait": {
+    "description": "Please wait message"
+  },
+  "success": "വിജയം",
+  "@success": {
+    "description": "Success message"
+  },
+  "failed": "പരാജയപ്പെട്ടു",
+  "@failed": {
+    "description": "Failed message"
+  },
+  "retry": "വീണ്ടും ശ്രമിക്കുക",
+  "@retry": {
+    "description": "Retry button"
+  },
+  "save": "സേവ് ചെയ്യുക",
+  "@save": {
+    "description": "Save button"
+  },
+  "delete": "ഇല്ലാതാക്കുക",
+  "@delete": {
+    "description": "Delete button"
+  },
+  "edit": "എഡിറ്റ് ചെയ്യുക",
+  "@edit": {
+    "description": "Edit button"
+  },
+  "back": "തിരികെ",
+  "@back": {
+    "description": "Back button"
+  },
+  "nextPage": "അടുത്തത്",
+  "@nextPage": {
+    "description": "Next page button"
+  },
+  "previous": "മുമ്പത്തേത്",
+  "@previous": {
+    "description": "Previous button"
+  },
+  "search": "തിരയുക",
+  "@search": {
+    "description": "Search placeholder"
+  },
+  "filter": "ഫിൽട്ടർ",
+  "@filter": {
+    "description": "Filter button"
+  },
+  "sort": "വർഗ്ഗീകരിക്കുക",
+  "@sort": {
+    "description": "Sort button"
+  },
+  "refresh": "പുതുക്കുക",
+  "@refresh": {
+    "description": "Refresh button"
+  },
+  "noInternetConnection": "ഇന്റർനെറ്റ് കണക്ഷൻ ഇല്ല",
+  "@noInternetConnection": {
+    "description": "No internet message"
+  },
+  "tryAgain": "വീണ്ടും ശ്രമിക്കുക",
+  "@tryAgain": {
+    "description": "Try again button"
+  },
+  "insufficientBalance": "അപര്യാപ്തമായ ബാലൻസ്",
+  "@insufficientBalance": {
+    "description": "Insufficient balance message"
+  },
+  "invalidInput": "അസാധുവായ ഇൻപുട്ട്",
+  "@invalidInput": {
+    "description": "Invalid input message"
+  },
+  "selectGameType": "ഗെയിം തരം തിരഞ്ഞെടുക്കുക",
+  "@selectGameType": {
+    "description": "Select game type prompt"
+  },
+  "selectDigit": "അക്കം തിരഞ്ഞെടുക്കുക",
+  "@selectDigit": {
+    "description": "Select digit prompt"
+  },
+  "enterPoints": "പോയിന്റുകൾ നൽകുക",
+  "@enterPoints": {
+    "description": "Enter points prompt"
+  },
+  "totalPoints": "ആകെ പോയിന്റുകൾ",
+  "@totalPoints": {
+    "description": "Total points label"
+  },
+  "totalAmount": "ആകെ തുക",
+  "@totalAmount": {
+    "description": "Total amount label"
+  },
+  "walletBalanceBeforeDeduction": "കുറയ്ക്കുന്നതിന് മുമ്പുള്ള വാലറ്റ് ബാലൻസ്",
+  "@walletBalanceBeforeDeduction": {
+    "description": "Wallet balance before deduction label"
+  },
+  "walletBalanceAfterDeduction": "കുറയ്ക്കുന്നതിന് ശേഷമുള്ള വാലറ്റ് ബാലൻസ്",
+  "@walletBalanceAfterDeduction": {
+    "description": "Wallet balance after deduction label"
+  },
+  "noteBidOncePlayedWillNotBeCancelled": "*കുറിപ്പ്: കളിച്ച ബിഡ് റദ്ദാക്കില്ല",
+  "@noteBidOncePlayedWillNotBeCancelled": {
+    "description": "Note about bid cancellation"
+  },
+  "confirmBid": "ബിഡ് സ്ഥിരീകരിക്കുക",
+  "@confirmBid": {
+    "description": "Confirm bid button"
+  },
+  "bidDetails": "ബിഡ് വിശദാംശങ്ങൾ",
+  "@bidDetails": {
+    "description": "Bid details title"
+  },
+  "gameName": "ഗെയിം പേര്",
+  "@gameName": {
+    "description": "Game name label"
+  },
+  "date": "തീയതി",
+  "@date": {
+    "description": "Date label"
+  },
+  "time": "സമയം",
+  "@time": {
+    "description": "Time label"
+  },
+  "prev": "മുമ്പത്തെ",
+  "@prev": {
+    "description": "Previous button text (short)"
+  },
+  "description": "വിവരണം",
+  "@description": {
+    "description": "Description label"
+  },
+  "prevAmt": "മുമ്പത്തെ തുക",
+  "@prevAmt": {
+    "description": "Previous amount label"
+  },
+  "txnAmt": "ഇടപാട് തുക",
+  "@txnAmt": {
+    "description": "Transaction amount label"
+  },
+  "curAmt": "നിലവിലെ തുക",
+  "@curAmt": {
+    "description": "Current amount label"
+  },
+  "previousAmount": "മുമ്പത്തെ തുക",
+  "@previousAmount": {
+    "description": "Previous amount full label"
+  },
+  "transactionAmount": "ഇടപാട് തുക",
+  "@transactionAmount": {
+    "description": "Transaction amount full label"
+  },
+  "currentAmount": "നിലവിലെ തുക",
+  "@currentAmount": {
+    "description": "Current amount full label"
+  },
+  "status": "പദവി",
+  "@status": {
+    "description": "Status label"
+  },
+  "amount": "തുക",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "result": "ഫലം",
+  "@result": {
+    "description": "Result label"
+  },
+  "win": "ജയം",
+  "@win": {
+    "description": "Win status"
+  },
+  "loss": "നഷ്ടം",
+  "@loss": {
+    "description": "Loss status"
+  },
+  "pending": "താമസിക്കുന്നു",
+  "@pending": {
+    "description": "Pending status"
+  },
+  "completed": "പൂർത്തിയാക്കി",
+  "@completed": {
+    "description": "Completed status"
+  },
+  "enterOpenPanna": "തുറന്ന പന്ന നൽകുക :",
+  "@enterOpenPanna": {
+    "description": "Enter open panna label"
+  },
+  "enterClosePanna": "അടച്ച പന്ന നൽകുക :",
+  "@enterClosePanna": {
+    "description": "Enter close panna label"
+  },
+  "pannaDigit": "പന്ന - അക്കം",
+  "@pannaDigit": {
+    "description": "Panna Digit label"
+  },
+  "noBidsPlaced": "ബിഡുകൾ സ്ഥാപിച്ചിട്ടില്ല",
+  "@noBidsPlaced": {
+    "description": "No bids placed message"
+  },
+  "enterOpenDigit": "തുറന്ന അക്കം നൽകുക :",
+  "@enterOpenDigit": {
+    "description": "Enter open digit label"
+  },
+  "ank": "അക്കം",
+  "@ank": {
+    "description": "Ank label"
+  },
+  "pana": "പന്ന",
+  "@pana": {
+    "description": "Pana label"
+  },
+  "pannaAnk": "പന്ന - അക്കം",
+  "@pannaAnk": {
+    "description": "Panna Ank label"
+  },
+  "noBidsAddedYet": "ഇതുവരെ ബിഡുകൾ ചേർത്തിട്ടില്ല",
+  "@noBidsAddedYet": {
+    "description": "No bids added yet message"
+  },
+  "half": "പകുതി",
+  "@half": {
+    "description": "Half bracket type label"
+  },
+  "full": "പൂർണ്ണം",
+  "@full": {
+    "description": "Full bracket type label"
+  },
+  "leftDigit": "ഇടത് അക്കം",
+  "@leftDigit": {
+    "description": "Left digit label"
+  },
+  "rightDigit": "വലത് അക്കം",
+  "@rightDigit": {
+    "description": "Right digit label"
+  },
+  "digits": "അക്കങ്ങൾ",
+  "@digits": {
+    "description": "Digits label"
+  },
+  "enterTwoDigits": "രണ്ട് അക്കങ്ങൾ നൽകുക:",
+  "@enterTwoDigits": {
+    "description": "Enter two digits label"
+  },
+  "totalColon": "ആകെ:",
+  "@totalColon": {
+    "description": "Total label with colon"
+  },
+  "enterNumber": "നമ്പർ നൽകുക:",
+  "@enterNumber": {
+    "description": "Enter number label"
+  },
+  "enterNumberHint": "നമ്പർ നൽകുക",
+  "@enterNumberHint": {
+    "description": "Enter number hint"
+  },
+  "enterLeftDigit": "ഇടത് അക്കം നൽകുക",
+  "@enterLeftDigit": {
+    "description": "Enter left digit label"
+  },
+  "enterMiddleDigit": "മധ്യ അക്കം നൽകുക",
+  "@enterMiddleDigit": {
+    "description": "Enter middle digit label"
+  },
+  "enterRightDigit": "വലത് അക്കം നൽകുക",
+  "@enterRightDigit": {
+    "description": "Enter right digit label"
+  },
+  "enterSingleDigit": "ഒരു അക്കം നൽകുക:",
+  "@enterSingleDigit": {
+    "description": "Enter single digit label"
+  },
+  "enterSingleDigitHint": "ഒരു അക്കം നൽകുക",
+  "@enterSingleDigitHint": {
+    "description": "Enter single digit hint"
+  },
+  "enterPanaNumberColon": "പന്ന നമ്പർ നൽകുക:",
+  "@enterPanaNumberColon": {
+    "description": "Enter pana number label"
+  },
+  "enterPanaExampleHint": "ഉദാ., 123, 445",
+  "@enterPanaExampleHint": {
+    "description": "Hint text for pana input field"
+  },
+  "easyMode": "എളുപ്പ മോഡ്",
+  "@easyMode": {
+    "description": "Easy mode label"
+  },
+  "specialMode": "പ്രത്യേക മോഡ്",
+  "@specialMode": {
+    "description": "Special mode label"
+  },
+  "enterSinglePanna": "സിംഗിൾ പന്ന നൽകുക:",
+  "@enterSinglePanna": {
+    "description": "Enter single panna label"
+  },
+  "bidPanna": "ബിഡ് പന്ന",
+  "@bidPanna": {
+    "description": "Bid panna hint"
+  },
+  "totalPointsColon": "ആകെ പോയിന്റുകൾ:",
+  "@totalPointsColon": {
+    "description": "Total points label with colon"
+  },
+  "biddingIsClosedForThisSlot": "ഈ സ്ലോട്ടിനായി ബിഡ് അടച്ചിരിക്കുന്നു.",
+  "@biddingIsClosedForThisSlot": {
+    "description": "Bidding closed message"
+  },
+  "pleaseFillAllFields": "ദയവായി എല്ലാ ഫീൽഡുകളും പൂരിപ്പിക്കുക.",
+  "@pleaseFillAllFields": {
+    "description": "Fill all fields validation"
+  },
+  "pleaseEnterValidSinglePanna": "ദയവായി സാധുവായ സിംഗിൾ പന്ന നമ്പർ നൽകുക.",
+  "@pleaseEnterValidSinglePanna": {
+    "description": "Valid single panna validation"
+  },
+  "updatedAmountForPanna": "പന്നയ്ക്കായി അപ്‌ഡേറ്റ് ചെയ്ത തുക:",
+  "@updatedAmountForPanna": {
+    "description": "Updated amount message"
+  },
+  "addedBidPanna": "ബിഡ് ചേർത്തു: പന്ന",
+  "@addedBidPanna": {
+    "description": "Added bid message"
+  },
+  "pleaseAddAtLeastOneBidToConfirm": "ദയവായി സ്ഥിരീകരിക്കാൻ കുറഞ്ഞത് ഒരു ബിഡ് ചേർക്കുക.",
+  "@pleaseAddAtLeastOneBidToConfirm": {
+    "description": "Add at least one bid message"
+  },
+  "insufficientWalletBalanceForAllBids": "എല്ലാ ബിഡുകൾക്കും വാലറ്റ് ബാലൻസ് പോരാ.",
+  "@insufficientWalletBalanceForAllBids": {
+    "description": "Insufficient balance for all bids"
+  },
+  "noValidBidsForSelectedGameType": "തിരഞ്ഞെടുത്ത ഗെയിം തരത്തിന് സാധുവായ ബിഡുകൾ ഇല്ല.",
+  "@noValidBidsForSelectedGameType": {
+    "description": "No valid bids message"
+  },
+  "and": "ഒപ്പം",
+  "@and": {
+    "description": "And conjunction"
+  },
+  "sangam": "സംഗം",
+  "@sangam": {
+    "description": "Sangam label"
+  },
+  "bid": "ബിഡ്",
+  "@bid": {
+    "description": "Bid label"
+  },
+  "total": "ആകെ",
+  "@total": {
+    "description": "Total label"
+  },
+  "pleaseAddAtLeastOneBid": "ദയവായി കുറഞ്ഞത് ഒരു ബിഡ് ചേർക്കുക.",
+  "@pleaseAddAtLeastOneBid": {
+    "description": "Please add at least one bid message"
+  },
+  "insufficientWalletBalanceToPlaceBid": "ഈ ബിഡ് സ്ഥാപിക്കാൻ വാലറ്റ് ബാലൻസ് പോരാ.",
+  "@insufficientWalletBalanceToPlaceBid": {
+    "description": "Insufficient wallet balance message"
+  },
+  "updatedPointsFor": "{sangam} നുള്ള പോയിന്റുകൾ അപ്‌ഡേറ്റ് ചെയ്തു.",
+  "@updatedPointsFor": {
+    "description": "Updated points message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidWithPoints": "ബിഡ് ചേർത്തു: {sangam} {points} പോയിന്റുകളോടെ.",
+  "@addedBidWithPoints": {
+    "description": "Added bid message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "bidRemovedFromList": "ലിസ്റ്റിൽ നിന്ന് {sangam} നുള്ള ബിഡ് നീക്കംചെയ്തു.",
+  "@bidRemovedFromList": {
+    "description": "Bid removed message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "screenNotMounted": "സ്ക്രീൻ മ mount ചെയ്തിട്ടില്ല.",
+  "@screenNotMounted": {
+    "description": "Screen not mounted error"
+  },
+  "authenticationErrorPleaseLoginAgain": "പ്രമാണീകരണ പിശക്. ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക.",
+  "@authenticationErrorPleaseLoginAgain": {
+    "description": "Authentication error message"
+  },
+  "noValidBidsToSubmit": "സമർപ്പിക്കാൻ സാധുവായ ബിഡുകൾ ഇല്ല.",
+  "@noValidBidsToSubmit": {
+    "description": "No valid bids message"
+  },
+  "unexpectedErrorOccurred": "അപ്രതീക്ഷിത പിശക് സംഭവിച്ചു: {error}",
+  "@unexpectedErrorOccurred": {
+    "description": "Unexpected error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ank": "അക്കം",
+  "@ank": {
+    "description": "Ank label"
+  },
+  "pana": "പന്ന",
+  "@pana": {
+    "description": "Pana label"
+  },
+  "addBid": "ബിഡ് ചേർക്കുക",
+  "@addBid": {
+    "description": "Add bid button"
+  },
+  "pannaAnk": "പന്ന - അക്കം",
+  "@pannaAnk": {
+    "description": "Panna Ank label"
+  },
+  "pannaDigit": "പന്ന - അക്കം",
+  "@pannaDigit": {
+    "description": "Panna Digit label"
+  },
+  "type": "തരം",
+  "@type": {
+    "description": "Type label"
+  },
+  "halfSangamA": "ഹാഫ് സംഗം A",
+  "@halfSangamA": {
+    "description": "Half Sangam A label"
+  },
+  "noBidsAddedYet": "ഇതുവരെ ബിഡുകൾ ചേർത്തിട്ടില്ല",
+  "@noBidsAddedYet": {
+    "description": "No bids added yet message"
+  },
+  "noBidsPlaced": "ബിഡുകൾ സ്ഥാപിച്ചിട്ടില്ല",
+  "@noBidsPlaced": {
+    "description": "No bids placed message"
+  },
+  "ankOneDigitRequired": "Ank 1 digit ka do (0–9).",
+  "@ankOneDigitRequired": {
+    "description": "Ank one digit required message"
+  },
+  "ankBetween0And9": "Ank 0 se 9 ke beech do.",
+  "@ankBetween0And9": {
+    "description": "Ank between 0 and 9 message"
+  },
+  "addingThisWillExceedWalletBalance": "Itna add karne se total wallet se zyada ho jayega.",
+  "@addingThisWillExceedWalletBalance": {
+    "description": "Adding will exceed wallet balance message"
+  },
+  "updatedAnkPanna": "Updated: {ank}-{panna}.",
+  "@updatedAnkPanna": {
+    "description": "Updated ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "addedAnkPannaWithPoints": "Added: {ank}-{panna} — {pts} pts.",
+  "@addedAnkPannaWithPoints": {
+    "description": "Added ank panna with points message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      },
+      "pts": {
+        "type": "String"
+      }
+    }
+  },
+  "removedAnkPanna": "Removed {ank}-{panna}.",
+  "@removedAnkPanna": {
+    "description": "Removed ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddAtLeastOneBidFirst": "Pehle kam se kam 1 bid add karo.",
+  "@pleaseAddAtLeastOneBidFirst": {
+    "description": "Please add at least one bid first message"
+  },
+  "walletBalanceLow": "Wallet balance kam hai.",
+  "@walletBalanceLow": {
+    "description": "Wallet balance low message"
+  },
+  "authIssuePleaseLoginAgain": "Auth issue — login dobara karo.",
+  "@authIssuePleaseLoginAgain": {
+    "description": "Auth issue please login again message"
+  },
+  "enterOpenDigit": "തുറന്ന അക്കം നൽകുക :",
+  "@enterOpenDigit": {
+    "description": "Enter open digit label"
+  },
+  "removedSangam": "{sangam} നീക്കംചെയ്തു.",
+  "@removedSangam": {
+    "description": "Removed sangam message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameType": "ഗെയിം തരം തിരഞ്ഞെടുക്കുക :",
+  "@selectGameType": {
+    "description": "Select game type label"
+  },
+  "enterAmount": "തുക നൽകുക",
+  "@enterAmount": {
+    "description": "Enter amount hint"
+  },
+  "insufficientWalletBalance": "വാലറ്റ് ബാലൻസ് പോരാ.",
+  "@insufficientWalletBalance": {
+    "description": "Insufficient wallet balance message"
+  },
+  "noBidsToSubmit": "സമർപ്പിക്കാൻ ബിഡുകൾ ഇല്ല.",
+  "@noBidsToSubmit": {
+    "description": "No bids to submit message"
+  },
+  "noBidsAdded": "ബിഡുകൾ ചേർത്തിട്ടില്ല.",
+  "@noBidsAdded": {
+    "description": "No bids added message"
+  },
+  "noPanasReturnedForDigit": "ഈ അക്കത്തിന് പനകൾ ലഭിച്ചില്ല.",
+  "@noPanasReturnedForDigit": {
+    "description": "No panas returned message"
+  },
+  "bidsForDigitAdded": "അക്കം {digit} നുള്ള {count} ബിഡുകൾ ചേർത്തു!",
+  "@bidsForDigitAdded": {
+    "description": "Bids for digit added message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToAddBulkBids": "ബൾക്ക് ബിഡുകൾ ചേർക്കുന്നതിൽ പരാജയപ്പെട്ടു.",
+  "@failedToAddBulkBids": {
+    "description": "Failed to add bulk bids message"
+  },
+  "networkError": "നെറ്റ്‌വർക്ക് പിശക്: {error}",
+  "@networkError": {
+    "description": "Network error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "bidForPanaRemoved": "പന {pana} നുള്ള ബിഡ് നീക്കംചെയ്തു.",
+  "@bidForPanaRemoved": {
+    "description": "Bid for pana removed message",
+    "placeholders": {
+      "pana": {
+        "type": "String"
+      }
+    }
+  },
+  "someOrAllBidsFailed": "ചിലതോ എല്ലാത്തോ ബിഡുകൾ സമർപ്പിക്കുന്നതിൽ പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക.",
+  "@someOrAllBidsFailed": {
+    "description": "Some or all bids failed message"
+  },
+  "allBidsSubmittedSuccessfully": "എല്ലാ ബിഡുകളും വിജയകരമായി സമർപ്പിച്ചു!",
+  "@allBidsSubmittedSuccessfully": {
+    "description": "All bids submitted successfully message"
+  },
+  "noBidsPlacedYetTapNumber": "ഇതുവരെ ബിഡുകൾ സ്ഥാപിച്ചിട്ടില്ല. ഒരു നമ്പർ ടാപ്പ് ചെയ്യുക!",
+  "@noBidsPlacedYetTapNumber": {
+    "description": "No bids placed yet tap number message"
+  },
+  "bids": "ബിഡുകൾ",
+  "@bids": {
+    "description": "Bids label (plural)"
+  },
+  "enterValidDoublePana": "സാധുവായ ഡബിൾ പന (3-അക്ക) നമ്പർ നൽകുക.",
+  "@enterValidDoublePana": {
+    "description": "Enter valid double pana message"
+  },
+  "updatedDigitSession": "അപ്‌ഡേറ്റ് ചെയ്തു: {digit} ({session})",
+  "@updatedDigitSession": {
+    "description": "Updated digit session message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "addedDigitSession": "ചേർത്തു: {digit} ({session})",
+  "@addedDigitSession": {
+    "description": "Added digit session message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "removedDigitSession": "നീക്കംചെയ്തു: {digit} ({session})",
+  "@removedDigitSession": {
+    "description": "Removed digit session message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "bidsAddedFromApi": "API-യിൽ നിന്ന് ബിഡുകൾ ചേർത്തു.",
+  "@bidsAddedFromApi": {
+    "description": "Bids added from API success message"
+  },
+  "requestFailed": "അഭ്യർത്ഥന പരാജയപ്പെട്ടു.",
+  "@requestFailed": {
+    "description": "Request failed error message"
+  },
+  "pleaseEnterAtLeastOneThreeDigitPanaNumber": "ദയവായി കുറഞ്ഞത് ഒരു 3-അക്ക പന്ന നമ്പർ നൽകുക.",
+  "@pleaseEnterAtLeastOneThreeDigitPanaNumber": {
+    "description": "Validation message for empty pana input"
+  },
+  "invalidPanaWithDigit": "അസാധുവായ പന്ന: {digit}",
+  "@invalidPanaWithDigit": {
+    "description": "Invalid pana error message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "noValidPanasReturnedFromServer": "സെർവറിൽ നിന്ന് സാധുവായ പന്നകൾ തിരികെ വന്നില്ല.",
+  "@noValidPanasReturnedFromServer": {
+    "description": "No valid panas returned error"
+  },
+  "addedBidsCount": "{count} ബിഡ്(കൾ) ചേർത്തു.",
+  "@addedBidsCount": {
+    "description": "Added bids success message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "removedPanaDigit": "നീക്കംചെയ്തു: {digit}",
+  "@removedPanaDigit": {
+    "description": "Removed pana digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "removedDigit": "നീക്കംചെയ്തു: {digit}",
+  "@removedDigit": {
+    "description": "Removed digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "noEntriesYetAddData": "ഇതുവരെ എൻട്രികൾ ഇല്ല. ചില ഡാറ്റ ചേർക്കുക!",
+  "@noEntriesYetAddData": {
+    "description": "No entries yet add data message"
+  },
+  "enter3DigitNumber": "3-അക്ക നമ്പർ നൽകുക",
+  "@enter3DigitNumber": {
+    "description": "Enter 3 digit number label"
+  },
+  "enter3DigitNumberColon": "3-അക്ക നമ്പർ നൽകുക:",
+  "@enter3DigitNumberColon": {
+    "description": "Enter 3 digit number label with colon"
+  },
+  "gameTypeLabel": "ഗെയിം തരം",
+  "@gameTypeLabel": {
+    "description": "Game type label"
+  },
+  "amountLabel": "തുക",
+  "@amountLabel": {
+    "description": "Amount label"
+  },
+  "bidsLabel": "ബിഡുകൾ",
+  "@bidsLabel": {
+    "description": "Bids label (simple text)"
+  },
+  "pointsLabel": "പോയിന്റുകൾ",
+  "@pointsLabel": {
+    "description": "Points label"
+  },
+  "session": "സെഷൻ",
+  "@session": {
+    "description": "Session label"
+  },
+  "pleaseSelectOddOrEven": "ദയവായി ഒറ്റ അല്ലെങ്കിൽ ഇരട്ട തിരഞ്ഞെടുക്കുക.",
+  "@pleaseSelectOddOrEven": {
+    "description": "Please select odd or even message"
+  },
+  "addedGroupSession": "ചേർത്തു {group} ({session}): {digits}",
+  "@addedGroupSession": {
+    "description": "Added group session message",
+    "placeholders": {
+      "group": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      },
+      "digits": {
+        "type": "String"
+      }
+    }
+  },
+  "removedDigitType": "നീക്കംചെയ്തു {digit} ({type}).",
+  "@removedDigitType": {
+    "description": "Removed digit type message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameType": "ഗെയിം തരം തിരഞ്ഞെടുക്കുക",
+  "@selectGameType": {
+    "description": "Select game type label without colon"
+  },
+  "enterPoints": "പോയിന്റുകൾ നൽകുക",
+  "@enterPoints": {
+    "description": "Enter points hint"
+  },
+  "odd": "ഒറ്റ",
+  "@odd": {
+    "description": "Odd label"
+  },
+  "even": "ഇരട്ട",
+  "@even": {
+    "description": "Even label"
+  },
+  "digit": "അക്കം",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "noBidAddedYet": "ഇതുവരെ ബിഡ് ചേർത്തിട്ടില്ല",
+  "@noBidAddedYet": {
+    "description": "No bid added yet message"
+  },
+  "biddingIsClosedForSlot": "ഈ സ്ലോട്ടിനായി ബിഡ്ഡിംഗ് അടച്ചിരിക്കുന്നു.",
+  "@biddingIsClosedForSlot": {
+    "description": "Bidding is closed for slot message"
+  },
+  "pleaseEnterValidSingleDigit": "ദയവായി സാധുവായ ഒരു അക്കം നൽകുക (0-9).",
+  "@pleaseEnterValidSingleDigit": {
+    "description": "Please enter valid single digit message"
+  },
+  "pleaseEnterAnAmount": "ദയവായി ഒരു തുക നൽകുക.",
+  "@pleaseEnterAnAmount": {
+    "description": "Please enter an amount message"
+  },
+  "amountMustBeNumber": "തുക ഒരു നമ്പറായിരിക്കണം.",
+  "@amountMustBeNumber": {
+    "description": "Amount must be number message"
+  },
+  "amountMustBeBetween": "തുക {min} നും {max} നും ഇടയിൽ ആയിരിക്കണം.",
+  "@amountMustBeBetween": {
+    "description": "Amount must be between message",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "insufficientWalletBalanceToPlaceBids": "ഈ ബിഡുകൾ സ്ഥാപിക്കാൻ വാലറ്റ് ബാലൻസ് പോരാ.",
+  "@insufficientWalletBalanceToPlaceBids": {
+    "description": "Insufficient wallet balance to place bids message"
+  },
+  "updatedDigitAmount": "അക്കം {digit} തുക {points} ലേക്ക് അപ്‌ഡേറ്റ് ചെയ്തു.",
+  "@updatedDigitAmount": {
+    "description": "Updated digit amount message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "addedBidDigitAmount": "ബിഡ് ചേർത്തു: അക്കം {digit}, തുക {points}.",
+  "@addedBidDigitAmount": {
+    "description": "Added bid digit amount message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "removedBidDigit": "ബിഡ് നീക്കംചെയ്തു: അക്കം {digit}.",
+  "@removedBidDigit": {
+    "description": "Removed bid digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddAtLeastOneBidBeforeSubmitting": "സമർപ്പിക്കുന്നതിന് മുമ്പ് കുറഞ്ഞത് ഒരു ബിഡ് ചേർക്കുക.",
+  "@pleaseAddAtLeastOneBidBeforeSubmitting": {
+    "description": "Please add at least one bid before submitting message"
+  },
+  "insufficientWalletBalanceToSubmit": "സമർപ്പിക്കാൻ വാലറ്റ് ബാലൻസ് പോരാ.",
+  "@insufficientWalletBalanceToSubmit": {
+    "description": "Insufficient wallet balance to submit message"
+  },
+  "bidPlacedSuccessfully": "ബിഡ് വിജയകരമായി സ്ഥാപിച്ചു!",
+  "@bidPlacedSuccessfully": {
+    "description": "Bid placed successfully message"
+  },
+  "unknownErrorOccurred": "അജ്ഞാത പിശക് സംഭവിച്ചു.",
+  "@unknownErrorOccurred": {
+    "description": "Unknown error occurred message"
+  },
+  "entersSingleDigit": "ഒറ്റ അക്കം നൽകുക:",
+  "@entersSingleDigit": {
+    "description": "Enters single digit label"
+  },
+  "enterDigit": "അക്കം നൽകുക",
+  "@enterDigit": {
+    "description": "Enter digit hint"
+  },
+  "noDataAddedYet": "ഇതുവരെ ഡാറ്റ ചേർത്തിട്ടില്ല",
+  "@noDataAddedYet": {
+    "description": "No data added yet message"
+  },
+  "points10To1000KeBeechDo": "Points 10–1000 ke beech do.",
+  "@points10To1000KeBeechDo": {
+    "description": "Points 10 to 1000 ke beech do message"
+  },
+  "bidTypeBidAdded": "{bidType} bid added!",
+  "@bidTypeBidAdded": {
+    "description": "Bid type bid added message",
+    "placeholders": {
+      "bidType": {
+        "type": "String"
+      }
+    }
+  },
+  "entryDeleted": "എൻട്രി ഇല്ലാതാക്കി.",
+  "@entryDeleted": {
+    "description": "Entry deleted message"
+  },
+  "pehleKoiEntryAddKaro": "Pehle koi entry add karo.",
+  "@pehleKoiEntryAddKaro": {
+    "description": "Pehle koi entry add karo message"
+  },
+  "enter3DigitNumber": "3-അക്ക സംഖ്യ നൽകുക",
+  "@enter3DigitNumber": {
+    "description": "Enter 3 digit number label"
+  },
+  "enter3DigitNumberColon": "3-അക്ക സംഖ്യ നൽകുക:",
+  "@enter3DigitNumberColon": {
+    "description": "Enter 3 digit number label with colon"
+  },
+  "removeThisBidTypeSet": "ഈ {bidType} സെറ്റ് നീക്കംചെയ്യുക",
+  "@removeThisBidTypeSet": {
+    "description": "Remove bid type set tooltip",
+    "placeholders": {
+      "bidType": {
+        "type": "String"
+      }
+    }
+  },
+  "enterJodi": "ജോഡി നൽകുക:",
+  "@enterJodi": {
+    "description": "Enter jodi label"
+  },
+  "enterJodiHint": "ജോഡി നൽകുക",
+  "@enterJodiHint": {
+    "description": "Enter jodi hint"
+  },
+  "pleaseEnterValid2DigitJodi": "Please enter a valid 2-digit Jodi.",
+  "@pleaseEnterValid2DigitJodi": {
+    "description": "Please enter valid 2 digit jodi message"
+  },
+  "jodiAlreadyExists": "Jodi {jodi} already exists.",
+  "@jodiAlreadyExists": {
+    "description": "Jodi already exists message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "addedJodi": "Added: {jodi}",
+  "@addedJodi": {
+    "description": "Added jodi message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "bidForJodiRemoved": "Bid for Jodi {jodi} removed.",
+  "@bidForJodiRemoved": {
+    "description": "Bid for jodi removed message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseWaitBidSubmissionInProgress": "ദയവായി കാത്തിരിക്കുക, ബിഡ് സമർപ്പണം പുരോഗതിയിലാണ്.",
+  "@pleaseWaitBidSubmissionInProgress": {
+    "description": "Please wait bid submission in progress message"
+  },
+  "jodiDigitMustBeExactly2Numbers": "ജോഡി അക്കം കൃത്യമായി 2 നമ്പറുകൾ ആയിരിക്കണം (00-99).",
+  "@jodiDigitMustBeExactly2Numbers": {
+    "description": "Jodi digit must be exactly 2 numbers message"
+  },
+  "jodiMustBeNumberBetween00And99": "ജോഡി 00 നും 99 നും ഇടയിൽ ഒരു സംഖ്യയായിരിക്കണം.",
+  "@jodiMustBeNumberBetween00And99": {
+    "description": "Jodi must be number between 00 and 99 message"
+  },
+  "pleaseEnterValidPoints": "ദയവായി സാധുവായ പോയിന്റുകൾ നൽകുക.",
+  "@pleaseEnterValidPoints": {
+    "description": "Please enter valid points message"
+  },
+  "pointsMustBeBetween10And10000": "പോയിന്റുകൾ 10 നും 10000 നും ഇടയിൽ ആയിരിക്കണം.",
+  "@pointsMustBeBetween10And10000": {
+    "description": "Points must be between 10 and 10000 message"
+  },
+  "insufficientWalletBalanceForThisBid": "ഈ ബിഡിന് പര്യാപ്തമായ വാലറ്റ് ബാലൻസ് ഇല്ല.",
+  "@insufficientWalletBalanceForThisBid": {
+    "description": "Insufficient wallet balance for this bid message"
+  },
+  "jodiWithPointsAdded": "ജോഡി {digit} {points} പോയിന്റുകളോടെ ചേർത്തു.",
+  "@jodiWithPointsAdded": {
+    "description": "Jodi with points added message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "jodiPointsUpdatedTo": "ജോഡി {digit} പോയിന്റുകൾ {points} ലേക്ക് അപ്ഡേറ്റ് ചെയ്തു.",
+  "@jodiPointsUpdatedTo": {
+    "description": "Jodi points updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "cannotRemoveBidWhileSubmissionInProgress": "സമർപ്പണം പുരോഗതിയിലുള്ളപ്പോൾ ബിഡ് നീക്കംചെയ്യാൻ കഴിയില്ല.",
+  "@cannotRemoveBidWhileSubmissionInProgress": {
+    "description": "Cannot remove bid while submission in progress message"
+  },
+  "jodiRemoved": "ജോഡി {digit} നീക്കംചെയ്തു.",
+  "@jodiRemoved": {
+    "description": "Jodi removed message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "submittingYourBids": "നിങ്ങളുടെ ബിഡുകൾ സമർപ്പിക്കുന്നു...",
+  "@submittingYourBids": {
+    "description": "Submitting your bids message"
+  },
+  "bidFailedPleaseTryAgain": "ബിഡ് പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക.",
+  "@bidFailedPleaseTryAgain": {
+    "description": "Bid failed please try again message"
+  },
+  "networkErrorOrUnexpectedIssue": "നെറ്റ്‌വർക്ക് പിശക് അല്ലെങ്കിൽ അപ്രതീക്ഷിത പ്രശ്നം: {error}",
+  "@networkErrorOrUnexpectedIssue": {
+    "description": "Network error or unexpected issue message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "enterPoints": "പോയിന്റുകൾ നൽകുക:",
+  "@enterPoints": {
+    "description": "Enter points label"
+  },
+  "enterAmount": "തുക നൽകുക",
+  "@enterAmount": {
+    "description": "Enter amount hint"
+  },
+  "enterJodiDigit": "ജോഡി അക്കം നൽകുക:",
+  "@enterJodiDigit": {
+    "description": "Enter jodi digit label"
+  },
+  "bidDigits": "ബിഡ് അക്കങ്ങൾ",
+  "@bidDigits": {
+    "description": "Bid digits hint"
+  },
+  "digit": "അക്കം",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "amount": "തുക",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "gameType": "ഗെയിം തരം",
+  "@gameType": {
+    "description": "Game type label"
+  },
+  "points": "പോയിന്റുകൾ",
+  "@points": {
+    "description": "Points label"
+  },
+  "pleaseEnterValid3DigitNumber": "Enter a valid 3-digit number.",
+  "@pleaseEnterValid3DigitNumber": {
+    "description": "Please enter valid 3 digit number message"
+  },
+  "invalidTriplePannaNumber": "Invalid Triple Panna number.",
+  "@invalidTriplePannaNumber": {
+    "description": "Invalid triple panna number message"
+  },
+  "noBidsAddedToSubmit": "No bids added to submit.",
+  "@noBidsAddedToSubmit": {
+    "description": "No bids added to submit message"
+  },
+  "updatedBidForDigit": "Updated bid for {digit}.",
+  "@updatedBidForDigit": {
+    "description": "Updated bid for digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidDigitPoints": "Added bid: {digit} - {points} points",
+  "@addedBidDigitPoints": {
+    "description": "Added bid digit points message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "removedBidDigitOnly": "Removed bid: {digit}",
+  "@removedBidDigitOnly": {
+    "description": "Removed bid digit only message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "enter3DigitTriplePanna": "3-അക്ക ട്രിപ്പിൾ പന്ന നൽകുക",
+  "@enter3DigitTriplePanna": {
+    "description": "Enter 3 digit triple panna hint"
+  },
+  "enter3DigitTriplePannaColon": "Enter 3-Digit Triple Panna:",
+  "@enter3DigitTriplePannaColon": {
+    "description": "Enter 3 digit triple panna label"
+  },
+  "pleaseSelectSPDPOrTP": "ദയവായി SP, DP അല്ലെങ്കിൽ TP തിരഞ്ഞെടുക്കുക.",
+  "@pleaseSelectSPDPOrTP": {
+    "description": "Please select SP DP or TP message"
+  },
+  "digitMustBeNumber0To9": "അക്കം 0 മുതൽ 9 വരെയുള്ള ഒരു നമ്പറായിരിക്കണം.",
+  "@digitMustBeNumber0To9": {
+    "description": "Digit must be number 0 to 9 message"
+  },
+  "addedBidsForCategory": "{count} ബിഡുകൾ {category} എന്നതിനായി ചേർത്തു.",
+  "@addedBidsForCategory": {
+    "description": "Added bids for category message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddBidsBeforeSubmitting": "സമർപ്പിക്കുന്നതിന് മുമ്പ് ബിഡുകൾ ചേർക്കുക.",
+  "@pleaseAddBidsBeforeSubmitting": {
+    "description": "Please add bids before submitting message"
+  },
+  "insufficientWalletBalanceToPlaceBid": "ഈ ബിഡ് സ്ഥാപിക്കാൻ വാലറ്റ് ബാലൻസ് പോരാ.",
+  "@insufficientWalletBalanceToPlaceBid": {
+    "description": "Insufficient wallet balance to place bid message"
+  },
+  "pleaseEnterNumber": "ദയവായി ഒരു നമ്പർ നൽകുക.",
+  "@pleaseEnterNumber": {
+    "description": "Please enter number message"
+  },
+  "pleaseEnterValidNumber": "ദയവായി സാധുവായ ഒരു നമ്പർ (3-7 അക്കങ്ങൾ) നൽകുക.",
+  "@pleaseEnterValidNumber": {
+    "description": "Please enter valid number message"
+  },
+  "numberMustContainTwoUniqueDigits": "നമ്പറിൽ കുറഞ്ഞത് രണ്ട് അദ്വിതീയ അക്കങ്ങൾ ഉണ്ടായിരിക്കണം.",
+  "@numberMustContainTwoUniqueDigits": {
+    "description": "Number must contain two unique digits message"
+  },
+  "noValidBidsFound": "ഈ നമ്പറിന് സാധുവായ ബിഡുകൾ കണ്ടെത്തിയില്ല.",
+  "@noValidBidsFound": {
+    "description": "No valid bids found message"
+  },
+  "addedBidsFromApiResponse": "Added {count} bids from API response.",
+  "@addedBidsFromApiResponse": {
+    "description": "Added bids from API response message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "allBidsAlreadyExist": "എല്ലാ ബിഡുകളും ഇതിനകം നിലവിലുണ്ട്.",
+  "@allBidsAlreadyExist": {
+    "description": "All bids already exist message"
+  },
+  "bidRequestFailed": "Bid request failed with status: {statusCode}",
+  "@bidRequestFailed": {
+    "description": "Bid request failed message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "removedBidNumberType": "Removed bid: Number {number}, Type {type}.",
+  "@removedBidNumberType": {
+    "description": "Removed bid number type message",
+    "placeholders": {
+      "number": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsAddedForSelectedGameType": "No bids added for the selected game type to submit.",
+  "@noBidsAddedForSelectedGameType": {
+    "description": "No bids added for selected game type message"
+  },
+  "insufficientWalletBalanceForSelectedGameType": "Insufficient wallet balance for selected game type.",
+  "@insufficientWalletBalanceForSelectedGameType": {
+    "description": "Insufficient wallet balance for selected game type message"
+  },
+  "noValidBidsForSelectedGameType": "No valid bids for the selected game type.",
+  "@noValidBidsForSelectedGameType": {
+    "description": "No valid bids for selected game type message"
+  },
+  "count": "Count",
+  "@count": {
+    "description": "Count label"
+  },
+  "walletBalanceKamHai": "Wallet balance kam hai.",
+  "@walletBalanceKamHai": {
+    "description": "Wallet balance kam hai message"
+  },
+  "enterSinglePanaHint": "Enter Single Pana",
+  "@enterSinglePanaHint": {
+    "description": "Enter single pana hint"
+  },
+  "bidTime": "Bid Time :",
+  "@bidTime": {
+    "description": "Bid time label"
+  },
+  "bidResultTime": "Bid Result Time :",
+  "@bidResultTime": {
+    "description": "Bid result time label"
+  },
+  "paymentSuccess": "പേയ്മെന്റ് വിജയം",
+  "@paymentSuccess": {
+    "description": "Payment success title"
+  },
+  "done": "പൂർത്തിയായി",
+  "@done": {
+    "description": "Done button"
+  },
+  "accountRecovery": "അക്കൗണ്ട് പുനഃസ്ഥാപനം",
+  "@accountRecovery": {
+    "description": "Account recovery title"
+  },
+  "accountRecoveryMessage": "ഒരു പുതിയ MPIN സജ്ജമാക്കി നിങ്ങളുടെ നിലവിലുള്ള അക്കൗണ്ട് പുനഃസ്ഥാപിക്കുക\n\nതുടരാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?",
+  "@accountRecoveryMessage": {
+    "description": "Account recovery message"
+  },
+  "recover": "പുനഃസ്ഥാപിക്കുക",
+  "@recover": {
+    "description": "Recover button"
+  },
+  "walletFundHistoryNotAvailable": "Wallet Fund History Not Available",
+  "@walletFundHistoryNotAvailable": {
+    "description": "Wallet fund history not available message"
+  },
+  "termsAndConditions": "നിബന്ധനകളും വ്യവസ്ഥകളും",
+  "@termsAndConditions": {
+    "description": "Terms and conditions title"
+  },
+  "minimumWithdrawAmount": "കുറഞ്ഞ പിൻവലിക്കൽ തുക 1000 ₹ ആണ്",
+  "@minimumWithdrawAmount": {
+    "description": "Minimum withdraw amount term"
+  },
+  "maximumWithdrawAmount": "& പരമാവധി പിൻവലിക്കൽ തുക 500000 ആണ്",
+  "@maximumWithdrawAmount": {
+    "description": "Maximum withdraw amount term"
+  },
+  "above5LakhManualRequest": "5 ലക്ഷത്തിന് മുകളിൽ നിങ്ങൾ ഞങ്ങളോട് കൈമാറ്റത്തിൽ അഭ്യർത്ഥിക്കണം.",
+  "@above5LakhManualRequest": {
+    "description": "Above 5 lakh manual request term"
+  },
+  "withdrawRequestTiming": "പിൻവലിക്കൽ അഭ്യർത്ഥന സമയം 09:00 AM മുതൽ 10:00 PM വരെ",
+  "@withdrawRequestTiming": {
+    "description": "Withdraw request timing term"
+  },
+  "processTime": "പ്രോസസ് സമയം കുറഞ്ഞത് 1 മണിക്കൂർ പരമാവധി 72 മണിക്കൂർ.",
+  "@processTime": {
+    "description": "Process time term"
+  },
+  "withdrawAvailableAllDays": "ആഴ്ചയിലെ എല്ലാ 7 ദിവസവും പിൻവലിക്കൽ ലഭ്യമാണ്.",
+  "@withdrawAvailableAllDays": {
+    "description": "Withdraw available all days term"
+  },
+  "accept": "സ്വീകരിക്കുക",
+  "@accept": {
+    "description": "Accept button"
+  },
+  "addFund": "ഫണ്ട് ചേർക്കുക",
+  "@addFund": {
+    "description": "Add fund title"
+  },
+  "addMoney": "പണം ചേർക്കുക",
+  "@addMoney": {
+    "description": "Add money button text"
+  },
+  "availableBalance": "Available Balance",
+  "@availableBalance": {
+    "description": "Available balance label"
+  },
+  "enterAmount": "തുക നൽകുക",
+  "@enterAmount": {
+    "description": "Enter amount label"
+  },
+  "addPointUpi": "പോയിന്റ് ചേർക്കുക - UPI",
+  "@addPointUpi": {
+    "description": "Add point via UPI button"
+  },
+  "addPointQrPaytmGateway": "പോയിന്റ് ചേർക്കുക - QR - PAYTM - GATEWAY",
+  "@addPointQrPaytmGateway": {
+    "description": "Add point via QR Paytm Gateway button"
+  },
+  "howToAddPoint": "പോയിന്റ് എങ്ങനെ ചേർക്കാം",
+  "@howToAddPoint": {
+    "description": "How to add point button"
+  },
+  "pleaseContactSupportToKnowHowToAddPoint": "പോയിന്റ് എങ്ങനെ ചേർക്കാമെന്ന് അറിയാൻ സപ്പോർട്ടുമായി ബന്ധപ്പെടുക.",
+  "@pleaseContactSupportToKnowHowToAddPoint": {
+    "description": "Contact support message for adding point"
+  },
+  "selectUpiApp": "UPI ആപ്പ് തിരഞ്ഞെടുക്കുക",
+  "@selectUpiApp": {
+    "description": "Select UPI app title"
+  },
+  "upiApp": "UPI ആപ്പ്",
+  "@upiApp": {
+    "description": "UPI app default name"
+  },
+  "addFunds": "ഫണ്ട് ചേർക്കുക",
+  "@addFunds": {
+    "description": "Add funds description"
+  },
+  "upiPayeeDetailsNotConfigured": "UPI ലക്ഷ്യരേഖ വിശദാംശങ്ങൾ configure ചെയ്തിട്ടില്ല.",
+  "@upiPayeeDetailsNotConfigured": {
+    "description": "UPI payee details not configured message"
+  },
+  "invalidUpiIdFormat": "അസാധുവായ UPI ID ഫോർമാറ്റ്",
+  "@invalidUpiIdFormat": {
+    "description": "Invalid UPI ID format message"
+  },
+  "pleaseEnterValidAmountMin": "ദയവായി ഒരു സാധുവായ തുക നൽകുക (കുറഞ്ഞത് ₹{amount}).",
+  "@pleaseEnterValidAmountMin": {
+    "description": "Please enter valid amount with minimum",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "noUpiAppsFound": "UPI ആപ്പുകൾ കണ്ടെത്തിയില്ല. തുടരാൻ ദയവായി ഒരു UPI ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക.",
+  "@noUpiAppsFound": {
+    "description": "No UPI apps found message"
+  },
+  "paymentFailedOrCancelled": "പേയ്മെന്റ് പരാജയപ്പെട്ടു അല്ലെങ്കിൽ റദ്ദാക്കി.",
+  "@paymentFailedOrCancelled": {
+    "description": "Payment failed or cancelled message"
+  },
+  "errorOccurredDuringUpiPayment": "UPI പേയ്മെന്റ് സമയത്ത് ഒരു പിശക് ഉണ്ടായി: {error}",
+  "@errorOccurredDuringUpiPayment": {
+    "description": "Error occurred during UPI payment",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "rangeErrorOccurredDuringUpiPayment": "UPI പേയ്മെന്റ് സമയത്ത് RangeError ഉണ്ടായി. ദയവായി വീണ്ടും ശ്രമിക്കുക.",
+  "@rangeErrorOccurredDuringUpiPayment": {
+    "description": "RangeError occurred during UPI payment message"
+  },
+  "failedToLaunchUpiApp": "പ്രതീക്ഷിക്കാത്ത പിശക് കാരണം UPI ആപ്പ് ലഭ്യമാക്കുന്നതിൽ പരാജയപ്പെട്ടു.",
+  "@failedToLaunchUpiApp": {
+    "description": "Failed to launch UPI app message"
+  },
+  "invalidServerResponse": "അസാധുവായ സെർവർ പ്രതികരണം (paymentHash/timestamp നഷ്ടപ്പെട്ടു).",
+  "@invalidServerResponse": {
+    "description": "Invalid server response message"
+  },
+  "depositSuccessfulAndUpdated": "ഡെപ്പോസിറ്റ് വിജയകരവും അപ്‌ഡേറ്റ് ചെയ്തതുമാണ്",
+  "@depositSuccessfulAndUpdated": {
+    "description": "Deposit successful message"
+  },
+  "failedToAddDepositFund": "ഡെപ്പോസിറ്റ് ഫണ്ട് ചേർക്കുന്നതിൽ പരാജയപ്പെട്ടു",
+  "@failedToAddDepositFund": {
+    "description": "Failed to add deposit fund message"
+  },
+  "failedToCreateFundRequest": "ഫണ്ട് അഭ്യർത്ഥന സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു (HTTP {code})",
+  "@failedToCreateFundRequest": {
+    "description": "Failed to create fund request message",
+    "placeholders": {
+      "code": {
+        "type": "int"
+      }
+    }
+  },
+  "failedToCompletePaymentProcess": "പേയ്മെന്റ് പ്രക്രിയ പൂർത്തിയാക്കുന്നതിൽ പരാജയപ്പെട്ടു: {error}",
+  "@failedToCompletePaymentProcess": {
+    "description": "Failed to complete payment process message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterValidAmount": "ദയവായി ഒരു സാധുവായ തുക നൽകുക.",
+  "@pleaseEnterValidAmount": {
+    "description": "Please enter valid amount message"
+  },
+  "pleaseEnterAmountGreaterThanOrEqual": "ദയവായി ₹{amount} നേക്കാൾ വലുതോ തുല്യമോ ആയ ഒരു തുക നൽകുക.",
+  "@pleaseEnterAmountGreaterThanOrEqual": {
+    "description": "Please enter amount greater than or equal message",
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "invalidMobileNumberFound": "അസാധുവായ മൊബൈൽ നമ്പർ കണ്ടെത്തി.",
+  "@invalidMobileNumberFound": {
+    "description": "Invalid mobile number found message"
+  },
+  "paymentLinkNotFoundInResponse": "പ്രതികരണത്തിൽ പേയ്മെന്റ് ലിങ്ക് കണ്ടെത്തിയില്ല.",
+  "@paymentLinkNotFoundInResponse": {
+    "description": "Payment link not found message"
+  },
+  "failedToCreateTransactionLink": "ട്രാൻസാക്ഷൻ ലിങ്ക് സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു.",
+  "@failedToCreateTransactionLink": {
+    "description": "Failed to create transaction link message"
+  },
+  "error": "പിശക്: {error}",
+  "@error": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "bankDetails": "ബാങ്ക് വിശദാംശങ്ങൾ",
+  "@bankDetails": {
+    "description": "Bank details title"
+  },
+  "accountHolderName": "അക്കൗണ്ട് ഹോൾഡർ പേര്",
+  "@accountHolderName": {
+    "description": "Account holder name label"
+  },
+  "accountNumber": "അക്കൗണ്ട് നമ്പർ",
+  "@accountNumber": {
+    "description": "Account number label"
+  },
+  "enterAccountNumber": "അക്കൗണ്ട് നമ്പർ നൽകുക",
+  "@enterAccountNumber": {
+    "description": "Enter account number hint"
+  },
+  "ifscCode": "IFSC കോഡ്",
+  "@ifscCode": {
+    "description": "IFSC code label"
+  },
+  "bankName": "ബാങ്ക് പേര്",
+  "@bankName": {
+    "description": "Bank name label"
+  },
+  "enterBankName": "ബാങ്ക് പേര് നൽകുക",
+  "@enterBankName": {
+    "description": "Enter bank name hint"
+  },
+  "branchName": "ശാഖാ പേര്",
+  "@branchName": {
+    "description": "Branch name label"
+  },
+  "enterBranchName": "ശാഖാ പേര് നൽകുക",
+  "@enterBranchName": {
+    "description": "Enter branch name hint"
+  },
+  "addBank": "ബാങ്ക് ചേർക്കുക",
+  "@addBank": {
+    "description": "Add bank button"
+  },
+  "fundDepositHistory": "ഫണ്ട് ഡെപ്പോസിറ്റ് ചരിത്രം",
+  "@fundDepositHistory": {
+    "description": "Fund deposit history title"
+  },
+  "narration": "വിവരണം",
+  "@narration": {
+    "description": "Narration label"
+  },
+  "withdrawFunds": "ഫണ്ട് പിൻവലിക്കുക",
+  "@withdrawFunds": {
+    "description": "Withdraw funds option"
+  },
+  "depositHistory": "ഡെപ്പോസിറ്റ് ചരിത്രം",
+  "@depositHistory": {
+    "description": "Deposit history option"
+  },
+  "withdrawHistory": "പിൻവലിക്കൽ ചരിത്രം",
+  "@withdrawHistory": {
+    "description": "Withdraw history option"
+  },
+  "fundWithdrawHistory": "ഫണ്ട് പിൻവലിക്കൽ ചരിത്രം",
+  "@fundWithdrawHistory": {
+    "description": "Fund withdraw history title"
+  },
+  "withdrawMode": "പിൻവലിക്കൽ മോഡ്",
+  "@withdrawMode": {
+    "description": "Withdraw mode label"
+  },
+  "upiId": "UPI ID",
+  "@upiId": {
+    "description": "UPI ID label"
+  },
+  "acHolder": "അക്കൗണ്ട് ഹോൾഡർ",
+  "@acHolder": {
+    "description": "Account holder label"
+  },
+  "acNo": "അക്കൗണ്ട് നമ്പർ",
+  "@acNo": {
+    "description": "Account number short label"
+  },
+  "manualApproveByAdmin": "അഡ്മിൻ സ്വമേധയാ അംഗീകരിക്കുക",
+  "@manualApproveByAdmin": {
+    "description": "Manual approve by admin message"
+  },
+  "enterGooglePayUpiId": "Google Pay UPI ID നൽകുക",
+  "@enterGooglePayUpiId": {
+    "description": "Enter Google Pay UPI ID hint"
+  },
+  "enterPhonepeUpiId": "PhonePe UPI ID നൽകുക",
+  "@enterPhonepeUpiId": {
+    "description": "Enter PhonePe UPI ID hint"
+  },
+  "enterPaytmNumber": "Paytm നമ്പർ നൽകുക",
+  "@enterPaytmNumber": {
+    "description": "Enter Paytm number hint"
+  },
+  "enterUpiIdNumber": "UPI ID/നമ്പർ നൽകുക",
+  "@enterUpiIdNumber": {
+    "description": "Enter UPI ID/Number hint"
+  },
+  "pleaseLoginAgainToContinue": "തുടരാൻ ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക.",
+  "@pleaseLoginAgainToContinue": {
+    "description": "Please login again message"
+  },
+  "minimumWithdrawalAmountIs": "കുറഞ്ഞ പിൻവലിക്കൽ തുക ₹{amount} ആണ്.",
+  "@minimumWithdrawalAmountIs": {
+    "description": "Minimum withdrawal amount message",
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "pleaseEnterGooglePayUpiId": "ദയവായി Google Pay UPI ID നൽകുക.",
+  "@pleaseEnterGooglePayUpiId": {
+    "description": "Please enter Google Pay UPI ID message"
+  },
+  "pleaseEnterPhonepeUpiId": "ദയവായി PhonePe UPI ID നൽകുക.",
+  "@pleaseEnterPhonepeUpiId": {
+    "description": "Please enter PhonePe UPI ID message"
+  },
+  "pleaseEnterPaytmNumber": "ദയവായി Paytm നമ്പർ നൽകുക.",
+  "@pleaseEnterPaytmNumber": {
+    "description": "Please enter Paytm number message"
+  },
+  "pleaseFillAllBankDetails": "ദയവായി എല്ലാ ബാങ്ക് വിശദാംശങ്ങളും പൂരിപ്പിക്കുക.",
+  "@pleaseFillAllBankDetails": {
+    "description": "Please fill all bank details message"
+  },
+  "pleaseSelectWithdrawalMethod": "ദയവായി ഒരു പിൻവലിക്കൽ രീതി തിരഞ്ഞെടുക്കുക.",
+  "@pleaseSelectWithdrawalMethod": {
+    "description": "Please select withdrawal method message"
+  },
+  "withdrawalRequestSubmittedSuccessfully": "പിൻവലിക്കൽ അഭ്യർത്ഥന വിജയകരമായി സമർപ്പിച്ചു!",
+  "@withdrawalRequestSubmittedSuccessfully": {
+    "description": "Withdrawal request submitted successfully message"
+  },
+  "withdrawalRequestFailed": "പിൻവലിക്കൽ അഭ്യർത്ഥന പരാജയപ്പെട്ടു.",
+  "@withdrawalRequestFailed": {
+    "description": "Withdrawal request failed message"
+  },
+  "anErrorOccurred": "ഒരു പിശക് ഉണ്ടായി: {error}",
+  "@anErrorOccurred": {
+    "description": "An error occurred message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "jackpotDashboard": "Jackpot Dashboard",
+  "@jackpotDashboard": {
+    "description": "Jackpot Dashboard title"
+  },
+  "history": "History",
+  "@history": {
+    "description": "History button/label"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications label"
+  },
+  "jodi": "Jodi",
+  "@jodi": {
+    "description": "Jodi label"
+  },
+  "closed": "Closed",
+  "@closed": {
+    "description": "Closed status"
+  },
+  "running": "Running",
+  "@running": {
+    "description": "Running status"
+  },
+  "noJackpotBidTypesAvailable": "No jackpot bid types available or failed to load.",
+  "@noJackpotBidTypesAvailable": {
+    "description": "No jackpot bid types available message"
+  },
+  "theMarketFor": "The market for",
+  "@theMarketFor": {
+    "description": "The market for prefix"
+  },
+  "isCurrentlyClosed": "is currently closed.",
+  "@isCurrentlyClosed": {
+    "description": "is currently closed suffix"
+  },
+  "authenticationErrorPleaseLoginAgain": "Authentication error: Please log in again.",
+  "@authenticationErrorPleaseLoginAgain": {
+    "description": "Authentication error message"
+  },
+  "failedToLoadJackpotBidTypes": "Failed to load jackpot bid types:",
+  "@failedToLoadJackpotBidTypes": {
+    "description": "Failed to load jackpot bid types message"
+  },
+  "noScreenConfiguredForGameType": "No screen configured for game type:",
+  "@noScreenConfiguredForGameType": {
+    "description": "No screen configured for game type message"
+  },
+  "networkErrorPleaseTryAgainLater": "Network error. Please try again later.",
+  "@networkErrorPleaseTryAgainLater": {
+    "description": "Network error message"
+  },
+  "failedToLoadGames": "Failed to load games",
+  "@failedToLoadGames": {
+    "description": "Failed to load games error message"
+  },
+  "createAccount": "CREATE ACCOUNT",
+  "@createAccount": {
+    "description": "Create account title"
+  },
+  "enterYourDetails": "ENTER YOUR DETAILS",
+  "@enterYourDetails": {
+    "description": "Enter your details subtitle"
+  },
+  "enterUsername": "Enter username",
+  "@enterUsername": {
+    "description": "Enter username hint"
+  },
+  "enterPassword": "Enter password",
+  "@enterPassword": {
+    "description": "Enter password hint"
+  },
+  "confirmPassword": "Confirm password",
+  "@confirmPassword": {
+    "description": "Confirm password hint"
+  },
+  "pleaseEnterUsername": "Please enter username",
+  "@pleaseEnterUsername": {
+    "description": "Please enter username error message"
+  },
+  "pleaseEnterPassword": "Please enter password",
+  "@pleaseEnterPassword": {
+    "description": "Please enter password error message"
+  },
+  "passwordMustBeAtLeast6Characters": "Password must be at least 6 characters",
+  "@passwordMustBeAtLeast6Characters": {
+    "description": "Password must be at least 6 characters error message"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Passwords do not match error message"
+  },
+  "verifyMobileNumber": "VERIFY MOBILE\nNUMBER",
+  "@verifyMobileNumber": {
+    "description": "Verify mobile number title"
+  },
+  "enterPasswordLabel": "Enter Password",
+  "@enterPasswordLabel": {
+    "description": "Enter password label"
+  },
+  "toCompleteRegistrationFor": "To complete registration for\n",
+  "@toCompleteRegistrationFor": {
+    "description": "To complete registration for text"
+  },
+  "enterYourAccountPassword": "Enter your account password.",
+  "@enterYourAccountPassword": {
+    "description": "Enter your account password error message"
+  },
+  "enterYourPassword": "Enter your password",
+  "@enterYourPassword": {
+    "description": "Enter your password hint"
+  },
+  "verify": "VERIFY",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "missingDataRestartRegistration": "Missing data. Restart registration.",
+  "@missingDataRestartRegistration": {
+    "description": "Missing data restart registration error message"
+  },
+  "errorVerifyingPassword": "Error verifying password",
+  "@errorVerifyingPassword": {
+    "description": "Error verifying password message"
+  },
+  "registrationFailed": "Registration failed",
+  "@registrationFailed": {
+    "description": "Registration failed error message"
+  },
+  "noNotificationsFound": "അറിയിപ്പുകൾ കണ്ടെത്തിയില്ല.",
+  "@noNotificationsFound": {
+    "description": "No notifications found message"
+  },
+  "pleaseEnterAnAmountFirst": "ദയവായി ആദ്യം ഒരു തുക നൽകുക.",
+  "@pleaseEnterAnAmountFirst": {
+    "description": "Please enter an amount first message"
+  },
+  "pointsMustBeBetween10And1000": "പോയിന്റുകൾ 10 നും 1000 നും ഇടയിൽ ആയിരിക്കണം.",
+  "@pointsMustBeBetween10And1000": {
+    "description": "Points validation message for 10-1000 range"
+  },
+  "bidForDigitUpdated": "അക്കം {digit} ({type}) നുള്ള ബിഡ് {points} പോയിന്റുകളായി അപ്ഡേറ്റ് ചെയ്തു.",
+  "@bidForDigitUpdated": {
+    "description": "Bid updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidForDigit": "അക്കത്തിന് ബിഡ് ചേർത്തു: {digit}, തുക: {amount}",
+  "@addedBidForDigit": {
+    "description": "Added bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsPlacedYetClickNumber": "ഇതുവരെ ബിഡുകൾ സ്ഥാപിച്ചിട്ടില്ല. ബിഡ് ചേർക്കാൻ ഒരു നമ്പർ ക്ലിക്ക് ചെയ്യുക!",
+  "@noBidsPlacedYetClickNumber": {
+    "description": "No bids placed yet message with instruction"
+  },
+  "bidsSubmittedSuccessfully": "ബിഡുകൾ വിജയകരമായി സമർപ്പിച്ചു!",
+  "@bidsSubmittedSuccessfully": {
+    "description": "Bids submitted successfully message"
+  },
+  "removedBidForDigit": "അക്കത്തിന് ബിഡ് നീക്കംചെയ്തു: {digit}, തുക: {amount}.",
+  "@removedBidForDigit": {
+    "description": "Removed bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameTypeColon": "ഗെയിം തരം തിരഞ്ഞെടുക്കുക:",
+  "@selectGameTypeColon": {
+    "description": "Select game type label with colon"
+  },
+  "enterPointsColon": "പോയിന്റുകൾ നൽകുക:",
+  "@enterPointsColon": {
+    "description": "Enter points label with colon"
+  },
+  "loginWithMpin": "MPIN ഉപയോഗിച്ച് ലോഗിൻ ചെയ്യുക",
+  "@loginWithMpin": {
+    "description": "Login with MPIN title"
+  },
+  "mpinHint": "MPIN",
+  "@mpinHint": {
+    "description": "MPIN hint text"
+  },
+  "login": "ലോഗിൻ",
+  "@login": {
+    "description": "Login button text"
+  },
+  "forgotMpin": "MPIN മറന്നോ?",
+  "@forgotMpin": {
+    "description": "Forgot MPIN link text"
+  },
+  "biometricAuthenticationNotAvailable": "ബയോമെട്രിക് പ്രമാണീകരണം ലഭ്യമല്ല അല്ലെങ്കിൽ പിന്തുണയ്ക്കുന്നില്ല",
+  "@biometricAuthenticationNotAvailable": {
+    "description": "Biometric not available message"
+  },
+  "scanYourFingerprintToVerify": "പരിശോധിക്കാൻ നിങ്ങളുടെ വിരലടയാളം സ്കാൻ ചെയ്യുക",
+  "@scanYourFingerprintToVerify": {
+    "description": "Biometric authentication reason"
+  },
+  "biometricAuthenticationFailed": "ബയോമെട്രിക് പ്രമാണീകരണം പരാജയപ്പെട്ടു",
+  "@biometricAuthenticationFailed": {
+    "description": "Biometric authentication failed message"
+  },
+  "biometricError": "ബയോമെട്രിക് പിശക്: {error}",
+  "@biometricError": {
+    "description": "Biometric error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterYourMpin": "ദയവായി നിങ്ങളുടെ MPIN നൽകുക",
+  "@pleaseEnterYourMpin": {
+    "description": "Please enter MPIN message"
+  },
+  "registrationIdNotFoundPleaseReregister": "രജിസ്ട്രേഷൻ ID കണ്ടെത്തിയില്ല. ദയവായി വീണ്ടും രജിസ്റ്റർ ചെയ്യുക.",
+  "@registrationIdNotFoundPleaseReregister": {
+    "description": "Registration ID not found message"
+  },
+  "accessTokenNotFoundPleaseRelogin": "ആക്സസ് ടോക്കൺ കണ്ടെത്തിയില്ല. ദയവായി വീണ്ടും ലോഗിൻ ചെയ്യുക.",
+  "@accessTokenNotFoundPleaseRelogin": {
+    "description": "Access token not found message"
+  },
+  "loginSuccessful": "ലോഗിൻ വിജയകരമായി!",
+  "@loginSuccessful": {
+    "description": "Login successful message"
+  },
+  "failedToVerifyMpinPleaseTryAgainLater": "MPIN പരിശോധിക്കുന്നതിൽ പരാജയപ്പെട്ടു. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക.",
+  "@failedToVerifyMpinPleaseTryAgainLater": {
+    "description": "Failed to verify MPIN message"
+  },
+  "errorOccurredDuringMpinVerification": "MPIN പരിശോധനയിൽ ഒരു പിശക് സംഭവിച്ചു: {error}",
+  "@errorOccurredDuringMpinVerification": {
+    "description": "MPIN verification error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "invalidMpin": "അസാധുവായ MPIN",
+  "@invalidMpin": {
+    "description": "Invalid MPIN dialog title"
+  },
+  "pleaseEnterCorrectMpin": "ദയവായി ശരിയായ MPIN നൽകുക",
+  "@pleaseEnterCorrectMpin": {
+    "description": "Please enter correct MPIN message"
+  },
+  "setYourPin": "നിങ്ങളുടെ PIN സജ്ജമാക്കുക",
+  "@setYourPin": {
+    "description": "Set your PIN title"
+  },
+  "enterNewMpin": "പുതിയ mPin നൽകുക",
+  "@enterNewMpin": {
+    "description": "Enter new MPIN label"
+  },
+  "enter4DigitMpin": "4 അക്കം mPin നൽകുക",
+  "@enter4DigitMpin": {
+    "description": "Enter 4-digit MPIN hint"
+  },
+  "setPin": "PIN സജ്ജമാക്കുക",
+  "@setPin": {
+    "description": "Set PIN button text"
+  },
+  "pleaseEnterValid4DigitPin": "ദയവായി മാന്യമായ 4 അക്കം PIN നൽകുക",
+  "@pleaseEnterValid4DigitPin": {
+    "description": "Please enter valid 4-digit PIN validation message"
+  },
+  "somethingWentWrongWithError": "എന്തോ തെറ്റായി: {error}",
+  "@somethingWentWrongWithError": {
+    "description": "Something went wrong error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "changeNewMpin": "പുതിയ MPIN മാറ്റുക",
+  "@changeNewMpin": {
+    "description": "Change new MPIN title"
+  },
+  "enter4DigitPin": "4 അക്കം PIN നൽകുക",
+  "@enter4DigitPin": {
+    "description": "Enter 4-digit PIN hint"
+  },
+  "errorWithPlaceholder": "പിശക്: {error}",
+  "@errorWithPlaceholder": {
+    "description": "Error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "couldNotLaunchUrl": "URL ലോഞ്ച് ചെയ്യാൻ കഴിഞ്ഞില്ല: {url}",
+  "@couldNotLaunchUrl": {
+    "description": "Could not launch URL error message",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "single": "സിംഗിൾ",
+  "@single": {
+    "description": "Single game type label"
+  },
+  "singlePanna": "സിംഗിൾ പന്ന",
+  "@singlePanna": {
+    "description": "Single Panna game type label"
+  },
+  "doublePanna": "ഡബിൾ പന്ന",
+  "@doublePanna": {
+    "description": "Double Panna game type label"
+  },
+  "triplePanna": "ട്രിപ്പിൾ പന്ന",
+  "@triplePanna": {
+    "description": "Triple Panna game type label"
+  },
+  "gameWinRatioForAllBids": "എല്ലാ ബിഡുകൾക്കും ഗെയിം വിജയ അനുപാതം",
+  "@gameWinRatioForAllBids": {
+    "description": "Game win ratio section title"
+  },
+  "starlineWinRatioForAllBids": "എല്ലാ ബിഡുകൾക്കും സ്റ്റാർലൈൻ വിജയ അനുപാതം",
+  "@starlineWinRatioForAllBids": {
+    "description": "Starline win ratio section title"
+  },
+  "jackpotWinRatio": "ജാക്ക്പോട്ട് വിജയ അനുപാതം",
+  "@jackpotWinRatio": {
+    "description": "Jackpot win ratio section title"
+  },
+  "rateFormat": "{label}: 10 ന്റെ {value}",
+  "@rateFormat": {
+    "description": "Game rate format string",
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToLoadGameRates": "ഗെയിം റേറ്റുകൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല: {statusCode}",
+  "@failedToLoadGameRates": {
+    "description": "Failed to load game rates error message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "youCanWithdrawBetween": "നിങ്ങൾക്ക് {startTime} നും {endTime} നും ഇടയിൽ പിൻവലിക്കാം.",
+  "@youCanWithdrawBetween": {
+    "description": "Withdrawal time window message",
+    "placeholders": {
+      "startTime": {
+        "type": "String"
+      },
+      "endTime": {
+        "type": "String"
+      }
+    }
+  },
+  "bidForJodiAddedSuccessfully": "Jodi {jodi} നായുള്ള ബിഡ് വിജയകരമായി ചേർത്തു!",
+  "@bidForJodiAddedSuccessfully": {
+    "description": "Bid for Jodi added successfully message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "bidFailed": "ബിഡ് പരാജയപ്പെട്ടു.",
+  "@bidFailed": {
+    "description": "Bid failed message"
+  },
+  "submitBid": "ബിഡ് സമർപ്പിക്കുക",
+  "@submitBid": {
+    "description": "Submit bid button text"
+  },
+  "totalBidsWithCount": "ആകെ ബിഡുകൾ:\n{count}",
+  "@totalBidsWithCount": {
+    "description": "Total bids label with count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "jodi": "Jodi",
+  "singleDigit": "Single Digit",
+  "singlePana": "Single Pana",
+  "doublePana": "Double Pana",
+  "triplePana": "Triple Pana",
+  "choiceSpDpTp": "Choice SP DP TP",
+  "spMotor": "SP Motor",
+  "dpMotor": "DP Motor",
+  "tpMotor": "TP Motor",
+  "fullSangam": "Full Sangam",
+  "halfSangam": "Half Sangam",
+  "singleDigitsBulk": "Single Digits Bulk",
+  "jodiBulk": "Jodi Bulk",
+  "singlePanaBulk": "Single Pana Bulk",
+  "doublePanaBulk": "Double Pana Bulk",
+  "pleaseEnterAllThreeDigits": "ദയവായി മൂന്ന് അക്കങ്ങളും നൽകുക.",
+  "@pleaseEnterAllThreeDigits": {
+    "description": "Validation message for all three digits"
+  },
+  "eachDigitMustBeSingleNumber": "ഓരോ അക്കവും ഒരു നമ്പറായിരിക്കണം (0-9).",
+  "@eachDigitMustBeSingleNumber": {
+    "description": "Validation message for single digit"
+  },
+  "pleaseSelectSPDPTP": "ദയവായി SP, DP അല്ലെങ്കിൽ TP തിരഞ്ഞെടുക്കുക.",
+  "@pleaseSelectSPDPTP": {
+    "description": "Please select category message"
+  },
+  "pleaseSelectOpenClose": "ദയവായി OPEN/CLOSE തിരഞ്ഞെടുക്കുക.",
+  "@pleaseSelectOpenClose": {
+    "description": "Please select session message"
+  },
+  "spMustHave3UniqueDigits": "SP ന് 3 അദ്വിതീയ അക്കങ്ങൾ ഉണ്ടായിരിക്കണം.",
+  "@spMustHave3UniqueDigits": {
+    "description": "SP validation message"
+  },
+  "dpMustHaveExactlyTwoSameDigits": "DP ന് കൃത്യമായി രണ്ട് ഒരേ അക്കങ്ങൾ ഉണ്ടായിരിക്കണം.",
+  "@dpMustHaveExactlyTwoSameDigits": {
+    "description": "DP validation message"
+  },
+  "tpMustHaveAll3DigitsSame": "TP ന് എല്ലാ 3 അക്കങ്ങളും ഒരേപോലെയായിരിക്കണം.",
+  "@tpMustHaveAll3DigitsSame": {
+    "description": "TP validation message"
+  },
+  "updatedPannaCategorySession": "അപ്‌ഡേറ്റ് ചെയ്തു: {panna} ({category} {session})",
+  "@updatedPannaCategorySession": {
+    "description": "Updated panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "addedPannaCategorySession": "ചേർത്തു: {panna} ({category} {session})",
+  "@addedPannaCategorySession": {
+    "description": "Added panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "removedPannaCategorySession": "നീക്കംചെയ്തു: {panna} ({category} {session})",
+  "@removedPannaCategorySession": {
+    "description": "Removed panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddBidsBeforeSubmitting": "സമർപ്പിക്കുന്നതിന് മുമ്പ് ബിഡുകൾ ചേർക്കുക.",
+  "@pleaseAddBidsBeforeSubmitting": {
+    "description": "Please add bids before submitting message"
+  },
+  "placeBidFailed": "ബിഡ് സ്ഥാപിക്കുന്നതിൽ പരാജയപ്പെട്ടു",
+  "@placeBidFailed": {
+    "description": "Place bid failed message"
+  },
+  "networkErrorCheckInternet": "നെറ്റ്‌വർക്ക് പിശക്. ദയവായി നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിക്കുക.",
+  "@networkErrorCheckInternet": {
+    "description": "Network error message"
+  },
+  "panna": "പന്ന",
+  "@panna": {
+    "description": "Panna label"
+  },
+  "quit": "പുറത്ത് പോകുക",
+  "@quit": {
+    "description": "Quit dialog title"
+  },
+  "areYouSureYouWantToQuitTheApp": "നിങ്ങൾക്ക് ഉറപ്പാണോ ആപ്പിൽ നിന്ന് പുറത്ത് പോകാൻ?",
+  "@areYouSureYouWantToQuitTheApp": {
+    "description": "Quit confirmation message"
+  },
+  "yes": "അതെ",
+  "@yes": {
+    "description": "Yes button text"
+  },
+  "no": "ഇല്ല",
+  "@no": {
+    "description": "No button text"
+  },
+  "enterYourMobileNumber": "നിങ്ങളുടെ മൊബൈൽ നമ്പർ നൽകുക",
+  "@enterYourMobileNumber": {
+    "description": "Enter your mobile number title"
+  },
+  "registerAndLogin": "രജിസ്റ്റർ ചെയ്യുകയും ലോഗിൻ ചെയ്യുകയും ചെയ്യുക",
+  "@registerAndLogin": {
+    "description": "Register and login button text"
+  },
+  "username": "ഉപയോക്തൃനാമം",
+  "@username": {
+    "description": "Username label/hint"
+  },
+  "password": "പാസ്‌വേഡ്",
+  "@password": {
+    "description": "Password label/hint"
+  },
+  "enterValidMobileNumber": "സാധുവായ മൊബൈൽ നമ്പർ നൽകുക",
+  "@enterValidMobileNumber": {
+    "description": "Enter valid mobile number validation message"
+  },
+  "createNewAccount": "പുതിയ അക്കൗണ്ട് സൃഷ്ടിക്കുക",
+  "@createNewAccount": {
+    "description": "Create new account title"
+  }
+}
+

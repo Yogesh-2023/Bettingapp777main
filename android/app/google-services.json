@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469446665608",
+    "project_id": "dpbossbet-11d57",
+    "storage_bucket": "dpbossbet-11d57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469446665608:android:bf2291f12345c33ef1863d",
+        "android_client_info": {
+          "package_name": "ONE.dpboss4.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDgnqPya75NLDXd3yTMmIywt4kv_nAK94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

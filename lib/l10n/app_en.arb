@@ -1,0 +1,2925 @@
+{
+  "@@locale": "en",
+  "chooseLanguage": "Choose Language",
+  "@chooseLanguage": {
+    "description": "Title for language selection screen"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button text"
+  },
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Continue button text"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+  "hindi": "हिंदी",
+  "@hindi": {
+    "description": "Hindi language name"
+  },
+  "bengali": "Bengali",
+  "@bengali": {
+    "description": "Bengali language name"
+  },
+  "marathi": "Marathi",
+  "@marathi": {
+    "description": "Marathi language name"
+  },
+  "telugu": "Telugu",
+  "@telugu": {
+    "description": "Telugu language name"
+  },
+  "tamil": "Tamil",
+  "@tamil": {
+    "description": "Tamil language name"
+  },
+  "welcomeTo": "Welcome To",
+  "@welcomeTo": {
+    "description": "Welcome text on login screen"
+  },
+  "indiasBestSattaMatka": "India's best Satta Matka Application\nWelcomes you !!!",
+  "@indiasBestSattaMatka": {
+    "description": "Welcome message"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number label"
+  },
+  "enterPhoneNumber": "Enter Phone Number",
+  "@enterPhoneNumber": {
+    "description": "Phone number hint"
+  },
+  "next": "NEXT",
+  "@next": {
+    "description": "Next button text"
+  },
+  "trustedBy1LakhUsers": "Trusted by 1 Lakh Users",
+  "@trustedBy1LakhUsers": {
+    "description": "Trust badge text"
+  },
+  "mobileNumberRequired": "Mobile number is required",
+  "@mobileNumberRequired": {
+    "description": "Validation error for empty mobile"
+  },
+  "enterValid10DigitMobile": "Enter a valid 10-digit mobile number",
+  "@enterValid10DigitMobile": {
+    "description": "Validation error for invalid mobile"
+  },
+  "serverError": "Server Error: {statusCode}",
+  "@serverError": {
+    "description": "Server error message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "requestTimedOut": "Request timed out. Check internet.",
+  "@requestTimedOut": {
+    "description": "Timeout error message"
+  },
+  "somethingWentWrong": "Something went wrong.",
+  "@somethingWentWrong": {
+    "description": "Generic error message"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home menu item"
+  },
+  "myBids": "My Bids",
+  "@myBids": {
+    "description": "My Bids menu item"
+  },
+  "mpin": "M-PIN",
+  "@mpin": {
+    "description": "MPIN menu item"
+  },
+  "passbook": "Passbook",
+  "@passbook": {
+    "description": "Passbook menu item"
+  },
+  "funds": "Funds",
+  "@funds": {
+    "description": "Funds menu item"
+  },
+  "videos": "Videos",
+  "@videos": {
+    "description": "Videos menu item"
+  },
+  "gameRates": "Game Rates",
+  "@gameRates": {
+    "description": "Game Rates menu item"
+  },
+  "charts": "Charts",
+  "@charts": {
+    "description": "Charts menu item"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings menu item"
+  },
+  "shareApplication": "Share Application",
+  "@shareApplication": {
+    "description": "Share app menu item"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout menu item"
+  },
+  "kingStarline": "KING STARLINE",
+  "@kingStarline": {
+    "description": "King Starline button"
+  },
+  "kingJackpot": "King Jackpot",
+  "@kingJackpot": {
+    "description": "King Jackpot button"
+  },
+  "playGame": "Play Game",
+  "@playGame": {
+    "description": "Play game button"
+  },
+  "openBid": "Open Bid",
+  "@openBid": {
+    "description": "Open bid label"
+  },
+  "bettingIsRunning": "Betting is running",
+  "@bettingIsRunning": {
+    "description": "Betting is running status"
+  },
+  "closeBid": "Close Bid",
+  "@closeBid": {
+    "description": "Close bid label"
+  },
+  "marketClosed": "Market Closed",
+  "@marketClosed": {
+    "description": "Market closed status"
+  },
+  "openBids": "Open Bids:",
+  "@openBids": {
+    "description": "Open bids time label"
+  },
+  "closeBids": "Close Bids:",
+  "@closeBids": {
+    "description": "Close bids time label"
+  },
+  "errorLoadingData": "Error loading data.",
+  "@errorLoadingData": {
+    "description": "Error message when data fails to load"
+  },
+  "noGameDataAvailable": "No game data available.",
+  "@noGameDataAvailable": {
+    "description": "Message when no games are available"
+  },
+  "notificationSettings": "Notification Settings",
+  "@notificationSettings": {
+    "description": "Notification settings section title"
+  },
+  "mainNotification": "Main Notification",
+  "@mainNotification": {
+    "description": "Main notification toggle"
+  },
+  "gameNotification": "Game Notification",
+  "@gameNotification": {
+    "description": "Game notification toggle"
+  },
+  "kingStarlineNotification": "King Starline Notification",
+  "@kingStarlineNotification": {
+    "description": "King Starline notification toggle"
+  },
+  "kingJackpotNotification": "King Jackpot Notification",
+  "@kingJackpotNotification": {
+    "description": "King Jackpot notification toggle"
+  },
+  "languageSettings": "Language Settings",
+  "@languageSettings": {
+    "description": "Language settings section title"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "closedForToday": "Closed for Today",
+  "@closedForToday": {
+    "description": "Market closed message"
+  },
+  "openBidLastTime": "Open Bid Last Time",
+  "@openBidLastTime": {
+    "description": "Open bid last time label"
+  },
+  "openResultTime": "Open Result Time",
+  "@openResultTime": {
+    "description": "Open result time label"
+  },
+  "closeBidLastTime": "Close Bid Last Time",
+  "@closeBidLastTime": {
+    "description": "Close bid last time label"
+  },
+  "closeResultTime": "Close Result Time",
+  "@closeResultTime": {
+    "description": "Close result time label"
+  },
+  "goodLuck": "Good Luck",
+  "@goodLuck": {
+    "description": "Good luck message"
+  },
+  "bidsPlacedSuccessfully": "Bids Placed Successfully",
+  "@bidsPlacedSuccessfully": {
+    "description": "Bid success message"
+  },
+  "bidPlacementFailed": "Bid Placement Failed!",
+  "@bidPlacementFailed": {
+    "description": "Bid failure title"
+  },
+  "pleaseTryAgain": "Please try again.",
+  "@pleaseTryAgain": {
+    "description": "Generic retry message"
+  },
+  "dismiss": "Dismiss",
+  "@dismiss": {
+    "description": "Dismiss button"
+  },
+  "marketClosedMessage": "{gameName} market is closed.",
+  "@marketClosedMessage": {
+    "description": "Market closed message with game name",
+    "placeholders": {
+      "gameName": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsAdded": "No Bids Added",
+  "@noBidsAdded": {
+    "description": "No bids message"
+  },
+  "noDataAddedYet": "No data added yet",
+  "@noDataAddedYet": {
+    "description": "No data message"
+  },
+  "submit": "SUBMIT",
+  "@submit": {
+    "description": "Submit button"
+  },
+  "odd": "Odd",
+  "@odd": {
+    "description": "Odd option"
+  },
+  "even": "Even",
+  "@even": {
+    "description": "Even option"
+  },
+  "gameType": "Game Type",
+  "@gameType": {
+    "description": "Game type label"
+  },
+  "digit": "Digit",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "points": "Points",
+  "@points": {
+    "description": "Points label"
+  },
+  "bidId": "Bid ID",
+  "@bidId": {
+    "description": "Bid ID label"
+  },
+  "bidDate": "Bid Date",
+  "@bidDate": {
+    "description": "Bid date label"
+  },
+  "noEntriesFound": "No entries found.",
+  "@noEntriesFound": {
+    "description": "No entries message"
+  },
+  "noChartDataFound": "No chart data found.",
+  "@noChartDataFound": {
+    "description": "No chart data message"
+  },
+  "error": "Error: {error}",
+  "@error": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noResultsForThisDate": "No results for this date.",
+  "@noResultsForThisDate": {
+    "description": "No results message"
+  },
+  "bids": "Bids: {count}",
+  "@bids": {
+    "description": "Bids count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "total": "Total: ₹{amount}",
+  "@total": {
+    "description": "Total amount",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "profilePage": "Profile Page",
+  "@profilePage": {
+    "description": "Profile page title"
+  },
+  "historyPage": "History Page",
+  "@historyPage": {
+    "description": "History page title"
+  },
+  "youCanViewYourMarketBidHistory": "You can view your market bid history",
+  "@youCanViewYourMarketBidHistory": {
+    "description": "Market bid history description"
+  },
+  "youCanViewYourStarlineBidHistory": "You can view your starline bid history",
+  "@youCanViewYourStarlineBidHistory": {
+    "description": "Starline bid history description"
+  },
+  "youCanViewYourJackpotBidHistory": "You can view your jackpot bid history",
+  "@youCanViewYourJackpotBidHistory": {
+    "description": "Jackpot bid history description"
+  },
+  "permissionGranted": "{permission} permission granted!",
+  "@permissionGranted": {
+    "description": "Permission granted message",
+    "placeholders": {
+      "permission": {
+        "type": "String"
+      }
+    }
+  },
+  "whatsappNumberNotFound": "WhatsApp number not found.",
+  "@whatsappNumberNotFound": {
+    "description": "WhatsApp error message"
+  },
+  "couldNotOpenWhatsapp": "Could not open WhatsApp. Please install the app.",
+  "@couldNotOpenWhatsapp": {
+    "description": "WhatsApp not installed message"
+  },
+  "noVideosAvailable": "No videos available for this language",
+  "@noVideosAvailable": {
+    "description": "No videos message"
+  },
+  "noAppFoundToOpenLink": "No app found to open this link",
+  "@noAppFoundToOpenLink": {
+    "description": "No app found message"
+  },
+  "cannotHandleLink": "Cannot handle this link",
+  "@cannotHandleLink": {
+    "description": "Cannot handle link message"
+  },
+  "screenshotSavedToGallery": "Screenshot saved to gallery",
+  "@screenshotSavedToGallery": {
+    "description": "Screenshot saved message"
+  },
+  "failedToSaveScreenshot": "Failed to save screenshot",
+  "@failedToSaveScreenshot": {
+    "description": "Screenshot failed message"
+  },
+  "qrPayment": "QR Payment",
+  "@qrPayment": {
+    "description": "QR payment title"
+  },
+  "saveQrToGallery": "Save QR to Gallery",
+  "@saveQrToGallery": {
+    "description": "Save QR button"
+  },
+  "noDepositHistoryFound": "No deposit history found",
+  "@noDepositHistoryFound": {
+    "description": "No deposit history message"
+  },
+  "noWithdrawHistoryFound": "No withdraw history found.",
+  "@noWithdrawHistoryFound": {
+    "description": "No withdraw history message"
+  },
+  "registerIdMissing": "Register ID missing. Please log in again.",
+  "@registerIdMissing": {
+    "description": "Register ID missing message"
+  },
+  "accessTokenNotFound": "Access token not found. Please log in again.",
+  "@accessTokenNotFound": {
+    "description": "Access token not found error message"
+  },
+  "registerIdNotFound": "Register ID not found. Please log in again.",
+  "@registerIdNotFound": {
+    "description": "Register ID not found error message"
+  },
+  "noBidsYet": "No bids yet",
+  "@noBidsYet": {
+    "description": "No bids yet message"
+  },
+  "halfSangamB": "Half Sangam B",
+  "@halfSangamB": {
+    "description": "Half Sangam B label"
+  },
+  "screenNotFound": "Error: Screen not found",
+  "@screenNotFound": {
+    "description": "Screen not found error"
+  },
+  "wallet": "Wallet",
+  "@wallet": {
+    "description": "Wallet label"
+  },
+  "chat": "Chat",
+  "@chat": {
+    "description": "Chat menu item"
+  },
+  "enterValid3To7DigitNumber": "Enter valid 3–7 digit number",
+  "@enterValid3To7DigitNumber": {
+    "description": "Validation error for digit number"
+  },
+  "numberMustHaveAtLeast2UniqueDigits": "Number must have at least 2 unique digits",
+  "@numberMustHaveAtLeast2UniqueDigits": {
+    "description": "Validation error for unique digits"
+  },
+  "enterValid3DigitNumber": "Enter a valid 3-digit number.",
+  "@enterValid3DigitNumber": {
+    "description": "Validation error for 3 digit number"
+  },
+  "invalidTriplePannaNumber": "Invalid Triple Panna number.",
+  "@invalidTriplePannaNumber": {
+    "description": "Invalid triple panna error"
+  },
+  "pleaseEnterValid3DigitOpenPanna": "Please enter a valid 3-digit Open Panna.",
+  "@pleaseEnterValid3DigitOpenPanna": {
+    "description": "Validation error for open panna"
+  },
+  "pleaseEnterValid3DigitClosePanna": "Please enter a valid 3-digit Close Panna.",
+  "@pleaseEnterValid3DigitClosePanna": {
+    "description": "Validation error for close panna"
+  },
+  "pointsMustBeBetween": "Points must be between {min} and 1000.",
+  "@pointsMustBeBetween": {
+    "description": "Points validation error",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "openDigitEkHiHonaChahiye": "Open Digit ek hi hona chahiye (0-9).",
+  "@openDigitEkHiHonaChahiye": {
+    "description": "Open digit validation in Hindi"
+  },
+  "openDigit0Se9KeBeechDo": "Open Digit 0 se 9 ke beech do.",
+  "@openDigit0Se9KeBeechDo": {
+    "description": "Open digit range validation in Hindi"
+  },
+  "valid3DigitPannaDo": "Valid 3-digit Panna do (e.g. 123).",
+  "@valid3DigitPannaDo": {
+    "description": "Panna validation in Hindi"
+  },
+  "pointsMinSe1000KeBeechDo": "Points {min} se 1000 ke beech do.",
+  "@pointsMinSe1000KeBeechDo": {
+    "description": "Points validation in Hindi",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "paymentFailed": "Payment Failed",
+  "@paymentFailed": {
+    "description": "Payment failure title"
+  },
+  "whatsappNumberNotAvailable": "WhatsApp number not available",
+  "@whatsappNumberNotAvailable": {
+    "description": "WhatsApp number unavailable message"
+  },
+  "errorLaunchingWhatsapp": "Error launching WhatsApp",
+  "@errorLaunchingWhatsapp": {
+    "description": "WhatsApp launch error"
+  },
+  "mobileNumberNotAvailable": "Mobile number is not available",
+  "@mobileNumberNotAvailable": {
+    "description": "Mobile number unavailable"
+  },
+  "checkOutSara777App": "Check out the Sara 777 App!",
+  "@checkOutSara777App": {
+    "description": "Share app subject"
+  },
+  "imLovingSara777App": "I'm loving Sara 777 App\n\nDownload App now\n\nFrom:-\nhttps://admin.mhmatka.app",
+  "@imLovingSara777App": {
+    "description": "Share app message"
+  },
+  "open": "Open",
+  "@open": {
+    "description": "Open session"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close session"
+  },
+  "session": "Session",
+  "@session": {
+    "description": "Session label"
+  },
+  "remove": "Remove",
+  "@remove": {
+    "description": "Remove button"
+  },
+  "add": "Add",
+  "@add": {
+    "description": "Add button"
+  },
+  "clear": "Clear",
+  "@clear": {
+    "description": "Clear button"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading message"
+  },
+  "pleaseWait": "Please wait...",
+  "@pleaseWait": {
+    "description": "Please wait message"
+  },
+  "success": "Success",
+  "@success": {
+    "description": "Success message"
+  },
+  "failed": "Failed",
+  "@failed": {
+    "description": "Failed message"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit button"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Back button"
+  },
+  "nextPage": "Next",
+  "@nextPage": {
+    "description": "Next page button"
+  },
+  "previous": "Previous",
+  "@previous": {
+    "description": "Previous button"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search placeholder"
+  },
+  "filter": "Filter",
+  "@filter": {
+    "description": "Filter button"
+  },
+  "sort": "Sort",
+  "@sort": {
+    "description": "Sort button"
+  },
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "Refresh button"
+  },
+  "noInternetConnection": "No internet connection",
+  "@noInternetConnection": {
+    "description": "No internet message"
+  },
+  "tryAgain": "Try Again",
+  "@tryAgain": {
+    "description": "Try again button"
+  },
+  "insufficientBalance": "Insufficient balance",
+  "@insufficientBalance": {
+    "description": "Insufficient balance message"
+  },
+  "invalidInput": "Invalid input",
+  "@invalidInput": {
+    "description": "Invalid input message"
+  },
+  "selectGameType": "Select Game Type",
+  "@selectGameType": {
+    "description": "Select game type prompt"
+  },
+  "selectDigit": "Select Digit",
+  "@selectDigit": {
+    "description": "Select digit prompt"
+  },
+  "enterPoints": "Enter Points",
+  "@enterPoints": {
+    "description": "Enter points prompt"
+  },
+  "totalPoints": "Total Points",
+  "@totalPoints": {
+    "description": "Total points label"
+  },
+  "totalAmount": "Total Amount",
+  "@totalAmount": {
+    "description": "Total amount label"
+  },
+  "walletBalanceBeforeDeduction": "Wallet Balance Before Deduction",
+  "@walletBalanceBeforeDeduction": {
+    "description": "Wallet balance before deduction label"
+  },
+  "walletBalanceAfterDeduction": "Wallet Balance After Deduction",
+  "@walletBalanceAfterDeduction": {
+    "description": "Wallet balance after deduction label"
+  },
+  "noteBidOncePlayedWillNotBeCancelled": "*Note: Bid Once Played Will Not Be Cancelled",
+  "@noteBidOncePlayedWillNotBeCancelled": {
+    "description": "Note about bid cancellation"
+  },
+  "confirmBid": "Confirm Bid",
+  "@confirmBid": {
+    "description": "Confirm bid button"
+  },
+  "bidDetails": "Bid Details",
+  "@bidDetails": {
+    "description": "Bid details title"
+  },
+  "gameName": "Game Name",
+  "@gameName": {
+    "description": "Game name label"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Date label"
+  },
+  "time": "Time",
+  "@time": {
+    "description": "Time label"
+  },
+  "status": "Status",
+  "@status": {
+    "description": "Status label"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "result": "Result",
+  "@result": {
+    "description": "Result label"
+  },
+  "win": "Win",
+  "@win": {
+    "description": "Win status"
+  },
+  "loss": "Loss",
+  "@loss": {
+    "description": "Loss status"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status"
+  },
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed status"
+  },
+  "enterOpenPanna": "Enter Open Panna :",
+  "@enterOpenPanna": {
+    "description": "Enter open panna label"
+  },
+  "enterClosePanna": "Enter Close Panna :",
+  "@enterClosePanna": {
+    "description": "Enter close panna label"
+  },
+  "sangam": "Sangam",
+  "@sangam": {
+    "description": "Sangam label"
+  },
+  "bid": "Bid",
+  "@bid": {
+    "description": "Bid label"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Total label"
+  },
+  "pleaseAddAtLeastOneBid": "Please add at least one bid.",
+  "@pleaseAddAtLeastOneBid": {
+    "description": "Please add at least one bid message"
+  },
+  "insufficientWalletBalanceToPlaceBid": "Insufficient wallet balance to place this bid.",
+  "@insufficientWalletBalanceToPlaceBid": {
+    "description": "Insufficient wallet balance message"
+  },
+  "updatedPointsFor": "Updated points for {sangam}.",
+  "@updatedPointsFor": {
+    "description": "Updated points message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidWithPoints": "Added bid: {sangam} with {points} points.",
+  "@addedBidWithPoints": {
+    "description": "Added bid message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "bidRemovedFromList": "Bid for {sangam} removed from list.",
+  "@bidRemovedFromList": {
+    "description": "Bid removed message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "screenNotMounted": "Screen not mounted.",
+  "@screenNotMounted": {
+    "description": "Screen not mounted error"
+  },
+  "authenticationErrorPleaseLoginAgain": "Authentication error. Please log in again.",
+  "@authenticationErrorPleaseLoginAgain": {
+    "description": "Authentication error message"
+  },
+  "noValidBidsToSubmit": "No valid bids to submit.",
+  "@noValidBidsToSubmit": {
+    "description": "No valid bids message"
+  },
+  "unexpectedErrorOccurred": "An unexpected error occurred: {error}",
+  "@unexpectedErrorOccurred": {
+    "description": "Unexpected error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ank": "Ank",
+  "@ank": {
+    "description": "Ank label"
+  },
+  "pana": "Pana",
+  "@pana": {
+    "description": "Pana label"
+  },
+  "addBid": "ADD BID",
+  "@addBid": {
+    "description": "Add bid button"
+  },
+  "pannaAnk": "Panna - Ank",
+  "@pannaAnk": {
+    "description": "Panna Ank label"
+  },
+  "pannaDigit": "Panna - Digit",
+  "@pannaDigit": {
+    "description": "Panna Digit label"
+  },
+  "type": "Type",
+  "@type": {
+    "description": "Type label"
+  },
+  "halfSangamA": "Half Sangam A",
+  "@halfSangamA": {
+    "description": "Half Sangam A label"
+  },
+  "noBidsAddedYet": "No bids added yet",
+  "@noBidsAddedYet": {
+    "description": "No bids added yet message"
+  },
+  "noBidsPlaced": "No Bids Placed",
+  "@noBidsPlaced": {
+    "description": "No bids placed message"
+  },
+  "ankOneDigitRequired": "Ank 1 digit ka do (0–9).",
+  "@ankOneDigitRequired": {
+    "description": "Ank one digit required message"
+  },
+  "ankBetween0And9": "Ank 0 se 9 ke beech do.",
+  "@ankBetween0And9": {
+    "description": "Ank between 0 and 9 message"
+  },
+  "addingThisWillExceedWalletBalance": "Itna add karne se total wallet se zyada ho jayega.",
+  "@addingThisWillExceedWalletBalance": {
+    "description": "Adding will exceed wallet balance message"
+  },
+  "updatedAnkPanna": "Updated: {ank}-{panna}.",
+  "@updatedAnkPanna": {
+    "description": "Updated ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "addedAnkPannaWithPoints": "Added: {ank}-{panna} — {pts} pts.",
+  "@addedAnkPannaWithPoints": {
+    "description": "Added ank panna with points message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      },
+      "pts": {
+        "type": "String"
+      }
+    }
+  },
+  "removedAnkPanna": "Removed {ank}-{panna}.",
+  "@removedAnkPanna": {
+    "description": "Removed ank panna message",
+    "placeholders": {
+      "ank": {
+        "type": "String"
+      },
+      "panna": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddAtLeastOneBidFirst": "Pehle kam se kam 1 bid add karo.",
+  "@pleaseAddAtLeastOneBidFirst": {
+    "description": "Please add at least one bid first message"
+  },
+  "walletBalanceLow": "Wallet balance kam hai.",
+  "@walletBalanceLow": {
+    "description": "Wallet balance low message"
+  },
+  "authIssuePleaseLoginAgain": "Auth issue — login dobara karo.",
+  "@authIssuePleaseLoginAgain": {
+    "description": "Auth issue please login again message"
+  },
+  "enterOpenDigit": "Enter Open Digit :",
+  "@enterOpenDigit": {
+    "description": "Enter open digit label"
+  },
+  "removedSangam": "Removed {sangam}.",
+  "@removedSangam": {
+    "description": "Removed sangam message",
+    "placeholders": {
+      "sangam": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameType": "Select Game Type :",
+  "@selectGameType": {
+    "description": "Select game type label"
+  },
+  "enterAmount": "Enter Amount",
+  "@enterAmount": {
+    "description": "Enter amount hint"
+  },
+  "insufficientWalletBalance": "Insufficient wallet balance.",
+  "@insufficientWalletBalance": {
+    "description": "Insufficient wallet balance message"
+  },
+  "noBidsToSubmit": "No bids to submit.",
+  "@noBidsToSubmit": {
+    "description": "No bids to submit message"
+  },
+  "noBidsAdded": "No bids added.",
+  "@noBidsAdded": {
+    "description": "No bids added message"
+  },
+  "noPanasReturnedForDigit": "No panas returned for this digit.",
+  "@noPanasReturnedForDigit": {
+    "description": "No panas returned message"
+  },
+  "bidsForDigitAdded": "{count} bids for digit {digit} added!",
+  "@bidsForDigitAdded": {
+    "description": "Bids for digit added message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToAddBulkBids": "Failed to add bulk bids.",
+  "@failedToAddBulkBids": {
+    "description": "Failed to add bulk bids message"
+  },
+  "networkError": "Network error: {error}",
+  "@networkError": {
+    "description": "Network error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "bidForPanaRemoved": "Bid for Pana {pana} removed.",
+  "@bidForPanaRemoved": {
+    "description": "Bid for pana removed message",
+    "placeholders": {
+      "pana": {
+        "type": "String"
+      }
+    }
+  },
+  "someOrAllBidsFailed": "Some or all bids failed to submit. Please try again.",
+  "@someOrAllBidsFailed": {
+    "description": "Some or all bids failed message"
+  },
+  "allBidsSubmittedSuccessfully": "All bids submitted successfully!",
+  "@allBidsSubmittedSuccessfully": {
+    "description": "All bids submitted successfully message"
+  },
+  "noBidsPlacedYetTapNumber": "No bids placed yet. Tap a number!",
+  "@noBidsPlacedYetTapNumber": {
+    "description": "No bids placed yet tap number message"
+  },
+  "bids": "Bids",
+  "@bids": {
+    "description": "Bids label (plural)"
+  },
+  "bidsLabel": "Bids",
+  "@bidsLabel": {
+    "description": "Bids label (simple text)"
+  },
+  "enterValidDoublePana": "Enter a valid Double Pana (3-digit) number.",
+  "@enterValidDoublePana": {
+    "description": "Enter valid double pana message"
+  },
+  "updatedDigitSession": "Updated: {digit} ({session})",
+  "@updatedDigitSession": {
+    "description": "Updated digit session message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "addedDigitSession": "Added: {digit} ({session})",
+  "@addedDigitSession": {
+    "description": "Added digit session message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "removedDigitSession": "Removed: {digit} ({session})",
+  "@removedDigitSession": {
+    "description": "Removed digit session message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "removedDigit": "Removed: {digit}",
+  "@removedDigit": {
+    "description": "Removed digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "noEntriesYetAddData": "No entries yet. Add some data!",
+  "@noEntriesYetAddData": {
+    "description": "No entries yet add data message"
+  },
+  "enter3DigitNumber": "Enter 3-Digit Number",
+  "@enter3DigitNumber": {
+    "description": "Enter 3 digit number label"
+  },
+  "enter3DigitNumberColon": "Enter 3-Digit Number:",
+  "@enter3DigitNumberColon": {
+    "description": "Enter 3 digit number label with colon"
+  },
+  "gameTypeLabel": "Game Type",
+  "@gameTypeLabel": {
+    "description": "Game type label"
+  },
+  "amountLabel": "Amount",
+  "@amountLabel": {
+    "description": "Amount label"
+  },
+  "pointsLabel": "Points",
+  "@pointsLabel": {
+    "description": "Points label"
+  },
+  "session": "Session",
+  "@session": {
+    "description": "Session label"
+  },
+  "pleaseSelectOddOrEven": "Please select Odd or Even.",
+  "@pleaseSelectOddOrEven": {
+    "description": "Please select odd or even message"
+  },
+  "addedGroupSession": "Added {group} ({session}): {digits}",
+  "@addedGroupSession": {
+    "description": "Added group session message",
+    "placeholders": {
+      "group": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      },
+      "digits": {
+        "type": "String"
+      }
+    }
+  },
+  "removedDigitType": "Removed {digit} ({type}).",
+  "@removedDigitType": {
+    "description": "Removed digit type message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameType": "Select Game Type",
+  "@selectGameType": {
+    "description": "Select game type label without colon"
+  },
+  "enterPoints": "Enter Points",
+  "@enterPoints": {
+    "description": "Enter points hint"
+  },
+  "odd": "Odd",
+  "@odd": {
+    "description": "Odd label"
+  },
+  "even": "Even",
+  "@even": {
+    "description": "Even label"
+  },
+  "digit": "Digit",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "noBidAddedYet": "No bid added yet",
+  "@noBidAddedYet": {
+    "description": "No bid added yet message"
+  },
+  "biddingIsClosedForSlot": "Bidding is closed for this slot.",
+  "@biddingIsClosedForSlot": {
+    "description": "Bidding is closed for slot message"
+  },
+  "pleaseEnterValidSingleDigit": "Please enter a valid single digit (0-9).",
+  "@pleaseEnterValidSingleDigit": {
+    "description": "Please enter valid single digit message"
+  },
+  "pleaseEnterAnAmount": "Please enter an amount.",
+  "@pleaseEnterAnAmount": {
+    "description": "Please enter an amount message"
+  },
+  "amountMustBeNumber": "Amount must be a number.",
+  "@amountMustBeNumber": {
+    "description": "Amount must be number message"
+  },
+  "amountMustBeBetween": "Amount must be between {min} and {max}.",
+  "@amountMustBeBetween": {
+    "description": "Amount must be between message",
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "insufficientWalletBalanceToPlaceBids": "Insufficient wallet balance to place these bids.",
+  "@insufficientWalletBalanceToPlaceBids": {
+    "description": "Insufficient wallet balance to place bids message"
+  },
+  "updatedDigitAmount": "Updated digit {digit} amount to {points}.",
+  "@updatedDigitAmount": {
+    "description": "Updated digit amount message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "addedBidDigitAmount": "Added bid: Digit {digit}, Amount {points}.",
+  "@addedBidDigitAmount": {
+    "description": "Added bid digit amount message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "removedBidDigit": "Removed bid: Digit {digit}.",
+  "@removedBidDigit": {
+    "description": "Removed bid digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddAtLeastOneBidBeforeSubmitting": "Please add at least one bid before submitting.",
+  "@pleaseAddAtLeastOneBidBeforeSubmitting": {
+    "description": "Please add at least one bid before submitting message"
+  },
+  "insufficientWalletBalanceToSubmit": "Insufficient wallet balance to submit.",
+  "@insufficientWalletBalanceToSubmit": {
+    "description": "Insufficient wallet balance to submit message"
+  },
+  "bidPlacedSuccessfully": "Bid placed successfully!",
+  "@bidPlacedSuccessfully": {
+    "description": "Bid placed successfully message"
+  },
+  "unknownErrorOccurred": "Unknown error occurred.",
+  "@unknownErrorOccurred": {
+    "description": "Unknown error occurred message"
+  },
+  "entersSingleDigit": "Enters Single Digit:",
+  "@entersSingleDigit": {
+    "description": "Enters single digit label"
+  },
+  "enterDigit": "Enter Digit",
+  "@enterDigit": {
+    "description": "Enter digit hint"
+  },
+  "noDataAddedYet": "No data added yet",
+  "@noDataAddedYet": {
+    "description": "No data added yet message"
+  },
+  "points10To1000KeBeechDo": "Points 10–1000 ke beech do.",
+  "@points10To1000KeBeechDo": {
+    "description": "Points 10 to 1000 ke beech do message"
+  },
+  "bidTypeBidAdded": "{bidType} bid added!",
+  "@bidTypeBidAdded": {
+    "description": "Bid type bid added message",
+    "placeholders": {
+      "bidType": {
+        "type": "String"
+      }
+    }
+  },
+  "entryDeleted": "Entry deleted.",
+  "@entryDeleted": {
+    "description": "Entry deleted message"
+  },
+  "pehleKoiEntryAddKaro": "Pehle koi entry add karo.",
+  "@pehleKoiEntryAddKaro": {
+    "description": "Pehle koi entry add karo message"
+  },
+  "removeThisBidTypeSet": "Remove this {bidType} set",
+  "@removeThisBidTypeSet": {
+    "description": "Remove bid type set tooltip",
+    "placeholders": {
+      "bidType": {
+        "type": "String"
+      }
+    }
+  },
+  "enterJodi": "Enter Jodi:",
+  "@enterJodi": {
+    "description": "Enter jodi label"
+  },
+  "enterJodiHint": "Enter Jodi",
+  "@enterJodiHint": {
+    "description": "Enter jodi hint"
+  },
+  "pleaseEnterValid2DigitJodi": "Please enter a valid 2-digit Jodi.",
+  "@pleaseEnterValid2DigitJodi": {
+    "description": "Please enter valid 2 digit jodi message"
+  },
+  "jodiAlreadyExists": "Jodi {jodi} already exists.",
+  "@jodiAlreadyExists": {
+    "description": "Jodi already exists message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "addedJodi": "Added: {jodi}",
+  "@addedJodi": {
+    "description": "Added jodi message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "bidForJodiRemoved": "Bid for Jodi {jodi} removed.",
+  "@bidForJodiRemoved": {
+    "description": "Bid for jodi removed message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseWaitBidSubmissionInProgress": "Please wait, a bid submission is in progress.",
+  "@pleaseWaitBidSubmissionInProgress": {
+    "description": "Please wait bid submission in progress message"
+  },
+  "jodiDigitMustBeExactly2Numbers": "Jodi digit must be exactly 2 numbers (00-99).",
+  "@jodiDigitMustBeExactly2Numbers": {
+    "description": "Jodi digit must be exactly 2 numbers message"
+  },
+  "jodiMustBeNumberBetween00And99": "Jodi must be a number between 00 and 99.",
+  "@jodiMustBeNumberBetween00And99": {
+    "description": "Jodi must be number between 00 and 99 message"
+  },
+  "pleaseEnterValidPoints": "Please enter valid points.",
+  "@pleaseEnterValidPoints": {
+    "description": "Please enter valid points message"
+  },
+  "pointsMustBeBetween10And10000": "Points must be between 10 and 10000.",
+  "@pointsMustBeBetween10And10000": {
+    "description": "Points must be between 10 and 10000 message"
+  },
+  "insufficientWalletBalanceForThisBid": "Insufficient wallet balance for this bid.",
+  "@insufficientWalletBalanceForThisBid": {
+    "description": "Insufficient wallet balance for this bid message"
+  },
+  "jodiWithPointsAdded": "Jodi {digit} with {points} points added.",
+  "@jodiWithPointsAdded": {
+    "description": "Jodi with points added message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "jodiPointsUpdatedTo": "Jodi {digit} points updated to {points}.",
+  "@jodiPointsUpdatedTo": {
+    "description": "Jodi points updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "cannotRemoveBidWhileSubmissionInProgress": "Cannot remove bid while submission is in progress.",
+  "@cannotRemoveBidWhileSubmissionInProgress": {
+    "description": "Cannot remove bid while submission in progress message"
+  },
+  "jodiRemoved": "Jodi {digit} removed.",
+  "@jodiRemoved": {
+    "description": "Jodi removed message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "submittingYourBids": "Submitting your bids...",
+  "@submittingYourBids": {
+    "description": "Submitting your bids message"
+  },
+  "bidFailedPleaseTryAgain": "Bid failed. Please try again.",
+  "@bidFailedPleaseTryAgain": {
+    "description": "Bid failed please try again message"
+  },
+  "networkErrorOrUnexpectedIssue": "Network error or unexpected issue: {error}",
+  "@networkErrorOrUnexpectedIssue": {
+    "description": "Network error or unexpected issue message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "enterPoints": "Enter Points:",
+  "@enterPoints": {
+    "description": "Enter points label"
+  },
+  "enterAmount": "Enter Amount",
+  "@enterAmount": {
+    "description": "Enter amount hint"
+  },
+  "enterJodiDigit": "Enter Jodi Digit:",
+  "@enterJodiDigit": {
+    "description": "Enter jodi digit label"
+  },
+  "bidDigits": "Bid Digits",
+  "@bidDigits": {
+    "description": "Bid digits hint"
+  },
+  "digit": "Digit",
+  "@digit": {
+    "description": "Digit label"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "gameType": "Game Type",
+  "@gameType": {
+    "description": "Game type label"
+  },
+  "points": "Points",
+  "@points": {
+    "description": "Points label"
+  },
+  "pleaseEnterValid3DigitNumber": "Enter a valid 3-digit number.",
+  "@pleaseEnterValid3DigitNumber": {
+    "description": "Please enter valid 3 digit number message"
+  },
+  "invalidTriplePannaNumber": "Invalid Triple Panna number.",
+  "@invalidTriplePannaNumber": {
+    "description": "Invalid triple panna number message"
+  },
+  "noBidsAddedToSubmit": "No bids added to submit.",
+  "@noBidsAddedToSubmit": {
+    "description": "No bids added to submit message"
+  },
+  "updatedBidForDigit": "Updated bid for {digit}.",
+  "@updatedBidForDigit": {
+    "description": "Updated bid for digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidDigitPoints": "Added bid: {digit} - {points} points",
+  "@addedBidDigitPoints": {
+    "description": "Added bid digit points message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  "removedBidDigitOnly": "Removed bid: {digit}",
+  "@removedBidDigitOnly": {
+    "description": "Removed bid digit only message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "enter3DigitTriplePanna": "Enter 3-Digit Triple Panna",
+  "@enter3DigitTriplePanna": {
+    "description": "Enter 3 digit triple panna hint"
+  },
+  "enter3DigitTriplePannaColon": "Enter 3-Digit Triple Panna:",
+  "@enter3DigitTriplePannaColon": {
+    "description": "Enter 3 digit triple panna label"
+  },
+  "pleaseSelectSPDPOrTP": "Please select SP, DP, or TP.",
+  "@pleaseSelectSPDPOrTP": {
+    "description": "Please select SP DP or TP message"
+  },
+  "digitMustBeNumber0To9": "Digit must be a number from 0 to 9.",
+  "@digitMustBeNumber0To9": {
+    "description": "Digit must be number 0 to 9 message"
+  },
+  "addedBidsForCategory": "{count} bids added for {category}.",
+  "@addedBidsForCategory": {
+    "description": "Added bids for category message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddBidsBeforeSubmitting": "Please add bids before submitting.",
+  "@pleaseAddBidsBeforeSubmitting": {
+    "description": "Please add bids before submitting message"
+  },
+  "insufficientWalletBalanceToPlaceBid": "Insufficient wallet balance to place this bid.",
+  "@insufficientWalletBalanceToPlaceBid": {
+    "description": "Insufficient wallet balance to place bid message"
+  },
+  "pleaseEnterNumber": "Please enter a number.",
+  "@pleaseEnterNumber": {
+    "description": "Please enter number message"
+  },
+  "pleaseEnterValidNumber": "Please enter a valid number (3-7 digits).",
+  "@pleaseEnterValidNumber": {
+    "description": "Please enter valid number message"
+  },
+  "numberMustContainTwoUniqueDigits": "The number must contain at least two unique digits.",
+  "@numberMustContainTwoUniqueDigits": {
+    "description": "Number must contain two unique digits message"
+  },
+  "noValidBidsFound": "No valid bids found for this number.",
+  "@noValidBidsFound": {
+    "description": "No valid bids found message"
+  },
+  "addedBidsFromApiResponse": "Added {count} bids from API response.",
+  "@addedBidsFromApiResponse": {
+    "description": "Added bids from API response message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "allBidsAlreadyExist": "All bids already exist.",
+  "@allBidsAlreadyExist": {
+    "description": "All bids already exist message"
+  },
+  "bidRequestFailed": "Bid request failed with status: {statusCode}",
+  "@bidRequestFailed": {
+    "description": "Bid request failed message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "removedBidNumberType": "Removed bid: Number {number}, Type {type}.",
+  "@removedBidNumberType": {
+    "description": "Removed bid number type message",
+    "placeholders": {
+      "number": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsAddedForSelectedGameType": "No bids added for the selected game type to submit.",
+  "@noBidsAddedForSelectedGameType": {
+    "description": "No bids added for selected game type message"
+  },
+  "insufficientWalletBalanceForSelectedGameType": "Insufficient wallet balance for selected game type.",
+  "@insufficientWalletBalanceForSelectedGameType": {
+    "description": "Insufficient wallet balance for selected game type message"
+  },
+  "noValidBidsForSelectedGameType": "No valid bids for the selected game type.",
+  "@noValidBidsForSelectedGameType": {
+    "description": "No valid bids for selected game type message"
+  },
+  "enterNumber": "Enter Number:",
+  "@enterNumber": {
+    "description": "Enter number label"
+  },
+  "enterNumberHint": "Enter a number",
+  "@enterNumberHint": {
+    "description": "Enter number hint"
+  },
+  "count": "Count",
+  "@count": {
+    "description": "Count label"
+  },
+  "walletBalanceKamHai": "Wallet balance kam hai.",
+  "@walletBalanceKamHai": {
+    "description": "Wallet balance kam hai message"
+  },
+  "enterSinglePanaHint": "Enter Single Pana",
+  "@enterSinglePanaHint": {
+    "description": "Enter single pana hint"
+  },
+  "bidTime": "Bid Time :",
+  "@bidTime": {
+    "description": "Bid time label"
+  },
+  "bidResultTime": "Bid Result Time :",
+  "@bidResultTime": {
+    "description": "Bid result time label"
+  },
+  "paymentSuccess": "Payment Success",
+  "@paymentSuccess": {
+    "description": "Payment success title"
+  },
+  "done": "Done",
+  "@done": {
+    "description": "Done button"
+  },
+  "accountRecovery": "Account Recovery",
+  "@accountRecovery": {
+    "description": "Account recovery title"
+  },
+  "accountRecoveryMessage": "Recover your existing account by setting a new MPIN\n\nDo you want to continue?",
+  "@accountRecoveryMessage": {
+    "description": "Account recovery message"
+  },
+  "recover": "RECOVER",
+  "@recover": {
+    "description": "Recover button"
+  },
+  "walletFundHistoryNotAvailable": "Wallet Fund History Not Available",
+  "@walletFundHistoryNotAvailable": {
+    "description": "Wallet fund history not available message"
+  },
+  "termsAndConditions": "Terms & Conditions",
+  "@termsAndConditions": {
+    "description": "Terms and conditions title"
+  },
+  "minimumWithdrawAmount": "Minimum Withdraw Amount is 1000 ₹",
+  "@minimumWithdrawAmount": {
+    "description": "Minimum withdraw amount term"
+  },
+  "maximumWithdrawAmount": "& Maximum Withdraw Amount is 500000",
+  "@maximumWithdrawAmount": {
+    "description": "Maximum withdraw amount term"
+  },
+  "above5LakhManualRequest": "Above 5 Lakh You Should Request Us Manually.",
+  "@above5LakhManualRequest": {
+    "description": "Above 5 lakh manual request term"
+  },
+  "withdrawRequestTiming": "Withdraw Request Timing 09:00 AM To 10:00 PM",
+  "@withdrawRequestTiming": {
+    "description": "Withdraw request timing term"
+  },
+  "processTime": "Process Time Minimum 1 Hour Maximum 72 Hours.",
+  "@processTime": {
+    "description": "Process time term"
+  },
+  "withdrawAvailableAllDays": "Withdraw Is Available On All 7 Days Of Week.",
+  "@withdrawAvailableAllDays": {
+    "description": "Withdraw available all days term"
+  },
+  "accept": "ACCEPT",
+  "@accept": {
+    "description": "Accept button"
+  },
+  "addFund": "ADD FUND",
+  "@addFund": {
+    "description": "Add fund title"
+  },
+  "addMoney": "ADD MONEY",
+  "@addMoney": {
+    "description": "Add money button text"
+  },
+  "availableBalance": "Available Balance",
+  "@availableBalance": {
+    "description": "Available balance label"
+  },
+  "enterAmount": "Enter Amount",
+  "@enterAmount": {
+    "description": "Enter amount label"
+  },
+  "addPointUpi": "ADD POINT - UPI",
+  "@addPointUpi": {
+    "description": "Add point via UPI button"
+  },
+  "addPointQrPaytmGateway": "ADD POINT - QR - PAYTM - GATEWAY",
+  "@addPointQrPaytmGateway": {
+    "description": "Add point via QR Paytm Gateway button"
+  },
+  "howToAddPoint": "HOW TO ADD POINT",
+  "@howToAddPoint": {
+    "description": "How to add point button"
+  },
+  "pleaseContactSupportToKnowHowToAddPoint": "Please contact support to know how to add point.",
+  "@pleaseContactSupportToKnowHowToAddPoint": {
+    "description": "Contact support message for adding point"
+  },
+  "selectUpiApp": "Select UPI App",
+  "@selectUpiApp": {
+    "description": "Select UPI app title"
+  },
+  "upiApp": "UPI App",
+  "@upiApp": {
+    "description": "UPI app default name"
+  },
+  "addFunds": "Add funds",
+  "@addFunds": {
+    "description": "Add funds description"
+  },
+  "upiPayeeDetailsNotConfigured": "UPI payee details not configured.",
+  "@upiPayeeDetailsNotConfigured": {
+    "description": "UPI payee details not configured message"
+  },
+  "invalidUpiIdFormat": "Invalid UPI ID format",
+  "@invalidUpiIdFormat": {
+    "description": "Invalid UPI ID format message"
+  },
+  "pleaseEnterValidAmountMin": "Please enter a valid amount (min ₹{amount}).",
+  "@pleaseEnterValidAmountMin": {
+    "description": "Please enter valid amount with minimum",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "noUpiAppsFound": "No UPI apps found. Please install a UPI app to proceed.",
+  "@noUpiAppsFound": {
+    "description": "No UPI apps found message"
+  },
+  "paymentFailedOrCancelled": "Payment failed or cancelled.",
+  "@paymentFailedOrCancelled": {
+    "description": "Payment failed or cancelled message"
+  },
+  "errorOccurredDuringUpiPayment": "An error occurred during UPI payment: {error}",
+  "@errorOccurredDuringUpiPayment": {
+    "description": "Error occurred during UPI payment",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "rangeErrorOccurredDuringUpiPayment": "RangeError occurred during UPI payment. Please try again.",
+  "@rangeErrorOccurredDuringUpiPayment": {
+    "description": "RangeError occurred during UPI payment message"
+  },
+  "failedToLaunchUpiApp": "Failed to launch UPI app due to unexpected error.",
+  "@failedToLaunchUpiApp": {
+    "description": "Failed to launch UPI app message"
+  },
+  "invalidServerResponse": "Invalid server response (missing paymentHash/timestamp).",
+  "@invalidServerResponse": {
+    "description": "Invalid server response message"
+  },
+  "depositSuccessfulAndUpdated": "Deposit successful and updated",
+  "@depositSuccessfulAndUpdated": {
+    "description": "Deposit successful message"
+  },
+  "failedToAddDepositFund": "Failed to add deposit fund",
+  "@failedToAddDepositFund": {
+    "description": "Failed to add deposit fund message"
+  },
+  "failedToCreateFundRequest": "Failed to create fund request (HTTP {code})",
+  "@failedToCreateFundRequest": {
+    "description": "Failed to create fund request message",
+    "placeholders": {
+      "code": {
+        "type": "int"
+      }
+    }
+  },
+  "failedToCompletePaymentProcess": "Failed to complete payment process: {error}",
+  "@failedToCompletePaymentProcess": {
+    "description": "Failed to complete payment process message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterValidAmount": "Please enter a valid amount.",
+  "@pleaseEnterValidAmount": {
+    "description": "Please enter valid amount message"
+  },
+  "pleaseEnterAmountGreaterThanOrEqual": "Please enter an amount greater than or equal to ₹{amount}.",
+  "@pleaseEnterAmountGreaterThanOrEqual": {
+    "description": "Please enter amount greater than or equal message",
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "invalidMobileNumberFound": "Invalid mobile number found.",
+  "@invalidMobileNumberFound": {
+    "description": "Invalid mobile number found message"
+  },
+  "paymentLinkNotFoundInResponse": "Payment link not found in response.",
+  "@paymentLinkNotFoundInResponse": {
+    "description": "Payment link not found message"
+  },
+  "failedToCreateTransactionLink": "Failed to create transaction link.",
+  "@failedToCreateTransactionLink": {
+    "description": "Failed to create transaction link message"
+  },
+  "error": "Error: {error}",
+  "@error": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "bankDetails": "BANK DETAILS",
+  "@bankDetails": {
+    "description": "Bank details title"
+  },
+  "accountHolderName": "Account Holder Name",
+  "@accountHolderName": {
+    "description": "Account holder name label"
+  },
+  "accountNumber": "Account Number",
+  "@accountNumber": {
+    "description": "Account number label"
+  },
+  "enterAccountNumber": "Enter Account Number",
+  "@enterAccountNumber": {
+    "description": "Enter account number hint"
+  },
+  "ifscCode": "IFSC Code",
+  "@ifscCode": {
+    "description": "IFSC code label"
+  },
+  "bankName": "Bank Name",
+  "@bankName": {
+    "description": "Bank name label"
+  },
+  "enterBankName": "Enter Bank Name",
+  "@enterBankName": {
+    "description": "Enter bank name hint"
+  },
+  "branchName": "Branch Name",
+  "@branchName": {
+    "description": "Branch name label"
+  },
+  "enterBranchName": "Enter Branch Name",
+  "@enterBranchName": {
+    "description": "Enter branch name hint"
+  },
+  "addBank": "Add Bank",
+  "@addBank": {
+    "description": "Add bank button"
+  },
+  "fundDepositHistory": "Fund Deposit History",
+  "@fundDepositHistory": {
+    "description": "Fund deposit history title"
+  },
+  "narration": "Narration",
+  "@narration": {
+    "description": "Narration label"
+  },
+  "withdrawFunds": "Withdraw Funds",
+  "@withdrawFunds": {
+    "description": "Withdraw funds option"
+  },
+  "depositHistory": "Deposit History",
+  "@depositHistory": {
+    "description": "Deposit history option"
+  },
+  "withdrawHistory": "Withdraw History",
+  "@withdrawHistory": {
+    "description": "Withdraw history option"
+  },
+  "fundWithdrawHistory": "Fund Withdraw History",
+  "@fundWithdrawHistory": {
+    "description": "Fund withdraw history title"
+  },
+  "withdrawMode": "Withdraw Mode",
+  "@withdrawMode": {
+    "description": "Withdraw mode label"
+  },
+  "upiId": "UPI ID",
+  "@upiId": {
+    "description": "UPI ID label"
+  },
+  "acHolder": "A/C Holder",
+  "@acHolder": {
+    "description": "Account holder label"
+  },
+  "acNo": "A/C No.",
+  "@acNo": {
+    "description": "Account number short label"
+  },
+  "manualApproveByAdmin": "Manual approve by Admin",
+  "@manualApproveByAdmin": {
+    "description": "Manual approve by admin message"
+  },
+  "enterGooglePayUpiId": "Enter Google Pay UPI ID",
+  "@enterGooglePayUpiId": {
+    "description": "Enter Google Pay UPI ID hint"
+  },
+  "enterPhonepeUpiId": "Enter PhonePe UPI ID",
+  "@enterPhonepeUpiId": {
+    "description": "Enter PhonePe UPI ID hint"
+  },
+  "enterPaytmNumber": "Enter Paytm Number",
+  "@enterPaytmNumber": {
+    "description": "Enter Paytm number hint"
+  },
+  "enterUpiIdNumber": "Enter UPI ID/Number",
+  "@enterUpiIdNumber": {
+    "description": "Enter UPI ID/Number hint"
+  },
+  "pleaseLoginAgainToContinue": "Please log in again to continue.",
+  "@pleaseLoginAgainToContinue": {
+    "description": "Please login again message"
+  },
+  "minimumWithdrawalAmountIs": "Minimum withdrawal amount is ₹{amount}.",
+  "@minimumWithdrawalAmountIs": {
+    "description": "Minimum withdrawal amount message",
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "pleaseEnterGooglePayUpiId": "Please enter Google Pay UPI ID.",
+  "@pleaseEnterGooglePayUpiId": {
+    "description": "Please enter Google Pay UPI ID message"
+  },
+  "pleaseEnterPhonepeUpiId": "Please enter PhonePe UPI ID.",
+  "@pleaseEnterPhonepeUpiId": {
+    "description": "Please enter PhonePe UPI ID message"
+  },
+  "pleaseEnterPaytmNumber": "Please enter Paytm Number.",
+  "@pleaseEnterPaytmNumber": {
+    "description": "Please enter Paytm number message"
+  },
+  "pleaseFillAllBankDetails": "Please fill all bank details.",
+  "@pleaseFillAllBankDetails": {
+    "description": "Please fill all bank details message"
+  },
+  "pleaseSelectWithdrawalMethod": "Please select a withdrawal method.",
+  "@pleaseSelectWithdrawalMethod": {
+    "description": "Please select withdrawal method message"
+  },
+  "withdrawalRequestSubmittedSuccessfully": "Withdrawal request submitted successfully!",
+  "@withdrawalRequestSubmittedSuccessfully": {
+    "description": "Withdrawal request submitted successfully message"
+  },
+  "withdrawalRequestFailed": "Withdrawal request failed.",
+  "@withdrawalRequestFailed": {
+    "description": "Withdrawal request failed message"
+  },
+  "anErrorOccurred": "An error occurred: {error}",
+  "@anErrorOccurred": {
+    "description": "An error occurred message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "jackpotDashboard": "Jackpot Dashboard",
+  "@jackpotDashboard": {
+    "description": "Jackpot Dashboard title"
+  },
+  "history": "History",
+  "@history": {
+    "description": "History button/label"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications label"
+  },
+  "jodi": "Jodi",
+  "@jodi": {
+    "description": "Jodi label"
+  },
+  "closed": "Closed",
+  "@closed": {
+    "description": "Closed status"
+  },
+  "running": "Running",
+  "@running": {
+    "description": "Running status"
+  },
+  "noJackpotBidTypesAvailable": "No jackpot bid types available or failed to load.",
+  "@noJackpotBidTypesAvailable": {
+    "description": "No jackpot bid types available message"
+  },
+  "theMarketFor": "The market for",
+  "@theMarketFor": {
+    "description": "The market for prefix"
+  },
+  "isCurrentlyClosed": "is currently closed.",
+  "@isCurrentlyClosed": {
+    "description": "is currently closed suffix"
+  },
+  "authenticationErrorPleaseLoginAgain": "Authentication error: Please log in again.",
+  "@authenticationErrorPleaseLoginAgain": {
+    "description": "Authentication error message"
+  },
+  "failedToLoadJackpotBidTypes": "Failed to load jackpot bid types:",
+  "@failedToLoadJackpotBidTypes": {
+    "description": "Failed to load jackpot bid types message"
+  },
+  "noScreenConfiguredForGameType": "No screen configured for game type:",
+  "@noScreenConfiguredForGameType": {
+    "description": "No screen configured for game type message"
+  },
+  "networkErrorPleaseTryAgainLater": "Network error. Please try again later.",
+  "@networkErrorPleaseTryAgainLater": {
+    "description": "Network error message"
+  },
+  "failedToLoadGames": "Failed to load games",
+  "@failedToLoadGames": {
+    "description": "Failed to load games error message"
+  },
+  "singleDigit": "Single Digit",
+  "@singleDigit": {
+    "description": "Single Digit game name"
+  },
+  "singlePana": "Single Pana",
+  "@singlePana": {
+    "description": "Single Pana game name"
+  },
+  "doublePana": "Double Pana",
+  "@doublePana": {
+    "description": "Double Pana game name"
+  },
+  "triplePana": "Triple Pana",
+  "@triplePana": {
+    "description": "Triple Pana game name"
+  },
+  "choiceSpDpTp": "Choice SP DP TP",
+  "@choiceSpDpTp": {
+    "description": "Choice SP DP TP game name"
+  },
+  "spMotor": "SP Motor",
+  "@spMotor": {
+    "description": "SP Motor game name"
+  },
+  "dpMotor": "DP Motor",
+  "@dpMotor": {
+    "description": "DP Motor game name"
+  },
+  "tpMotor": "TP Motor",
+  "@tpMotor": {
+    "description": "TP Motor game name"
+  },
+  "fullSangam": "Full Sangam",
+  "@fullSangam": {
+    "description": "Full Sangam game name"
+  },
+  "halfSangam": "Half Sangam",
+  "@halfSangam": {
+    "description": "Half Sangam game name"
+  },
+  "singleDigitsBulk": "Single Digits Bulk",
+  "@singleDigitsBulk": {
+    "description": "Single Digits Bulk game name"
+  },
+  "jodiBulk": "Jodi Bulk",
+  "@jodiBulk": {
+    "description": "Jodi Bulk game name"
+  },
+  "singlePanaBulk": "Single Pana Bulk",
+  "@singlePanaBulk": {
+    "description": "Single Pana Bulk game name"
+  },
+  "doublePanaBulk": "Double Pana Bulk",
+  "@doublePanaBulk": {
+    "description": "Double Pana Bulk game name"
+  },
+  "twoDigitPanel": "Two Digit Panel",
+  "@twoDigitPanel": {
+    "description": "Two Digit Panel game name"
+  },
+  "oddEven": "Odd Even",
+  "@oddEven": {
+    "description": "Odd Even game name"
+  },
+  "digitBasedJodi": "Digit Based Jodi",
+  "@digitBasedJodi": {
+    "description": "Digit Based Jodi game name"
+  },
+  "panelGroup": "Panel Group",
+  "@panelGroup": {
+    "description": "Panel Group game name"
+  },
+  "redBracket": "Red Bracket",
+  "@redBracket": {
+    "description": "Red Bracket game name"
+  },
+  "groupJodi": "Group Jodi",
+  "@groupJodi": {
+    "description": "Group Jodi game name"
+  },
+  "mainStarlineDashboard": "MAIN STARLINE DASHBOARD",
+  "@mainStarlineDashboard": {
+    "description": "Main Starline Dashboard title"
+  },
+  "notification": "Notification",
+  "@notification": {
+    "description": "Notification label (singular)"
+  },
+  "runningNow": "Running Now",
+  "@runningNow": {
+    "description": "Running now status"
+  },
+  "bidClosedAt": "Bid closed at {closeTime}",
+  "@bidClosedAt": {
+    "description": "Bid closed at time message",
+    "placeholders": {
+      "closeTime": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToLoadGameData": "Failed to load game data.",
+  "@failedToLoadGameData": {
+    "description": "Failed to load game data error message"
+  },
+  "createAccount": "CREATE ACCOUNT",
+  "@createAccount": {
+    "description": "Create account title"
+  },
+  "enterYourDetails": "ENTER YOUR DETAILS",
+  "@enterYourDetails": {
+    "description": "Enter your details subtitle"
+  },
+  "enterUsername": "Enter username",
+  "@enterUsername": {
+    "description": "Enter username hint"
+  },
+  "enterPassword": "Enter password",
+  "@enterPassword": {
+    "description": "Enter password hint"
+  },
+  "confirmPassword": "Confirm password",
+  "@confirmPassword": {
+    "description": "Confirm password hint"
+  },
+  "pleaseEnterUsername": "Please enter username",
+  "@pleaseEnterUsername": {
+    "description": "Please enter username error message"
+  },
+  "pleaseEnterPassword": "Please enter password",
+  "@pleaseEnterPassword": {
+    "description": "Please enter password error message"
+  },
+  "passwordMustBeAtLeast6Characters": "Password must be at least 6 characters",
+  "@passwordMustBeAtLeast6Characters": {
+    "description": "Password must be at least 6 characters error message"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Passwords do not match error message"
+  },
+  "verifyMobileNumber": "VERIFY MOBILE\nNUMBER",
+  "@verifyMobileNumber": {
+    "description": "Verify mobile number title"
+  },
+  "enterPasswordLabel": "Enter Password",
+  "@enterPasswordLabel": {
+    "description": "Enter password label"
+  },
+  "toCompleteRegistrationFor": "To complete registration for\n",
+  "@toCompleteRegistrationFor": {
+    "description": "To complete registration for text"
+  },
+  "enterYourAccountPassword": "Enter your account password.",
+  "@enterYourAccountPassword": {
+    "description": "Enter your account password error message"
+  },
+  "enterYourPassword": "Enter your password",
+  "@enterYourPassword": {
+    "description": "Enter your password hint"
+  },
+  "verify": "VERIFY",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "missingDataRestartRegistration": "Missing data. Restart registration.",
+  "@missingDataRestartRegistration": {
+    "description": "Missing data restart registration error message"
+  },
+  "errorVerifyingPassword": "Error verifying password",
+  "@errorVerifyingPassword": {
+    "description": "Error verifying password message"
+  },
+  "registrationFailed": "Registration failed",
+  "@registrationFailed": {
+    "description": "Registration failed error message"
+  },
+  "prev": "Prev",
+  "@prev": {
+    "description": "Previous button text (short)"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description label"
+  },
+  "prevAmt": "Prev Amt",
+  "@prevAmt": {
+    "description": "Previous amount label"
+  },
+  "txnAmt": "Txn Amt",
+  "@txnAmt": {
+    "description": "Transaction amount label"
+  },
+  "curAmt": "Cur Amt",
+  "@curAmt": {
+    "description": "Current amount label"
+  },
+  "bidHistory": "Bid History",
+  "@bidHistory": {
+    "description": "Bid history page title"
+  },
+  "noBidEntriesFound": "No bid entries found.",
+  "@noBidEntriesFound": {
+    "description": "No bid entries found message"
+  },
+  "transactionTime": "Transaction Time:",
+  "@transactionTime": {
+    "description": "Transaction time label"
+  },
+  "statusLabel": "Status:",
+  "@statusLabel": {
+    "description": "Status label prefix"
+  },
+  "betterLuckNextTime": "Better Luck Next Time",
+  "@betterLuckNextTime": {
+    "description": "Better luck next time message"
+  },
+  "currentAmount": "Current Amount",
+  "@currentAmount": {
+    "description": "Current amount full label"
+  },
+  "previousAmount": "Previous Amount",
+  "@previousAmount": {
+    "description": "Previous amount full label"
+  },
+  "transactionAmount": "Transaction Amount",
+  "@transactionAmount": {
+    "description": "Transaction amount full label"
+  },
+  "quit": "Quit",
+  "@quit": {
+    "description": "Quit dialog title"
+  },
+  "areYouSureYouWantToQuitTheApp": "Are you sure you want to quit the app?",
+  "@areYouSureYouWantToQuitTheApp": {
+    "description": "Quit confirmation message"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes button text"
+  },
+  "no": "No",
+  "@no": {
+    "description": "No button text"
+  },
+  "noNotificationsFound": "No notifications found.",
+  "@noNotificationsFound": {
+    "description": "No notifications found message"
+  },
+  "pleaseEnterAnAmountFirst": "Please enter an amount first.",
+  "@pleaseEnterAnAmountFirst": {
+    "description": "Please enter an amount first message"
+  },
+  "pointsMustBeBetween10And1000": "Points must be between 10 and 1000.",
+  "@pointsMustBeBetween10And1000": {
+    "description": "Points validation message for 10-1000 range"
+  },
+  "bidForDigitUpdated": "Bid for Digit {digit} ({type}) updated to {points} points.",
+  "@bidForDigitUpdated": {
+    "description": "Bid updated message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      },
+      "points": {
+        "type": "String"
+      }
+    }
+  },
+  "addedBidForDigit": "Added bid for Digit: {digit}, Amount: {amount}",
+  "@addedBidForDigit": {
+    "description": "Added bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "noBidsPlacedYetClickNumber": "No bids placed yet. Click a number to add a bid!",
+  "@noBidsPlacedYetClickNumber": {
+    "description": "No bids placed yet message with instruction"
+  },
+  "bidsSubmittedSuccessfully": "Bids submitted successfully!",
+  "@bidsSubmittedSuccessfully": {
+    "description": "Bids submitted successfully message"
+  },
+  "removedBidForDigit": "Removed bid for Digit: {digit}, Amount: {amount}.",
+  "@removedBidForDigit": {
+    "description": "Removed bid message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "selectGameTypeColon": "Select Game Type:",
+  "@selectGameTypeColon": {
+    "description": "Select game type label with colon"
+  },
+  "enterPointsColon": "Enter Points:",
+  "@enterPointsColon": {
+    "description": "Enter points label with colon"
+  },
+  "loginWithMpin": "Login with MPIN",
+  "@loginWithMpin": {
+    "description": "Login with MPIN title"
+  },
+  "mpinHint": "MPIN",
+  "@mpinHint": {
+    "description": "MPIN hint text"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "forgotMpin": "Forgot MPIN?",
+  "@forgotMpin": {
+    "description": "Forgot MPIN link text"
+  },
+  "biometricAuthenticationNotAvailable": "Biometric authentication not available or supported",
+  "@biometricAuthenticationNotAvailable": {
+    "description": "Biometric not available message"
+  },
+  "scanYourFingerprintToVerify": "Scan your fingerprint to verify",
+  "@scanYourFingerprintToVerify": {
+    "description": "Biometric authentication reason"
+  },
+  "biometricAuthenticationFailed": "Biometric authentication failed",
+  "@biometricAuthenticationFailed": {
+    "description": "Biometric authentication failed message"
+  },
+  "biometricError": "Biometric error: {error}",
+  "@biometricError": {
+    "description": "Biometric error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterYourMpin": "Please enter your mPIN",
+  "@pleaseEnterYourMpin": {
+    "description": "Please enter MPIN message"
+  },
+  "registrationIdNotFoundPleaseReregister": "Registration ID not found. Please re-register.",
+  "@registrationIdNotFoundPleaseReregister": {
+    "description": "Registration ID not found message"
+  },
+  "accessTokenNotFoundPleaseRelogin": "Access token not found. Please re-login.",
+  "@accessTokenNotFoundPleaseRelogin": {
+    "description": "Access token not found message"
+  },
+  "loginSuccessful": "Login successful!",
+  "@loginSuccessful": {
+    "description": "Login successful message"
+  },
+  "failedToVerifyMpinPleaseTryAgainLater": "Failed to verify mPIN. Please try again later.",
+  "@failedToVerifyMpinPleaseTryAgainLater": {
+    "description": "Failed to verify MPIN message"
+  },
+  "errorOccurredDuringMpinVerification": "An error occurred during mPIN verification: {error}",
+  "@errorOccurredDuringMpinVerification": {
+    "description": "MPIN verification error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "invalidMpin": "Invalid MPIN",
+  "@invalidMpin": {
+    "description": "Invalid MPIN dialog title"
+  },
+  "pleaseEnterCorrectMpin": "Please enter correct MPIN",
+  "@pleaseEnterCorrectMpin": {
+    "description": "Please enter correct MPIN message"
+  },
+  "setYourPin": "SET YOUR\nPIN",
+  "@setYourPin": {
+    "description": "Set your PIN title"
+  },
+  "enterNewMpin": "Enter New mPin",
+  "@enterNewMpin": {
+    "description": "Enter new MPIN label"
+  },
+  "enter4DigitMpin": "Enter 4-digit mPin",
+  "@enter4DigitMpin": {
+    "description": "Enter 4-digit MPIN hint"
+  },
+  "setPin": "SET PIN",
+  "@setPin": {
+    "description": "Set PIN button text"
+  },
+  "pleaseEnterValid4DigitPin": "Please enter a valid 4-digit PIN",
+  "@pleaseEnterValid4DigitPin": {
+    "description": "Please enter valid 4-digit PIN validation message"
+  },
+  "somethingWentWrongWithError": "Something went wrong: {error}",
+  "@somethingWentWrongWithError": {
+    "description": "Something went wrong error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "changeNewMpin": "Change New MPIN",
+  "@changeNewMpin": {
+    "description": "Change new MPIN title"
+  },
+  "enter4DigitPin": "Enter 4-digit PIN",
+  "@enter4DigitPin": {
+    "description": "Enter 4-digit PIN hint"
+  },
+  "errorWithPlaceholder": "Error: {error}",
+  "@errorWithPlaceholder": {
+    "description": "Error message with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "couldNotLaunchUrl": "Could not launch {url}",
+  "@couldNotLaunchUrl": {
+    "description": "Could not launch URL error message",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "single": "Single",
+  "@single": {
+    "description": "Single game type label"
+  },
+  "singlePanna": "Single Panna",
+  "@singlePanna": {
+    "description": "Single Panna game type label"
+  },
+  "doublePanna": "Double Panna",
+  "@doublePanna": {
+    "description": "Double Panna game type label"
+  },
+  "triplePanna": "Triple Panna",
+  "@triplePanna": {
+    "description": "Triple Panna game type label"
+  },
+  "gameWinRatioForAllBids": "Game Win Ratio for All Bids",
+  "@gameWinRatioForAllBids": {
+    "description": "Game win ratio section title"
+  },
+  "starlineWinRatioForAllBids": "Starline Win Ratio for All Bids",
+  "@starlineWinRatioForAllBids": {
+    "description": "Starline win ratio section title"
+  },
+  "jackpotWinRatio": "Jackpot Win Ratio",
+  "@jackpotWinRatio": {
+    "description": "Jackpot win ratio section title"
+  },
+  "rateFormat": "{label}: 10 Ka {value}",
+  "@rateFormat": {
+    "description": "Game rate format string",
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToLoadGameRates": "Failed to load game rates: {statusCode}",
+  "@failedToLoadGameRates": {
+    "description": "Failed to load game rates error message",
+    "placeholders": {
+      "statusCode": {
+        "type": "int"
+      }
+    }
+  },
+  "youCanWithdrawBetween": "You can withdraw between {startTime} and {endTime}.",
+  "@youCanWithdrawBetween": {
+    "description": "Withdrawal time window message",
+    "placeholders": {
+      "startTime": {
+        "type": "String"
+      },
+      "endTime": {
+        "type": "String"
+      }
+    }
+  },
+  "bidForJodiAddedSuccessfully": "Bid for Jodi {jodi} added successfully!",
+  "@bidForJodiAddedSuccessfully": {
+    "description": "Bid for Jodi added successfully message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "bidFailed": "Bid failed.",
+  "@bidFailed": {
+    "description": "Bid failed message"
+  },
+  "submitBid": "SUBMIT BID",
+  "@submitBid": {
+    "description": "Submit bid button text"
+  },
+  "totalBidsWithCount": "Total Bids:\n{count}",
+  "@totalBidsWithCount": {
+    "description": "Total bids label with count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "pleaseEnterAtLeastOneThreeDigitPanaNumber": "Please enter at least one 3-digit pana number.",
+  "@pleaseEnterAtLeastOneThreeDigitPanaNumber": {
+    "description": "Validation message for empty pana input"
+  },
+  "enterPanaNumberColon": "Enter Pana Number:",
+  "@enterPanaNumberColon": {
+    "description": "Enter pana number label"
+  },
+  "invalidPanaWithDigit": "Invalid pana: {digit}",
+  "@invalidPanaWithDigit": {
+    "description": "Invalid pana error message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "noValidPanasReturnedFromServer": "No valid panas returned from server.",
+  "@noValidPanasReturnedFromServer": {
+    "description": "No valid panas returned error"
+  },
+  "addedBidsCount": "Added {count} bid(s).",
+  "@addedBidsCount": {
+    "description": "Added bids success message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "removedPanaDigit": "Removed {digit}",
+  "@removedPanaDigit": {
+    "description": "Removed pana digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "networkErrorCheckInternet": "Network error. Please check your internet connection.",
+  "@networkErrorCheckInternet": {
+    "description": "Network error message for connection check"
+  },
+  "enterPanaExampleHint": "e.g., 123, 445",
+  "@enterPanaExampleHint": {
+    "description": "Hint text for pana input field"
+  },
+  "amountMustBeBetween10And10000": "Amount must be between 10 and 10000.",
+  "@amountMustBeBetween10And10000": {
+    "description": "Amount validation message for 10-10000 range"
+  },
+  "bidsAdded": "Bids added.",
+  "@bidsAdded": {
+    "description": "Bids added success message"
+  },
+  "addFailed": "Add failed",
+  "@addFailed": {
+    "description": "Add failed error message"
+  },
+  "removedDigit": "Removed {digit}",
+  "@removedDigit": {
+    "description": "Removed digit message",
+    "placeholders": {
+      "digit": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseAddSomeBidsFirst": "Please add some bids first.",
+  "@pleaseAddSomeBidsFirst": {
+    "description": "Please add bids first message"
+  },
+  "walletBalanceLow": "Wallet balance is low.",
+  "@walletBalanceLow": {
+    "description": "Wallet balance low message"
+  },
+  "noBidsAdded": "No Bids Added",
+  "@noBidsAdded": {
+    "description": "No bids added message"
+  },
+  "half": "Half",
+  "@half": {
+    "description": "Half bracket type label"
+  },
+  "full": "Full",
+  "@full": {
+    "description": "Full bracket type label"
+  },
+  "enterAmount": "Enter Amount",
+  "@enterAmount": {
+    "description": "Enter amount label"
+  },
+  "bidsColon": "Bids:",
+  "@bidsColon": {
+    "description": "Bids label with colon"
+  },
+  "totalColon": "Total:",
+  "@totalColon": {
+    "description": "Total label with colon"
+  },
+  "placeBidFailed": "Place bid failed",
+  "@placeBidFailed": {
+    "description": "Place bid failed error message"
+  },
+  "pleaseEnterValidNumberMinimum3Digits": "Please enter a valid number (minimum 3 digits).",
+  "@pleaseEnterValidNumberMinimum3Digits": {
+    "description": "Validation message for SP Motor number input"
+  },
+  "bidsAddedFromApi": "Bids added from API.",
+  "@bidsAddedFromApi": {
+    "description": "Bids added from API success message"
+  },
+  "requestFailed": "Request failed.",
+  "@requestFailed": {
+    "description": "Request failed error message"
+  },
+  "enterNumberHint": "Enter Number",
+  "@enterNumberHint": {
+    "description": "Hint text for number input field"
+  },
+  "pleaseEnterAllThreeDigits": "Please enter all three digits.",
+  "@pleaseEnterAllThreeDigits": {
+    "description": "Validation message for all three digits"
+  },
+  "eachDigitMustBeSingleNumber": "Each digit must be a single number (0-9).",
+  "@eachDigitMustBeSingleNumber": {
+    "description": "Validation message for single digit"
+  },
+  "pleaseSelectSPDPTP": "Please select SP, DP or TP.",
+  "@pleaseSelectSPDPTP": {
+    "description": "Please select category message"
+  },
+  "pleaseSelectOpenClose": "Please select OPEN/CLOSE.",
+  "@pleaseSelectOpenClose": {
+    "description": "Please select session message"
+  },
+  "spMustHave3UniqueDigits": "SP must have 3 unique digits.",
+  "@spMustHave3UniqueDigits": {
+    "description": "SP validation message"
+  },
+  "dpMustHaveExactlyTwoSameDigits": "DP must have exactly two same digits.",
+  "@dpMustHaveExactlyTwoSameDigits": {
+    "description": "DP validation message"
+  },
+  "tpMustHaveAll3DigitsSame": "TP must have all 3 digits same.",
+  "@tpMustHaveAll3DigitsSame": {
+    "description": "TP validation message"
+  },
+  "updatedPannaCategorySession": "Updated: {panna} ({category} {session})",
+  "@updatedPannaCategorySession": {
+    "description": "Updated panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "addedPannaCategorySession": "Added: {panna} ({category} {session})",
+  "@addedPannaCategorySession": {
+    "description": "Added panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "removedPannaCategorySession": "Removed: {panna} ({category} {session})",
+  "@removedPannaCategorySession": {
+    "description": "Removed panna message",
+    "placeholders": {
+      "panna": {
+        "type": "String"
+      },
+      "category": {
+        "type": "String"
+      },
+      "session": {
+        "type": "String"
+      }
+    }
+  },
+  "enterLeftDigit": "Enter Left Digit",
+  "@enterLeftDigit": {
+    "description": "Enter left digit label"
+  },
+  "enterMiddleDigit": "Enter Middle Digit",
+  "@enterMiddleDigit": {
+    "description": "Enter middle digit label"
+  },
+  "enterRightDigit": "Enter Right Digit",
+  "@enterRightDigit": {
+    "description": "Enter right digit label"
+  },
+  "panna": "Panna",
+  "@panna": {
+    "description": "Panna label"
+  },
+  "noBidsAddedYet": "No Bids Added Yet",
+  "@noBidsAddedYet": {
+    "description": "No bids added yet message"
+  },
+  "pleaseEnterValid2DigitJodi0099": "Please enter a valid 2-digit Jodi (00-99).",
+  "@pleaseEnterValid2DigitJodi0099": {
+    "description": "Validation message for 2-digit Jodi input"
+  },
+  "pointsMustBeAtLeast10": "Points must be at least 10.",
+  "@pointsMustBeAtLeast10": {
+    "description": "Points minimum validation message"
+  },
+  "jodisAddedSuccessfully": "Jodis added successfully!",
+  "@jodisAddedSuccessfully": {
+    "description": "Jodis added success message"
+  },
+  "removedJodi": "Removed {jodi}.",
+  "@removedJodi": {
+    "description": "Removed jodi message",
+    "placeholders": {
+      "jodi": {
+        "type": "String"
+      }
+    }
+  },
+  "noEntriesYetAddSomeData": "No entries yet. Add some data!",
+  "@noEntriesYetAddSomeData": {
+    "description": "No entries yet message"
+  },
+  "leftDigit": "Left Digit",
+  "@leftDigit": {
+    "description": "Left digit label"
+  },
+  "rightDigit": "Right Digit",
+  "@rightDigit": {
+    "description": "Right digit label"
+  },
+  "digits": "Digits",
+  "@digits": {
+    "description": "Digits label"
+  },
+  "twoDigitNumberDo0099": "Please enter a valid 2-digit number (00-99).",
+  "@twoDigitNumberDo0099": {
+    "description": "Validation message for 2-digit number input"
+  },
+  "points10Se10000KeBechMeDo": "Points must be between 10 and 10000.",
+  "@points10Se10000KeBechMeDo": {
+    "description": "Points validation message for 10-10000 range"
+  },
+  "authIssueDobaraLoginKaro": "Authentication error. Please log in again.",
+  "@authIssueDobaraLoginKaro": {
+    "description": "Authentication error message"
+  },
+  "is2DigitKeliyeKoiPanaNahiMila": "No pana found for this 2-digit number.",
+  "@is2DigitKeliyeKoiPanaNahiMila": {
+    "description": "No pana found message"
+  },
+  "walletMeItnePointsNahiHai": "Insufficient wallet balance.",
+  "@walletMeItnePointsNahiHai": {
+    "description": "Insufficient wallet balance message"
+  },
+  "panaAddHue": "{count} pana(s) added.",
+  "@panaAddHue": {
+    "description": "Pana added message",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "amountsUpdateHoGaye": "Amounts updated.",
+  "@amountsUpdateHoGaye": {
+    "description": "Amounts updated message"
+  },
+  "panaFetchFail": "Failed to fetch pana.",
+  "@panaFetchFail": {
+    "description": "Pana fetch failed message"
+  },
+  "networkErrorThodiDerBaadTryKaro": "Network error. Please try again later.",
+  "@networkErrorThodiDerBaadTryKaro": {
+    "description": "Network error message"
+  },
+  "panaRemoveHoGaya": "Pana {pana} removed.",
+  "@panaRemoveHoGaya": {
+    "description": "Pana removed message",
+    "placeholders": {
+      "pana": {
+        "type": "String"
+      }
+    }
+  },
+  "submitSePehleKuchPanaAddKaro": "Please add some pana before submitting.",
+  "@submitSePehleKuchPanaAddKaro": {
+    "description": "Please add pana before submit message"
+  },
+  "walletBalanceKamHai": "Wallet balance is low.",
+  "@walletBalanceKamHai": {
+    "description": "Wallet balance low message"
+  },
+  "twoDigitsPanel": "Two Digits Panel",
+  "@twoDigitsPanel": {
+    "description": "Two Digits Panel game type"
+  },
+  "enterTwoDigits": "Enter Two Digits:",
+  "@enterTwoDigits": {
+    "description": "Enter two digits label"
+  },
+  "bidDigits": "Bid Digits",
+  "@bidDigits": {
+    "description": "Bid digits hint text"
+  },
+  "enterAmount": "Enter Amount",
+  "@enterAmount": {
+    "description": "Enter amount hint text"
+  },
+  "sabBidsSuccessfullySubmitHoGaye": "All bids submitted successfully!",
+  "@sabBidsSuccessfullySubmitHoGaye": {
+    "description": "All bids submitted successfully message"
+  },
+  "bidSubmitFailHoGaya": "Bid submission failed.",
+  "@bidSubmitFailHoGaya": {
+    "description": "Bid submission failed message"
+  },
+  "pleaseEnterAmount": "Please enter an Amount.",
+  "@pleaseEnterAmount": {
+    "description": "Please enter amount message"
+  },
+  "unexpectedErrorDuringBidSubmission": "An unexpected error occurred during bid submission.",
+  "@unexpectedErrorDuringBidSubmission": {
+    "description": "Unexpected error during bid submission message"
+  },
+  "enterSingleDigit": "Enter Single Digit:",
+  "@enterSingleDigit": {
+    "description": "Enter single digit label"
+  },
+  "enterSingleDigitHint": "Enter Single Digit",
+  "@enterSingleDigitHint": {
+    "description": "Enter single digit hint text"
+  },
+  "errorColon": "Error:",
+  "@errorColon": {
+    "description": "Error label with colon"
+  },
+  "points10To1000KeBechDo": "Points must be between 10 and 1000.",
+  "@points10To1000KeBechDo": {
+    "description": "Points validation message for 10-1000 range"
+  },
+  "pleaseTryAgain": "Please try again.",
+  "@pleaseTryAgain": {
+    "description": "Please try again message"
+  },
+  "easyMode": "Easy Mode",
+  "@easyMode": {
+    "description": "Easy mode label"
+  },
+  "specialMode": "Special Mode",
+  "@specialMode": {
+    "description": "Special mode label"
+  },
+  "enterSinglePanna": "Enter Single Panna:",
+  "@enterSinglePanna": {
+    "description": "Enter single panna label"
+  },
+  "bidPanna": "Bid Panna",
+  "@bidPanna": {
+    "description": "Bid panna hint"
+  },
+  "totalPointsColon": "Total Points:",
+  "@totalPointsColon": {
+    "description": "Total points label with colon"
+  },
+  "biddingIsClosedForThisSlot": "Bidding is closed for this slot.",
+  "@biddingIsClosedForThisSlot": {
+    "description": "Bidding closed message"
+  },
+  "pleaseFillAllFields": "Please fill in all fields.",
+  "@pleaseFillAllFields": {
+    "description": "Fill all fields validation"
+  },
+  "pleaseEnterValidSinglePanna": "Please enter a valid Single Panna number.",
+  "@pleaseEnterValidSinglePanna": {
+    "description": "Valid single panna validation"
+  },
+  "updatedAmountForPanna": "Updated amount for Panna:",
+  "@updatedAmountForPanna": {
+    "description": "Updated amount message"
+  },
+  "addedBidPanna": "Added bid: Panna",
+  "@addedBidPanna": {
+    "description": "Added bid message"
+  },
+  "pleaseAddAtLeastOneBidToConfirm": "Please add at least one bid to confirm.",
+  "@pleaseAddAtLeastOneBidToConfirm": {
+    "description": "Add at least one bid message"
+  },
+  "insufficientWalletBalanceForAllBids": "Insufficient wallet balance for all bids.",
+  "@insufficientWalletBalanceForAllBids": {
+    "description": "Insufficient balance for all bids"
+  },
+  "noValidBidsForSelectedGameType": "No valid bids for the selected game type.",
+  "@noValidBidsForSelectedGameType": {
+    "description": "No valid bids message"
+  },
+  "and": "and",
+  "@and": {
+    "description": "And conjunction"
+  },
+  "enterYourMobileNumber": "ENTER YOUR MOBILE NUMBER",
+  "@enterYourMobileNumber": {
+    "description": "Enter your mobile number title"
+  },
+  "registerAndLogin": "Register & Login",
+  "@registerAndLogin": {
+    "description": "Register and login button text"
+  },
+  "username": "Username",
+  "@username": {
+    "description": "Username label/hint"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password label/hint"
+  },
+  "enterValidMobileNumber": "Enter valid mobile number",
+  "@enterValidMobileNumber": {
+    "description": "Enter valid mobile number validation message"
+  },
+  "createNewAccount": "CREATE NEW ACCOUNT",
+  "@createNewAccount": {
+    "description": "Create new account title"
+  }
+}
+
